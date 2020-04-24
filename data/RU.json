@@ -1,0 +1,507 @@
+{
+  "region": "Europe",
+  "iso": "RU",
+  "name": "Russian Federation",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Amurskaya oblast'",
+      "iso": "RU-AMU",
+      "subdivision": "administrative region",
+      "native": "Amurskaja oblast'"
+    },
+    {
+      "name": "Arkhangel'skaya oblast'",
+      "iso": "RU-ARK",
+      "subdivision": "administrative region",
+      "native": "Arhangel'skaja oblast'"
+    },
+    {
+      "name": "Astrakhanskaya oblast'",
+      "iso": "RU-AST",
+      "subdivision": "administrative region",
+      "native": "Astrahanskaja oblast'"
+    },
+    {
+      "name": "Belgorodskaya oblast'",
+      "iso": "RU-BEL",
+      "subdivision": "administrative region",
+      "native": "Belgorodskaja oblast'"
+    },
+    {
+      "name": "Bryanskaya oblast'",
+      "iso": "RU-BRY",
+      "subdivision": "administrative region",
+      "native": "Brjanskaja oblast'"
+    },
+    {
+      "name": "Chelyabinskaya oblast'",
+      "iso": "RU-CHE",
+      "subdivision": "administrative region",
+      "native": "?eljabinskaja oblast'"
+    },
+    {
+      "name": "Irkutskaya oblast'",
+      "iso": "RU-IRK",
+      "subdivision": "administrative region",
+      "native": "Irkutskaja oblast'"
+    },
+    {
+      "name": "Ivanovskaya oblast'",
+      "iso": "RU-IVA",
+      "subdivision": "administrative region",
+      "native": "Ivanovskaja oblast'"
+    },
+    {
+      "name": "Kaliningradskaya oblast'",
+      "iso": "RU-KGD",
+      "subdivision": "administrative region",
+      "native": "Kaliningradskaja oblast'"
+    },
+    {
+      "name": "Kaluzhskaya oblast'",
+      "iso": "RU-KLU",
+      "subdivision": "administrative region",
+      "native": "Kalu?skaja oblast'"
+    },
+    {
+      "name": "Kemerovskaya oblast'",
+      "iso": "RU-KEM",
+      "subdivision": "administrative region",
+      "native": "Kemerovskaja oblast'"
+    },
+    {
+      "name": "Kirovskaya oblast'",
+      "iso": "RU-KIR",
+      "subdivision": "administrative region",
+      "native": "Kirovskaja oblast'"
+    },
+    {
+      "name": "Kostromskaya oblast'",
+      "iso": "RU-KOS",
+      "subdivision": "administrative region",
+      "native": "Kostromskaja oblast'"
+    },
+    {
+      "name": "Kurganskaya oblast'",
+      "iso": "RU-KGN",
+      "subdivision": "administrative region",
+      "native": "Kurganskaja oblast'"
+    },
+    {
+      "name": "Kurskaya oblast'",
+      "iso": "RU-KRS",
+      "subdivision": "administrative region",
+      "native": "Kurskaja oblast'"
+    },
+    {
+      "name": "Leningradskaya oblast'",
+      "iso": "RU-LEN",
+      "subdivision": "administrative region",
+      "native": "Leningradskaja oblast'"
+    },
+    {
+      "name": "Lipetskaya oblast'",
+      "iso": "RU-LIP",
+      "subdivision": "administrative region",
+      "native": "Lipetskaja oblast'"
+    },
+    {
+      "name": "Magadanskaya oblast'",
+      "iso": "RU-MAG",
+      "subdivision": "administrative region",
+      "native": "Magadanskaja oblast'"
+    },
+    {
+      "name": "Moskovskaya oblast'",
+      "iso": "RU-MOS",
+      "subdivision": "administrative region",
+      "native": "Moskovskaja oblast'"
+    },
+    {
+      "name": "Murmanskaya oblast'",
+      "iso": "RU-MUR",
+      "subdivision": "administrative region",
+      "native": "Murmanskaja oblast'"
+    },
+    {
+      "name": "Nizhegorodskaya oblast'",
+      "iso": "RU-NIZ",
+      "subdivision": "administrative region",
+      "native": "Ni?egorodskaja oblast'"
+    },
+    {
+      "name": "Novgorodskaya oblast'",
+      "iso": "RU-NGR",
+      "subdivision": "administrative region",
+      "native": "Novgorodskaja oblast'"
+    },
+    {
+      "name": "Novosibirskaya oblast'",
+      "iso": "RU-NVS",
+      "subdivision": "administrative region",
+      "native": "Novosibirskaja oblast'"
+    },
+    {
+      "name": "Omskaya oblast'",
+      "iso": "RU-OMS",
+      "subdivision": "administrative region",
+      "native": "Omskaja oblast'"
+    },
+    {
+      "name": "Orenburgskaya oblast'",
+      "iso": "RU-ORE",
+      "subdivision": "administrative region",
+      "native": "Orenburgskaja oblast'"
+    },
+    {
+      "name": "Orlovskaya oblast'",
+      "iso": "RU-ORL",
+      "subdivision": "administrative region",
+      "native": "Orlovskaja oblast'"
+    },
+    {
+      "name": "Penzenskaya oblast'",
+      "iso": "RU-PNZ",
+      "subdivision": "administrative region",
+      "native": "Penzenskaja oblast'"
+    },
+    {
+      "name": "Pskovskaya oblast'",
+      "iso": "RU-PSK",
+      "subdivision": "administrative region",
+      "native": "Pskovskaja oblast'"
+    },
+    {
+      "name": "Rostovskaya oblast'",
+      "iso": "RU-ROS",
+      "subdivision": "administrative region",
+      "native": "Rostovskaja oblast'"
+    },
+    {
+      "name": "Ryazanskaya oblast'",
+      "iso": "RU-RYA",
+      "subdivision": "administrative region",
+      "native": "Rjazanskaja oblast'"
+    },
+    {
+      "name": "Sakhalinskaya oblast'",
+      "iso": "RU-SAK",
+      "subdivision": "administrative region",
+      "native": "Sahalinskaja oblast'"
+    },
+    {
+      "name": "Samarskaya oblast'",
+      "iso": "RU-SAM",
+      "subdivision": "administrative region",
+      "native": "Samarskaja oblast'"
+    },
+    {
+      "name": "Saratovskaya oblast'",
+      "iso": "RU-SAR",
+      "subdivision": "administrative region",
+      "native": "Saratovskaja oblast'"
+    },
+    {
+      "name": "Smolenskaya oblast'",
+      "iso": "RU-SMO",
+      "subdivision": "administrative region",
+      "native": "Smolenskaja oblast'"
+    },
+    {
+      "name": "Sverdlovskaya oblast'",
+      "iso": "RU-SVE",
+      "subdivision": "administrative region",
+      "native": "Sverdlovskaja oblast'"
+    },
+    {
+      "name": "Tambovskaya oblast'",
+      "iso": "RU-TAM",
+      "subdivision": "administrative region",
+      "native": "Tambovskaja oblast'"
+    },
+    {
+      "name": "Tomskaya oblast'",
+      "iso": "RU-TOM",
+      "subdivision": "administrative region",
+      "native": "Tomskaja oblast'"
+    },
+    {
+      "name": "Tul'skaya oblast'",
+      "iso": "RU-TUL",
+      "subdivision": "administrative region",
+      "native": "Tul'skaja oblast'"
+    },
+    {
+      "name": "Tverskaya oblast'",
+      "iso": "RU-TVE",
+      "subdivision": "administrative region",
+      "native": "Tverskaja oblast'"
+    },
+    {
+      "name": "Tyumenskaya oblast'",
+      "iso": "RU-TYU",
+      "subdivision": "administrative region",
+      "native": "Tjumenskaja oblast'"
+    },
+    {
+      "name": "Ul'yanovskaya oblast'",
+      "iso": "RU-ULY",
+      "subdivision": "administrative region",
+      "native": "Ul'janovskaja oblast'"
+    },
+    {
+      "name": "Vladimirskaya oblast'",
+      "iso": "RU-VLA",
+      "subdivision": "administrative region",
+      "native": "Vladimirskaja oblast'"
+    },
+    {
+      "name": "Volgogradskaya oblast'",
+      "iso": "RU-VGG",
+      "subdivision": "administrative region",
+      "native": "Volgogradskaja oblast'"
+    },
+    {
+      "name": "Vologodskaya oblast'",
+      "iso": "RU-VLG",
+      "subdivision": "administrative region",
+      "native": "Vologodskaja oblast'"
+    },
+    {
+      "name": "Voronezhskaya oblast'",
+      "iso": "RU-VOR",
+      "subdivision": "administrative region",
+      "native": "Vorone?skaja oblast'"
+    },
+    {
+      "name": "Yaroslavskaya oblast'",
+      "iso": "RU-YAR",
+      "subdivision": "administrative region",
+      "native": "Jaroslavskaja oblast'"
+    },
+    {
+      "name": "Altayskiy kray",
+      "iso": "RU-ALT",
+      "subdivision": "administrative territory",
+      "native": "Altajskij kraj"
+    },
+    {
+      "name": "Kamchatskiy kray",
+      "iso": "RU-KAM",
+      "subdivision": "administrative territory",
+      "native": "Kam?atskij kraj"
+    },
+    {
+      "name": "Khabarovskiy kray",
+      "iso": "RU-KHA",
+      "subdivision": "administrative territory",
+      "native": "Habarovskij kraj"
+    },
+    {
+      "name": "Krasnodarskiy kray",
+      "iso": "RU-KDA",
+      "subdivision": "administrative territory",
+      "native": "Krasnodarskij kraj"
+    },
+    {
+      "name": "Krasnoyarskiy kray",
+      "iso": "RU-KYA",
+      "subdivision": "administrative territory",
+      "native": "Krasnojarskij kraj"
+    },
+    {
+      "name": "Permskiy kray",
+      "iso": "RU-PER",
+      "subdivision": "administrative territory",
+      "native": "Permskij kraj"
+    },
+    {
+      "name": "Primorskiy kray",
+      "iso": "RU-PRI",
+      "subdivision": "administrative territory",
+      "native": "Primorskij kraj"
+    },
+    {
+      "name": "Stavropol'skiy kray",
+      "iso": "RU-STA",
+      "subdivision": "administrative territory",
+      "native": "Stavropol'skij kraj"
+    },
+    {
+      "name": "Zabaykal'skiy kray",
+      "iso": "RU-ZAB",
+      "subdivision": "administrative territory",
+      "native": "Zabajkal'skij kraj"
+    },
+    {
+      "name": "Moskva",
+      "iso": "RU-MOW",
+      "subdivision": "autonomous city",
+      "native": "Moskva"
+    },
+    {
+      "name": "Sankt-Peterburg",
+      "iso": "RU-SPE",
+      "subdivision": "autonomous city",
+      "native": "Sankt-Peterburg"
+    },
+    {
+      "name": "Chukotskiy avtonomnyy okrug",
+      "iso": "RU-CHU",
+      "subdivision": "autonomous district",
+      "native": "?ukotskij avtonomnyj okrug"
+    },
+    {
+      "name": "Khanty-Mansiyskiy avtonomnyy okrug-Yugra",
+      "iso": "RU-KHM",
+      "subdivision": "autonomous district",
+      "native": "Hanty-Mansijskij avtonomnyj okrug-Jugra"
+    },
+    {
+      "name": "Nenetskiy avtonomnyy okrug",
+      "iso": "RU-NEN",
+      "subdivision": "autonomous district",
+      "native": "Nenetskij avtonomnyj okrug"
+    },
+    {
+      "name": "Yamalo-Nenetskiy avtonomnyy okrug",
+      "iso": "RU-YAN",
+      "subdivision": "autonomous district",
+      "native": "Jamalo-Nenetskij avtonomnyj okrug"
+    },
+    {
+      "name": "Yevreyskaya avtonomnaya oblast'",
+      "iso": "RU-YEV",
+      "subdivision": "autonomous region",
+      "native": "Evrejskaja avtonomnaja oblast'"
+    },
+    {
+      "name": "Adygeya, Respublika",
+      "iso": "RU-AD",
+      "subdivision": "republic",
+      "native": "Adygeja, Respublika"
+    },
+    {
+      "name": "Altay, Respublika",
+      "iso": "RU-AL",
+      "subdivision": "republic",
+      "native": "Altaj, Respublika"
+    },
+    {
+      "name": "Bashkortostan, Respublika",
+      "iso": "RU-BA",
+      "subdivision": "republic",
+      "native": "Ba?kortostan, Respublika"
+    },
+    {
+      "name": "Buryatiya, Respublika",
+      "iso": "RU-BU",
+      "subdivision": "republic",
+      "native": "Burjatija, Respublika"
+    },
+    {
+      "name": "Chechenskaya Respublika",
+      "iso": "RU-CE",
+      "subdivision": "republic",
+      "native": "?e?enskaja Respublika"
+    },
+    {
+      "name": "Chuvashskaya Respublika",
+      "iso": "RU-CU",
+      "subdivision": "republic",
+      "native": "?uva?skaja Respublika"
+    },
+    {
+      "name": "Dagestan, Respublika",
+      "iso": "RU-DA",
+      "subdivision": "republic",
+      "native": "Dagestan, Respublika"
+    },
+    {
+      "name": "Ingushetiya, Respublika",
+      "iso": "RU-IN",
+      "subdivision": "republic",
+      "native": "Ingu?etija, Respublika"
+    },
+    {
+      "name": "Kabardino-Balkarskaya Respublika",
+      "iso": "RU-KB",
+      "subdivision": "republic",
+      "native": "Kabardino-Balkarskaja Respublika"
+    },
+    {
+      "name": "Kalmykiya, Respublika",
+      "iso": "RU-KL",
+      "subdivision": "republic",
+      "native": "Kalmykija, Respublika"
+    },
+    {
+      "name": "Karachayevo-Cherkesskaya Respublika",
+      "iso": "RU-KC",
+      "subdivision": "republic",
+      "native": "Kara?ajevo-?erkesskaja Respublika"
+    },
+    {
+      "name": "Kareliya, Respublika",
+      "iso": "RU-KR",
+      "subdivision": "republic",
+      "native": "Karelija, Respublika"
+    },
+    {
+      "name": "Khakasiya, Respublika",
+      "iso": "RU-KK",
+      "subdivision": "republic",
+      "native": "Hakasija, Respublika"
+    },
+    {
+      "name": "Komi, Respublika",
+      "iso": "RU-KO",
+      "subdivision": "republic",
+      "native": "Komi, Respublika"
+    },
+    {
+      "name": "Mariy El, Respublika",
+      "iso": "RU-ME",
+      "subdivision": "republic",
+      "native": "Marij ?l, Respublika"
+    },
+    {
+      "name": "Mordoviya, Respublika",
+      "iso": "RU-MO",
+      "subdivision": "republic",
+      "native": "Mordovija, Respublika"
+    },
+    {
+      "name": "Sakha, Respublika",
+      "iso": "RU-SA",
+      "subdivision": "republic",
+      "native": "Saha, Respublika"
+    },
+    {
+      "name": "Severnaya Osetiya-Alaniya, Respublika",
+      "iso": "RU-SE",
+      "subdivision": "republic",
+      "native": "Severnaja Osetija-Alanija, Respublika"
+    },
+    {
+      "name": "Tatarstan, Respublika",
+      "iso": "RU-TA",
+      "subdivision": "republic",
+      "native": "Tatarstan, Respublika"
+    },
+    {
+      "name": "Tyva, Respublika",
+      "iso": "RU-TY",
+      "subdivision": "republic",
+      "native": "Tyva, Respublika"
+    },
+    {
+      "name": "Udmurtskaya Respublika",
+      "iso": "RU-UD",
+      "subdivision": "republic",
+      "native": "Udmurtskaja Respublika"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

@@ -1,0 +1,73 @@
+{
+  "region": "Asia",
+  "iso": "PS",
+  "name": "Palestine, State of",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Bethlehem",
+      "iso": "PS-BTH"
+    },
+    {
+      "name": "Deir El Balah",
+      "iso": "PS-DEB"
+    },
+    {
+      "name": "Gaza",
+      "iso": "PS-GZA"
+    },
+    {
+      "name": "Hebron",
+      "iso": "PS-HBN"
+    },
+    {
+      "name": "Jenin",
+      "iso": "PS-JEN"
+    },
+    {
+      "name": "Jericho � Al Aghwar",
+      "iso": "PS-JRH"
+    },
+    {
+      "name": "Jerusalem",
+      "iso": "PS-JEM"
+    },
+    {
+      "name": "Khan Yunis",
+      "iso": "PS-KYS"
+    },
+    {
+      "name": "Nablus",
+      "iso": "PS-NBS"
+    },
+    {
+      "name": "North Gaza",
+      "iso": "PS-NGZ"
+    },
+    {
+      "name": "Qalqilya",
+      "iso": "PS-QQA"
+    },
+    {
+      "name": "Rafah",
+      "iso": "PS-RFH"
+    },
+    {
+      "name": "Ramallah",
+      "iso": "PS-RBH"
+    },
+    {
+      "name": "Salfit",
+      "iso": "PS-SLT"
+    },
+    {
+      "name": "Tubas",
+      "iso": "PS-TBS"
+    },
+    {
+      "name": "Tulkarm",
+      "iso": "PS-TKM"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

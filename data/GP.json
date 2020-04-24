@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "GP",
+  "name": "Guadeloupe",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^((971)[0-9][0-0])$"
+}

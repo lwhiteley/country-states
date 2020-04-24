@@ -1,0 +1,41 @@
+{
+  "region": "Asia",
+  "iso": "KG",
+  "name": "Kyrgyzstan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Batken",
+      "iso": "KG-B"
+    },
+    {
+      "name": "Bishkek",
+      "iso": "KG-GB"
+    },
+    {
+      "name": "Ch?",
+      "iso": "KG-C"
+    },
+    {
+      "name": "Jalal-Abad",
+      "iso": "KG-J"
+    },
+    {
+      "name": "Naryn",
+      "iso": "KG-N"
+    },
+    {
+      "name": "Osh",
+      "iso": "KG-O"
+    },
+    {
+      "name": "Talas",
+      "iso": "KG-T"
+    },
+    {
+      "name": "Ysyk-K?l",
+      "iso": "KG-Y"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

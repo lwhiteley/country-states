@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "VC",
+  "name": "Saint Vincent and the Grenadines",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "(VC)(\\d{4})"
+}

@@ -1,0 +1,77 @@
+{
+  "region": "Asia",
+  "iso": "PH",
+  "name": "Philippines",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Autonomous Region in Muslim Mindanao",
+      "iso": "PH-14"
+    },
+    {
+      "name": "Bicol",
+      "iso": "PH-05"
+    },
+    {
+      "name": "Cagayan Valley",
+      "iso": "PH-02"
+    },
+    {
+      "name": "Calabarzon",
+      "iso": "PH-40"
+    },
+    {
+      "name": "Caraga",
+      "iso": "PH-13"
+    },
+    {
+      "name": "Central Luzon",
+      "iso": "PH-03"
+    },
+    {
+      "name": "Central Visayas",
+      "iso": "PH-07"
+    },
+    {
+      "name": "Cordillera Administrative Region",
+      "iso": "PH-15"
+    },
+    {
+      "name": "Davao",
+      "iso": "PH-11"
+    },
+    {
+      "name": "Eastern Visayas",
+      "iso": "PH-08"
+    },
+    {
+      "name": "Ilocos",
+      "iso": "PH-01"
+    },
+    {
+      "name": "Mimaropa",
+      "iso": "PH-41"
+    },
+    {
+      "name": "National Capital Region",
+      "iso": "PH-00"
+    },
+    {
+      "name": "Northern Mindanao",
+      "iso": "PH-10"
+    },
+    {
+      "name": "Soccsksargen",
+      "iso": "PH-12"
+    },
+    {
+      "name": "Western Visayas",
+      "iso": "PH-06"
+    },
+    {
+      "name": "Zamboanga Peninsula",
+      "iso": "PH-09"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

@@ -1,0 +1,109 @@
+{
+  "region": "Africa",
+  "iso": "SC",
+  "name": "Seychelles",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Anse Boileau",
+      "iso": "SC-02"
+    },
+    {
+      "name": "Anse Etoile",
+      "iso": "SC-03"
+    },
+    {
+      "name": "Anse Royale",
+      "iso": "SC-05"
+    },
+    {
+      "name": "Anse aux Pins",
+      "iso": "SC-01"
+    },
+    {
+      "name": "Au Cap",
+      "iso": "SC-04"
+    },
+    {
+      "name": "Baie Lazare",
+      "iso": "SC-06"
+    },
+    {
+      "name": "Baie Sainte Anne",
+      "iso": "SC-07"
+    },
+    {
+      "name": "Beau Vallon",
+      "iso": "SC-08"
+    },
+    {
+      "name": "Bel Air",
+      "iso": "SC-09"
+    },
+    {
+      "name": "Bel Ombre",
+      "iso": "SC-10"
+    },
+    {
+      "name": "Cascade",
+      "iso": "SC-11"
+    },
+    {
+      "name": "English River",
+      "iso": "SC-16"
+    },
+    {
+      "name": "Glacis",
+      "iso": "SC-12"
+    },
+    {
+      "name": "Grand Anse Mahe",
+      "iso": "SC-13"
+    },
+    {
+      "name": "Grand Anse Praslin",
+      "iso": "SC-14"
+    },
+    {
+      "name": "La Digue",
+      "iso": "SC-15"
+    },
+    {
+      "name": "Les Mamelles",
+      "iso": "SC-24"
+    },
+    {
+      "name": "Mont Buxton",
+      "iso": "SC-17"
+    },
+    {
+      "name": "Mont Fleuri",
+      "iso": "SC-18"
+    },
+    {
+      "name": "Plaisance",
+      "iso": "SC-19"
+    },
+    {
+      "name": "Pointe Larue",
+      "iso": "SC-20"
+    },
+    {
+      "name": "Port Glaud",
+      "iso": "SC-21"
+    },
+    {
+      "name": "Roche Caiman",
+      "iso": "SC-25"
+    },
+    {
+      "name": "Saint Louis",
+      "iso": "SC-22"
+    },
+    {
+      "name": "Takamaka",
+      "iso": "SC-23"
+    }
+  ],
+  "zipRegex": ""
+}

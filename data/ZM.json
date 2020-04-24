@@ -1,0 +1,45 @@
+{
+  "region": "Africa",
+  "iso": "ZM",
+  "name": "Zambia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Central",
+      "iso": "ZM-02"
+    },
+    {
+      "name": "Copperbelt",
+      "iso": "ZM-08"
+    },
+    {
+      "name": "Eastern",
+      "iso": "ZM-03"
+    },
+    {
+      "name": "Luapula",
+      "iso": "ZM-04"
+    },
+    {
+      "name": "Lusaka",
+      "iso": "ZM-09"
+    },
+    {
+      "name": "North-Western",
+      "iso": "ZM-06"
+    },
+    {
+      "name": "Northern",
+      "iso": "ZM-05"
+    },
+    {
+      "name": "Southern",
+      "iso": "ZM-07"
+    },
+    {
+      "name": "Western",
+      "iso": "ZM-01"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

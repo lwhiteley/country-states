@@ -1,0 +1,33 @@
+{
+  "region": "Africa",
+  "iso": "DJ",
+  "name": "Djibouti",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Ali Sabieh",
+      "iso": "DJ-AS"
+    },
+    {
+      "name": "Arta",
+      "iso": "DJ-AR"
+    },
+    {
+      "name": "Dikhil",
+      "iso": "DJ-DI"
+    },
+    {
+      "name": "Djibouti",
+      "iso": "DJ-DJ"
+    },
+    {
+      "name": "Obock",
+      "iso": "DJ-OB"
+    },
+    {
+      "name": "Tadjourah",
+      "iso": "DJ-TA"
+    }
+  ],
+  "zipRegex": ""
+}

@@ -1,0 +1,105 @@
+{
+  "region": "Asia",
+  "iso": "KH",
+  "name": "Cambodia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Baat Dambang",
+      "iso": "KH-2"
+    },
+    {
+      "name": "Banteay Mean Chey",
+      "iso": "KH-1"
+    },
+    {
+      "name": "Kampong Chaam",
+      "iso": "KH-3"
+    },
+    {
+      "name": "Kampong Chhnang",
+      "iso": "KH-4"
+    },
+    {
+      "name": "Kampong Spueu",
+      "iso": "KH-5"
+    },
+    {
+      "name": "Kampong Thum",
+      "iso": "KH-6"
+    },
+    {
+      "name": "Kampot",
+      "iso": "KH-7"
+    },
+    {
+      "name": "Kandaal",
+      "iso": "KH-8"
+    },
+    {
+      "name": "Kaoh Kong",
+      "iso": "KH-9"
+    },
+    {
+      "name": "Kracheh",
+      "iso": "KH-10"
+    },
+    {
+      "name": "Krong Kaeb",
+      "iso": "KH-23"
+    },
+    {
+      "name": "Krong Pailin",
+      "iso": "KH-24"
+    },
+    {
+      "name": "Krong Preah Sihanouk",
+      "iso": "KH-18"
+    },
+    {
+      "name": "Mondol Kiri",
+      "iso": "KH-11"
+    },
+    {
+      "name": "Otdar Mean Chey",
+      "iso": "KH-22"
+    },
+    {
+      "name": "Phnom Penh",
+      "iso": "KH-12"
+    },
+    {
+      "name": "Pousaat",
+      "iso": "KH-15"
+    },
+    {
+      "name": "Preah Vihear",
+      "iso": "KH-13"
+    },
+    {
+      "name": "Prey Veaeng",
+      "iso": "KH-14"
+    },
+    {
+      "name": "Rotanak Kiri",
+      "iso": "KH-16"
+    },
+    {
+      "name": "Siem Reab",
+      "iso": "KH-17"
+    },
+    {
+      "name": "Stueng Traeng",
+      "iso": "KH-19"
+    },
+    {
+      "name": "Svaay Rieng",
+      "iso": "KH-20"
+    },
+    {
+      "name": "Taakaev",
+      "iso": "KH-21"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

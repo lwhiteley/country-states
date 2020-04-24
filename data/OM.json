@@ -1,0 +1,45 @@
+{
+  "region": "Asia",
+  "iso": "OM",
+  "name": "Oman",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ad D?khil?yah",
+      "iso": "OM-DA"
+    },
+    {
+      "name": "Al Buraym?",
+      "iso": "OM-BU"
+    },
+    {
+      "name": "Al B??inah",
+      "iso": "OM-BA"
+    },
+    {
+      "name": "Al Wus??",
+      "iso": "OM-WU"
+    },
+    {
+      "name": "Ash Sharq?yah",
+      "iso": "OM-SH"
+    },
+    {
+      "name": "Az? Z??hirah",
+      "iso": "OM-ZA"
+    },
+    {
+      "name": "Masqa?",
+      "iso": "OM-MA"
+    },
+    {
+      "name": "Musandam",
+      "iso": "OM-MU"
+    },
+    {
+      "name": "Z?uf?r",
+      "iso": "OM-ZU"
+    }
+  ],
+  "zipRegex": "^(\\d{3})$"
+}

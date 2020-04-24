@@ -1,0 +1,65 @@
+{
+  "region": "Europe",
+  "iso": "CZ",
+  "name": "Czech Republic",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Jihomoravsk? kraj",
+      "iso": "CZ-JM"
+    },
+    {
+      "name": "Jiho?esk? kraj",
+      "iso": "CZ-JC"
+    },
+    {
+      "name": "Karlovarsk? kraj",
+      "iso": "CZ-KA"
+    },
+    {
+      "name": "Kr?lov?hradeck? kraj",
+      "iso": "CZ-KR"
+    },
+    {
+      "name": "Libereck? kraj",
+      "iso": "CZ-LI"
+    },
+    {
+      "name": "Moravskoslezsk? kraj",
+      "iso": "CZ-MO"
+    },
+    {
+      "name": "Olomouck? kraj",
+      "iso": "CZ-OL"
+    },
+    {
+      "name": "Pardubick? kraj",
+      "iso": "CZ-PA"
+    },
+    {
+      "name": "Plze?sk? kraj",
+      "iso": "CZ-PL"
+    },
+    {
+      "name": "Praha, hlavn? m?sto",
+      "iso": "CZ-PR"
+    },
+    {
+      "name": "St?edo?esk? kraj",
+      "iso": "CZ-ST"
+    },
+    {
+      "name": "Vyso?ina",
+      "iso": "CZ-VY"
+    },
+    {
+      "name": "Zl?nsk? kraj",
+      "iso": "CZ-ZL"
+    },
+    {
+      "name": "?steck? kraj",
+      "iso": "CZ-US"
+    }
+  ],
+  "zipRegex": "^[0-9]{3} [0-9]{2}$"
+}

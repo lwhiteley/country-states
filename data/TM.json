@@ -1,0 +1,33 @@
+{
+  "region": "Asia",
+  "iso": "TM",
+  "name": "Turkmenistan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ahal",
+      "iso": "TM-A"
+    },
+    {
+      "name": "A?gabat",
+      "iso": "TM-S"
+    },
+    {
+      "name": "Balkan",
+      "iso": "TM-B"
+    },
+    {
+      "name": "Da?oguz",
+      "iso": "TM-D"
+    },
+    {
+      "name": "Lebap",
+      "iso": "TM-L"
+    },
+    {
+      "name": "Mary",
+      "iso": "TM-M"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

@@ -1,0 +1,8 @@
+{
+  "region": "Europe",
+  "iso": "VA",
+  "name": "Holy See (Vatican City State)",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": -120
+}

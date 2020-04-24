@@ -1,0 +1,21 @@
+{
+  "region": "Europe",
+  "iso": "BE",
+  "name": "Belgium",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Brussels Hoofdstedelijk Gewest",
+      "iso": "BE-BRU"
+    },
+    {
+      "name": "R?gion Wallonne",
+      "iso": "BE-WAL"
+    },
+    {
+      "name": "Vlaams Gewest",
+      "iso": "BE-VLG"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

@@ -1,0 +1,141 @@
+{
+  "region": "Americas",
+  "iso": "CO",
+  "name": "Colombia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Amazonas",
+      "iso": "CO-AMA"
+    },
+    {
+      "name": "Antioquia",
+      "iso": "CO-ANT"
+    },
+    {
+      "name": "Arauca",
+      "iso": "CO-ARA"
+    },
+    {
+      "name": "Atl?ntico",
+      "iso": "CO-ATL"
+    },
+    {
+      "name": "Bol?var",
+      "iso": "CO-BOL"
+    },
+    {
+      "name": "Boyac?",
+      "iso": "CO-BOY"
+    },
+    {
+      "name": "Caldas",
+      "iso": "CO-CAL"
+    },
+    {
+      "name": "Caquet?",
+      "iso": "CO-CAQ"
+    },
+    {
+      "name": "Casanare",
+      "iso": "CO-CAS"
+    },
+    {
+      "name": "Cauca",
+      "iso": "CO-CAU"
+    },
+    {
+      "name": "Cesar",
+      "iso": "CO-CES"
+    },
+    {
+      "name": "Choc?",
+      "iso": "CO-CHO"
+    },
+    {
+      "name": "Cundinamarca",
+      "iso": "CO-CUN"
+    },
+    {
+      "name": "C?rdoba",
+      "iso": "CO-COR"
+    },
+    {
+      "name": "Distrito Capital de Bogot?",
+      "iso": "CO-DC"
+    },
+    {
+      "name": "Guain?a",
+      "iso": "CO-GUA"
+    },
+    {
+      "name": "Guaviare",
+      "iso": "CO-GUV"
+    },
+    {
+      "name": "Huila",
+      "iso": "CO-HUI"
+    },
+    {
+      "name": "La Guajira",
+      "iso": "CO-LAG"
+    },
+    {
+      "name": "Magdalena",
+      "iso": "CO-MAG"
+    },
+    {
+      "name": "Meta",
+      "iso": "CO-MET"
+    },
+    {
+      "name": "Nari?o",
+      "iso": "CO-NAR"
+    },
+    {
+      "name": "Norte de Santander",
+      "iso": "CO-NSA"
+    },
+    {
+      "name": "Putumayo",
+      "iso": "CO-PUT"
+    },
+    {
+      "name": "Quind?o",
+      "iso": "CO-QUI"
+    },
+    {
+      "name": "Risaralda",
+      "iso": "CO-RIS"
+    },
+    {
+      "name": "San Andr?s, Providencia y Santa Catalina",
+      "iso": "CO-SAP"
+    },
+    {
+      "name": "Santander",
+      "iso": "CO-SAN"
+    },
+    {
+      "name": "Sucre",
+      "iso": "CO-SUC"
+    },
+    {
+      "name": "Tolima",
+      "iso": "CO-TOL"
+    },
+    {
+      "name": "Valle del Cauca",
+      "iso": "CO-VAC"
+    },
+    {
+      "name": "Vaup?s",
+      "iso": "CO-VAU"
+    },
+    {
+      "name": "Vichada",
+      "iso": "CO-VID"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

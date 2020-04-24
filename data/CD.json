@@ -1,0 +1,53 @@
+{
+  "region": "Africa",
+  "iso": "CD",
+  "name": "Congo, the Democratic Republic of the",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Bandundu",
+      "iso": "CD-BN"
+    },
+    {
+      "name": "Bas-Congo",
+      "iso": "CD-BC"
+    },
+    {
+      "name": "Kasai-Occidental",
+      "iso": "CD-KW"
+    },
+    {
+      "name": "Kasai-Oriental",
+      "iso": "CD-KE"
+    },
+    {
+      "name": "Katanga",
+      "iso": "CD-KA"
+    },
+    {
+      "name": "Kinshasa",
+      "iso": "CD-KN"
+    },
+    {
+      "name": "Maniema",
+      "iso": "CD-MA"
+    },
+    {
+      "name": "Nord-Kivu",
+      "iso": "CD-NK"
+    },
+    {
+      "name": "Orientale",
+      "iso": "CD-OR"
+    },
+    {
+      "name": "Sud-Kivu",
+      "iso": "CD-SK"
+    },
+    {
+      "name": "?quateur",
+      "iso": "CD-EQ"
+    }
+  ],
+  "zipRegex": ""
+}

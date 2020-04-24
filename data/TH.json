@@ -1,0 +1,321 @@
+{
+  "region": "Asia",
+  "iso": "TH",
+  "name": "Thailand",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Amnat Charoen",
+      "iso": "TH-37"
+    },
+    {
+      "name": "Ang Thong",
+      "iso": "TH-15"
+    },
+    {
+      "name": "Bueng Kan",
+      "iso": "TH-38"
+    },
+    {
+      "name": "Buri Ram",
+      "iso": "TH-31"
+    },
+    {
+      "name": "Chachoengsao",
+      "iso": "TH-24"
+    },
+    {
+      "name": "Chai Nat",
+      "iso": "TH-18"
+    },
+    {
+      "name": "Chaiyaphum",
+      "iso": "TH-36"
+    },
+    {
+      "name": "Chanthaburi",
+      "iso": "TH-22"
+    },
+    {
+      "name": "Chiang Mai",
+      "iso": "TH-50"
+    },
+    {
+      "name": "Chiang Rai",
+      "iso": "TH-57"
+    },
+    {
+      "name": "Chon Buri",
+      "iso": "TH-20"
+    },
+    {
+      "name": "Chumphon",
+      "iso": "TH-86"
+    },
+    {
+      "name": "Kalasin",
+      "iso": "TH-46"
+    },
+    {
+      "name": "Kamphaeng Phet",
+      "iso": "TH-62"
+    },
+    {
+      "name": "Kanchanaburi",
+      "iso": "TH-71"
+    },
+    {
+      "name": "Khon Kaen",
+      "iso": "TH-40"
+    },
+    {
+      "name": "Krabi",
+      "iso": "TH-81"
+    },
+    {
+      "name": "Krung Thep Maha Nakhon",
+      "iso": "TH-10"
+    },
+    {
+      "name": "Lampang",
+      "iso": "TH-52"
+    },
+    {
+      "name": "Lamphun",
+      "iso": "TH-51"
+    },
+    {
+      "name": "Loei",
+      "iso": "TH-42"
+    },
+    {
+      "name": "Lop Buri",
+      "iso": "TH-16"
+    },
+    {
+      "name": "Mae Hong Son",
+      "iso": "TH-58"
+    },
+    {
+      "name": "Maha Sarakham",
+      "iso": "TH-44"
+    },
+    {
+      "name": "Mukdahan",
+      "iso": "TH-49"
+    },
+    {
+      "name": "Nakhon Nayok",
+      "iso": "TH-26"
+    },
+    {
+      "name": "Nakhon Pathom",
+      "iso": "TH-73"
+    },
+    {
+      "name": "Nakhon Phanom",
+      "iso": "TH-48"
+    },
+    {
+      "name": "Nakhon Ratchasima",
+      "iso": "TH-30"
+    },
+    {
+      "name": "Nakhon Sawan",
+      "iso": "TH-60"
+    },
+    {
+      "name": "Nakhon Si Thammarat",
+      "iso": "TH-80"
+    },
+    {
+      "name": "Nan",
+      "iso": "TH-55"
+    },
+    {
+      "name": "Narathiwat",
+      "iso": "TH-96"
+    },
+    {
+      "name": "Nong Bua Lam Phu",
+      "iso": "TH-39"
+    },
+    {
+      "name": "Nong Khai",
+      "iso": "TH-43"
+    },
+    {
+      "name": "Nonthaburi",
+      "iso": "TH-12"
+    },
+    {
+      "name": "Pathum Thani",
+      "iso": "TH-13"
+    },
+    {
+      "name": "Pattani",
+      "iso": "TH-94"
+    },
+    {
+      "name": "Phangnga",
+      "iso": "TH-82"
+    },
+    {
+      "name": "Phatthalung",
+      "iso": "TH-93"
+    },
+    {
+      "name": "Phatthaya",
+      "iso": "TH-S"
+    },
+    {
+      "name": "Phayao",
+      "iso": "TH-56"
+    },
+    {
+      "name": "Phetchabun",
+      "iso": "TH-67"
+    },
+    {
+      "name": "Phetchaburi",
+      "iso": "TH-76"
+    },
+    {
+      "name": "Phichit",
+      "iso": "TH-66"
+    },
+    {
+      "name": "Phitsanulok",
+      "iso": "TH-65"
+    },
+    {
+      "name": "Phra Nakhon Si Ayutthaya",
+      "iso": "TH-14"
+    },
+    {
+      "name": "Phrae",
+      "iso": "TH-54"
+    },
+    {
+      "name": "Phuket",
+      "iso": "TH-83"
+    },
+    {
+      "name": "Prachin Buri",
+      "iso": "TH-25"
+    },
+    {
+      "name": "Prachuap Khiri Khan",
+      "iso": "TH-77"
+    },
+    {
+      "name": "Ranong",
+      "iso": "TH-85"
+    },
+    {
+      "name": "Ratchaburi",
+      "iso": "TH-70"
+    },
+    {
+      "name": "Rayong",
+      "iso": "TH-21"
+    },
+    {
+      "name": "Roi Et",
+      "iso": "TH-45"
+    },
+    {
+      "name": "Sa Kaeo",
+      "iso": "TH-27"
+    },
+    {
+      "name": "Sakon Nakhon",
+      "iso": "TH-47"
+    },
+    {
+      "name": "Samut Prakan",
+      "iso": "TH-11"
+    },
+    {
+      "name": "Samut Sakhon",
+      "iso": "TH-74"
+    },
+    {
+      "name": "Samut Songkhram",
+      "iso": "TH-75"
+    },
+    {
+      "name": "Saraburi",
+      "iso": "TH-19"
+    },
+    {
+      "name": "Satun",
+      "iso": "TH-91"
+    },
+    {
+      "name": "Si Sa Ket",
+      "iso": "TH-33"
+    },
+    {
+      "name": "Sing Buri",
+      "iso": "TH-17"
+    },
+    {
+      "name": "Songkhla",
+      "iso": "TH-90"
+    },
+    {
+      "name": "Sukhothai",
+      "iso": "TH-64"
+    },
+    {
+      "name": "Suphan Buri",
+      "iso": "TH-72"
+    },
+    {
+      "name": "Surat Thani",
+      "iso": "TH-84"
+    },
+    {
+      "name": "Surin",
+      "iso": "TH-32"
+    },
+    {
+      "name": "Tak",
+      "iso": "TH-63"
+    },
+    {
+      "name": "Trang",
+      "iso": "TH-92"
+    },
+    {
+      "name": "Trat",
+      "iso": "TH-23"
+    },
+    {
+      "name": "Ubon Ratchathani",
+      "iso": "TH-34"
+    },
+    {
+      "name": "Udon Thani",
+      "iso": "TH-41"
+    },
+    {
+      "name": "Uthai Thani",
+      "iso": "TH-61"
+    },
+    {
+      "name": "Uttaradit",
+      "iso": "TH-53"
+    },
+    {
+      "name": "Yala",
+      "iso": "TH-95"
+    },
+    {
+      "name": "Yasothon",
+      "iso": "TH-35"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

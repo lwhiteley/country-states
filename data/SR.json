@@ -1,0 +1,49 @@
+{
+  "region": "Americas",
+  "iso": "SR",
+  "name": "Suriname",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Brokopondo",
+      "iso": "SR-BR"
+    },
+    {
+      "name": "Commewijne",
+      "iso": "SR-CM"
+    },
+    {
+      "name": "Coronie",
+      "iso": "SR-CR"
+    },
+    {
+      "name": "Marowijne",
+      "iso": "SR-MA"
+    },
+    {
+      "name": "Nickerie",
+      "iso": "SR-NI"
+    },
+    {
+      "name": "Para",
+      "iso": "SR-PR"
+    },
+    {
+      "name": "Paramaribo",
+      "iso": "SR-PM"
+    },
+    {
+      "name": "Saramacca",
+      "iso": "SR-SA"
+    },
+    {
+      "name": "Sipaliwini",
+      "iso": "SR-SI"
+    },
+    {
+      "name": "Wanica",
+      "iso": "SR-WA"
+    }
+  ],
+  "zipRegex": ""
+}

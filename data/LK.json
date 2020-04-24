@@ -1,0 +1,45 @@
+{
+  "region": "Asia",
+  "iso": "LK",
+  "name": "Sri Lanka",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Central Province",
+      "iso": "LK-2"
+    },
+    {
+      "name": "Eastern Province",
+      "iso": "LK-5"
+    },
+    {
+      "name": "North Central Province",
+      "iso": "LK-7"
+    },
+    {
+      "name": "North Western Province",
+      "iso": "LK-6"
+    },
+    {
+      "name": "Northern Province",
+      "iso": "LK-4"
+    },
+    {
+      "name": "Sabaragamuwa Province",
+      "iso": "LK-9"
+    },
+    {
+      "name": "Southern Province",
+      "iso": "LK-3"
+    },
+    {
+      "name": "Uva Province",
+      "iso": "LK-8"
+    },
+    {
+      "name": "Western Province",
+      "iso": "LK-1"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

@@ -1,0 +1,41 @@
+{
+  "region": "Africa",
+  "iso": "KE",
+  "name": "Kenya",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Central",
+      "iso": "KE-200"
+    },
+    {
+      "name": "Coast",
+      "iso": "KE-300"
+    },
+    {
+      "name": "Eastern",
+      "iso": "KE-400"
+    },
+    {
+      "name": "Nairobi",
+      "iso": "KE-110"
+    },
+    {
+      "name": "North-Eastern",
+      "iso": "KE-500"
+    },
+    {
+      "name": "Nyanza",
+      "iso": "KE-600"
+    },
+    {
+      "name": "Rift Valley",
+      "iso": "KE-700"
+    },
+    {
+      "name": "Western",
+      "iso": "KE-800"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

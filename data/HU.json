@@ -1,0 +1,181 @@
+{
+  "region": "Europe",
+  "iso": "HU",
+  "name": "Hungary",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Baranya",
+      "iso": "HU-BA"
+    },
+    {
+      "name": "Borsod-Aba?j-Zempl?n",
+      "iso": "HU-BZ"
+    },
+    {
+      "name": "Budapest",
+      "iso": "HU-BU"
+    },
+    {
+      "name": "B?cs-Kiskun",
+      "iso": "HU-BK"
+    },
+    {
+      "name": "B?k?s",
+      "iso": "HU-BE"
+    },
+    {
+      "name": "B?k?scsaba",
+      "iso": "HU-BC"
+    },
+    {
+      "name": "Csongr?d",
+      "iso": "HU-CS"
+    },
+    {
+      "name": "Debrecen",
+      "iso": "HU-DE"
+    },
+    {
+      "name": "Duna?jv?ros",
+      "iso": "HU-DU"
+    },
+    {
+      "name": "Eger",
+      "iso": "HU-EG"
+    },
+    {
+      "name": "Fej?r",
+      "iso": "HU-FE"
+    },
+    {
+      "name": "Gy?r",
+      "iso": "HU-GY"
+    },
+    {
+      "name": "Gy?r-Moson-Sopron",
+      "iso": "HU-GS"
+    },
+    {
+      "name": "Hajd?-Bihar",
+      "iso": "HU-HB"
+    },
+    {
+      "name": "Heves",
+      "iso": "HU-HE"
+    },
+    {
+      "name": "H?dmez?v?s?rhely",
+      "iso": "HU-HV"
+    },
+    {
+      "name": "J?sz-Nagykun-Szolnok",
+      "iso": "HU-JN"
+    },
+    {
+      "name": "Kaposv?r",
+      "iso": "HU-KV"
+    },
+    {
+      "name": "Kecskem?t",
+      "iso": "HU-KM"
+    },
+    {
+      "name": "Kom?rom-Esztergom",
+      "iso": "HU-KE"
+    },
+    {
+      "name": "Miskolc",
+      "iso": "HU-MI"
+    },
+    {
+      "name": "Nagykanizsa",
+      "iso": "HU-NK"
+    },
+    {
+      "name": "Ny?regyh?za",
+      "iso": "HU-NY"
+    },
+    {
+      "name": "N?gr?d",
+      "iso": "HU-NO"
+    },
+    {
+      "name": "Pest",
+      "iso": "HU-PE"
+    },
+    {
+      "name": "P?cs",
+      "iso": "HU-PS"
+    },
+    {
+      "name": "Salg?tarj?n",
+      "iso": "HU-ST"
+    },
+    {
+      "name": "Somogy",
+      "iso": "HU-SO"
+    },
+    {
+      "name": "Sopron",
+      "iso": "HU-SN"
+    },
+    {
+      "name": "Szabolcs-Szatm?r-Bereg",
+      "iso": "HU-SZ"
+    },
+    {
+      "name": "Szeged",
+      "iso": "HU-SD"
+    },
+    {
+      "name": "Szeksz?rd",
+      "iso": "HU-SS"
+    },
+    {
+      "name": "Szolnok",
+      "iso": "HU-SK"
+    },
+    {
+      "name": "Szombathely",
+      "iso": "HU-SH"
+    },
+    {
+      "name": "Sz?kesfeh?rv?r",
+      "iso": "HU-SF"
+    },
+    {
+      "name": "Tatab?nya",
+      "iso": "HU-TB"
+    },
+    {
+      "name": "Tolna",
+      "iso": "HU-TO"
+    },
+    {
+      "name": "Vas",
+      "iso": "HU-VA"
+    },
+    {
+      "name": "Veszpr?m",
+      "iso": "HU-VE"
+    },
+    {
+      "name": "Veszpr?m",
+      "iso": "HU-VM"
+    },
+    {
+      "name": "Zala",
+      "iso": "HU-ZA"
+    },
+    {
+      "name": "Zalaegerszeg",
+      "iso": "HU-ZE"
+    },
+    {
+      "name": "?rd",
+      "iso": "HU-ER"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

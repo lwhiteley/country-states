@@ -1,0 +1,29 @@
+{
+  "region": "Europe",
+  "iso": "DK",
+  "name": "Denmark",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Hovedstaden",
+      "iso": "DK-84"
+    },
+    {
+      "name": "Midtjylland",
+      "iso": "DK-82"
+    },
+    {
+      "name": "Nordjylland",
+      "iso": "DK-81"
+    },
+    {
+      "name": "Sj?lland",
+      "iso": "DK-85"
+    },
+    {
+      "name": "Syddanmark",
+      "iso": "DK-83"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

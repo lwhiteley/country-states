@@ -1,0 +1,73 @@
+{
+  "region": "Europe",
+  "iso": "PL",
+  "name": "Poland",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Dolno?l?skie",
+      "iso": "PL-DS"
+    },
+    {
+      "name": "Kujawsko-pomorskie",
+      "iso": "PL-KP"
+    },
+    {
+      "name": "Lubelskie",
+      "iso": "PL-LU"
+    },
+    {
+      "name": "Lubuskie",
+      "iso": "PL-LB"
+    },
+    {
+      "name": "Mazowieckie",
+      "iso": "PL-MZ"
+    },
+    {
+      "name": "Ma?opolskie",
+      "iso": "PL-MA"
+    },
+    {
+      "name": "Opolskie",
+      "iso": "PL-OP"
+    },
+    {
+      "name": "Podkarpackie",
+      "iso": "PL-PK"
+    },
+    {
+      "name": "Podlaskie",
+      "iso": "PL-PD"
+    },
+    {
+      "name": "Pomorskie",
+      "iso": "PL-PM"
+    },
+    {
+      "name": "Warmi?sko-mazurskie",
+      "iso": "PL-WN"
+    },
+    {
+      "name": "Wielkopolskie",
+      "iso": "PL-WP"
+    },
+    {
+      "name": "Zachodniopomorskie",
+      "iso": "PL-ZP"
+    },
+    {
+      "name": "??dzkie",
+      "iso": "PL-LD"
+    },
+    {
+      "name": "?l?skie",
+      "iso": "PL-SL"
+    },
+    {
+      "name": "?wi?tokrzyskie",
+      "iso": "PL-SK"
+    }
+  ],
+  "zipRegex": "^[0-9]{2}[-]([0-9]){3}$"
+}

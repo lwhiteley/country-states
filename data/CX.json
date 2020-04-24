@@ -1,0 +1,8 @@
+{
+  "region": "Oceania",
+  "iso": "CX",
+  "name": "Christmas Island",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(6978)$"
+}

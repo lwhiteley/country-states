@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "CW",
+  "name": "Curaçao",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(0000 CW)$"
+}

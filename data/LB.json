@@ -1,0 +1,41 @@
+{
+  "region": "Asia",
+  "iso": "LB",
+  "name": "Lebanon",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Aakk?r",
+      "iso": "LB-AK"
+    },
+    {
+      "name": "Baalbek-Hermel",
+      "iso": "LB-BH"
+    },
+    {
+      "name": "Beyrouth",
+      "iso": "LB-BA"
+    },
+    {
+      "name": "B?qaa",
+      "iso": "LB-BI"
+    },
+    {
+      "name": "Liban-Nord",
+      "iso": "LB-AS"
+    },
+    {
+      "name": "Liban-Sud",
+      "iso": "LB-JA"
+    },
+    {
+      "name": "Mont-Liban",
+      "iso": "LB-JL"
+    },
+    {
+      "name": "Nabat?y?",
+      "iso": "LB-NA"
+    }
+  ],
+  "zipRegex": "^(\\d{4}(\\d{4})?)$"
+}

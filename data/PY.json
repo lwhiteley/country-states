@@ -1,0 +1,81 @@
+{
+  "region": "Americas",
+  "iso": "PY",
+  "name": "Paraguay",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Alto Paraguay",
+      "iso": "PY-16"
+    },
+    {
+      "name": "Alto Paran?",
+      "iso": "PY-10"
+    },
+    {
+      "name": "Amambay",
+      "iso": "PY-13"
+    },
+    {
+      "name": "Asunci?n",
+      "iso": "PY-ASU"
+    },
+    {
+      "name": "Boquer?n",
+      "iso": "PY-19"
+    },
+    {
+      "name": "Caaguaz?",
+      "iso": "PY-5"
+    },
+    {
+      "name": "Caazap?",
+      "iso": "PY-6"
+    },
+    {
+      "name": "Canindey?",
+      "iso": "PY-14"
+    },
+    {
+      "name": "Central",
+      "iso": "PY-11"
+    },
+    {
+      "name": "Concepci?n",
+      "iso": "PY-1"
+    },
+    {
+      "name": "Cordillera",
+      "iso": "PY-3"
+    },
+    {
+      "name": "Guair?",
+      "iso": "PY-4"
+    },
+    {
+      "name": "Itap?a",
+      "iso": "PY-7"
+    },
+    {
+      "name": "Misiones",
+      "iso": "PY-8"
+    },
+    {
+      "name": "Paraguar?",
+      "iso": "PY-9"
+    },
+    {
+      "name": "Presidente Hayes",
+      "iso": "PY-15"
+    },
+    {
+      "name": "San Pedro",
+      "iso": "PY-2"
+    },
+    {
+      "name": "?eembuc?",
+      "iso": "PY-12"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

@@ -1,0 +1,101 @@
+{
+  "region": "Europe",
+  "iso": "ME",
+  "name": "Montenegro",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Andrijevica",
+      "iso": "ME-01"
+    },
+    {
+      "name": "Bar",
+      "iso": "ME-02"
+    },
+    {
+      "name": "Berane",
+      "iso": "ME-03"
+    },
+    {
+      "name": "Bijelo Polje",
+      "iso": "ME-04"
+    },
+    {
+      "name": "Budva",
+      "iso": "ME-05"
+    },
+    {
+      "name": "Cetinje",
+      "iso": "ME-06"
+    },
+    {
+      "name": "Danilovgrad",
+      "iso": "ME-07"
+    },
+    {
+      "name": "Gusinje",
+      "iso": "ME-22"
+    },
+    {
+      "name": "Herceg-Novi",
+      "iso": "ME-08"
+    },
+    {
+      "name": "Kola?in",
+      "iso": "ME-09"
+    },
+    {
+      "name": "Kotor",
+      "iso": "ME-10"
+    },
+    {
+      "name": "Mojkovac",
+      "iso": "ME-11"
+    },
+    {
+      "name": "Nik?i?",
+      "iso": "ME-12"
+    },
+    {
+      "name": "Petnjica",
+      "iso": "ME-23"
+    },
+    {
+      "name": "Plav",
+      "iso": "ME-13"
+    },
+    {
+      "name": "Pljevlja",
+      "iso": "ME-14"
+    },
+    {
+      "name": "Plu?ine",
+      "iso": "ME-15"
+    },
+    {
+      "name": "Podgorica",
+      "iso": "ME-16"
+    },
+    {
+      "name": "Ro?aje",
+      "iso": "ME-17"
+    },
+    {
+      "name": "Tivat",
+      "iso": "ME-19"
+    },
+    {
+      "name": "Ulcinj",
+      "iso": "ME-20"
+    },
+    {
+      "name": "?avnik",
+      "iso": "ME-18"
+    },
+    {
+      "name": "?abljak",
+      "iso": "ME-21"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

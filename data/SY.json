@@ -1,0 +1,65 @@
+{
+  "region": "Asia",
+  "iso": "SY",
+  "name": "Syrian Arab Republic",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Al L?dhiq?yah",
+      "iso": "SY-LA"
+    },
+    {
+      "name": "Al Qunay?irah",
+      "iso": "SY-QU"
+    },
+    {
+      "name": "Al ?asakah",
+      "iso": "SY-HA"
+    },
+    {
+      "name": "Ar Raqqah",
+      "iso": "SY-RA"
+    },
+    {
+      "name": "As Suwayd?'",
+      "iso": "SY-SU"
+    },
+    {
+      "name": "Dar??",
+      "iso": "SY-DR"
+    },
+    {
+      "name": "Dayr az Zawr",
+      "iso": "SY-DY"
+    },
+    {
+      "name": "Dimashq",
+      "iso": "SY-DI"
+    },
+    {
+      "name": "Idlib",
+      "iso": "SY-ID"
+    },
+    {
+      "name": "R?f Dimashq",
+      "iso": "SY-RD"
+    },
+    {
+      "name": "?ar??s",
+      "iso": "SY-TA"
+    },
+    {
+      "name": "?alab",
+      "iso": "SY-HL"
+    },
+    {
+      "name": "?am?h",
+      "iso": "SY-HM"
+    },
+    {
+      "name": "?im?",
+      "iso": "SY-HI"
+    }
+  ],
+  "zipRegex": ""
+}

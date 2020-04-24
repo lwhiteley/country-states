@@ -1,0 +1,89 @@
+{
+  "region": "Europe",
+  "iso": "IT",
+  "name": "Italy",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Abruzzo",
+      "iso": "IT-65"
+    },
+    {
+      "name": "Basilicata",
+      "iso": "IT-77"
+    },
+    {
+      "name": "Calabria",
+      "iso": "IT-78"
+    },
+    {
+      "name": "Campania",
+      "iso": "IT-72"
+    },
+    {
+      "name": "Emilia-Romagna",
+      "iso": "IT-45"
+    },
+    {
+      "name": "Friuli-Venezia Giulia",
+      "iso": "IT-36"
+    },
+    {
+      "name": "Lazio",
+      "iso": "IT-62"
+    },
+    {
+      "name": "Liguria",
+      "iso": "IT-42"
+    },
+    {
+      "name": "Lombardia",
+      "iso": "IT-25"
+    },
+    {
+      "name": "Marche",
+      "iso": "IT-57"
+    },
+    {
+      "name": "Molise",
+      "iso": "IT-67"
+    },
+    {
+      "name": "Piemonte",
+      "iso": "IT-21"
+    },
+    {
+      "name": "Puglia",
+      "iso": "IT-75"
+    },
+    {
+      "name": "Sardegna",
+      "iso": "IT-88"
+    },
+    {
+      "name": "Sicilia",
+      "iso": "IT-82"
+    },
+    {
+      "name": "Toscana",
+      "iso": "IT-52"
+    },
+    {
+      "name": "Trentino-Alto Adige",
+      "iso": "IT-32"
+    },
+    {
+      "name": "Umbria",
+      "iso": "IT-55"
+    },
+    {
+      "name": "Valle d'Aosta",
+      "iso": "IT-23"
+    },
+    {
+      "name": "Veneto",
+      "iso": "IT-34"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

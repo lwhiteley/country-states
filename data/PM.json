@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "PM",
+  "name": "Saint Pierre and Miquelon",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(\\d{5})$"
+}

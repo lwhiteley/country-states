@@ -1,0 +1,53 @@
+{
+  "region": "Asia",
+  "iso": "KP",
+  "name": "Korea, Democratic People's Republic of",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Chagang",
+      "iso": "KP-04"
+    },
+    {
+      "name": "Kangwon",
+      "iso": "KP-07"
+    },
+    {
+      "name": "North Hamgyong",
+      "iso": "KP-09"
+    },
+    {
+      "name": "North Hwanghae",
+      "iso": "KP-06"
+    },
+    {
+      "name": "North Pyongan",
+      "iso": "KP-03"
+    },
+    {
+      "name": "Pyongyang",
+      "iso": "KP-01"
+    },
+    {
+      "name": "Rason",
+      "iso": "KP-13"
+    },
+    {
+      "name": "Ryanggang",
+      "iso": "KP-10"
+    },
+    {
+      "name": "South Hamgyong",
+      "iso": "KP-08"
+    },
+    {
+      "name": "South Hwanghae",
+      "iso": "KP-05"
+    },
+    {
+      "name": "South Pyongan",
+      "iso": "KP-02"
+    }
+  ],
+  "zipRegex": ""
+}

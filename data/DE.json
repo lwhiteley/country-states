@@ -1,0 +1,73 @@
+{
+  "region": "Europe",
+  "iso": "DE",
+  "name": "Germany",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Baden-Württemberg",
+      "iso": "DE-BW"
+    },
+    {
+      "name": "Bayern",
+      "iso": "DE-BY"
+    },
+    {
+      "name": "Berlin",
+      "iso": "DE-BE"
+    },
+    {
+      "name": "Brandenburg",
+      "iso": "DE-BB"
+    },
+    {
+      "name": "Bremen",
+      "iso": "DE-HB"
+    },
+    {
+      "name": "Hamburg",
+      "iso": "DE-HH"
+    },
+    {
+      "name": "Hessen",
+      "iso": "DE-HE"
+    },
+    {
+      "name": "Mecklenburg-Vorpommern",
+      "iso": "DE-MV"
+    },
+    {
+      "name": "Niedersachsen",
+      "iso": "DE-NI"
+    },
+    {
+      "name": "Nordrhein-Westfalen",
+      "iso": "DE-NW"
+    },
+    {
+      "name": "Rheinland-Pfalz",
+      "iso": "DE-RP"
+    },
+    {
+      "name": "Saarland",
+      "iso": "DE-SL"
+    },
+    {
+      "name": "Sachsen",
+      "iso": "DE-SN"
+    },
+    {
+      "name": "Sachsen-Anhalt",
+      "iso": "DE-ST"
+    },
+    {
+      "name": "Schleswig-Holstein",
+      "iso": "DE-SH"
+    },
+    {
+      "name": "Thüringen",
+      "iso": "DE-TH"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

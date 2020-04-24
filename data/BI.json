@@ -1,0 +1,77 @@
+{
+  "region": "Africa",
+  "iso": "BI",
+  "name": "Burundi",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Bubanza",
+      "iso": "BI-BB"
+    },
+    {
+      "name": "Bujumbura Mairie",
+      "iso": "BI-BM"
+    },
+    {
+      "name": "Bujumbura Rural",
+      "iso": "BI-BL"
+    },
+    {
+      "name": "Bururi",
+      "iso": "BI-BR"
+    },
+    {
+      "name": "Cankuzo",
+      "iso": "BI-CA"
+    },
+    {
+      "name": "Cibitoke",
+      "iso": "BI-CI"
+    },
+    {
+      "name": "Gitega",
+      "iso": "BI-GI"
+    },
+    {
+      "name": "Karuzi",
+      "iso": "BI-KR"
+    },
+    {
+      "name": "Kayanza",
+      "iso": "BI-KY"
+    },
+    {
+      "name": "Kirundo",
+      "iso": "BI-KI"
+    },
+    {
+      "name": "Makamba",
+      "iso": "BI-MA"
+    },
+    {
+      "name": "Muramvya",
+      "iso": "BI-MU"
+    },
+    {
+      "name": "Muyinga",
+      "iso": "BI-MY"
+    },
+    {
+      "name": "Mwaro",
+      "iso": "BI-MW"
+    },
+    {
+      "name": "Ngozi",
+      "iso": "BI-NG"
+    },
+    {
+      "name": "Rutana",
+      "iso": "BI-RT"
+    },
+    {
+      "name": "Ruyigi",
+      "iso": "BI-RY"
+    }
+  ],
+  "zipRegex": ""
+}

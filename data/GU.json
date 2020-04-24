@@ -1,0 +1,8 @@
+{
+  "region": "Oceania",
+  "iso": "GU",
+  "name": "Guam",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^((969)[1-3][0-2])$"
+}

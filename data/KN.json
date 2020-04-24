@@ -1,0 +1,17 @@
+{
+  "region": "Americas",
+  "iso": "KN",
+  "name": "Saint Kitts and Nevis",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Nevis",
+      "iso": "KN-N"
+    },
+    {
+      "name": "Saint Kitts",
+      "iso": "KN-K"
+    }
+  ],
+  "zipRegex": ""
+}

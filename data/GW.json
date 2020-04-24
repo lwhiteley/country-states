@@ -1,0 +1,21 @@
+{
+  "region": "Africa",
+  "iso": "GW",
+  "name": "Guinea-Bissau",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Leste",
+      "iso": "GW-L"
+    },
+    {
+      "name": "Norte",
+      "iso": "GW-N"
+    },
+    {
+      "name": "Sul",
+      "iso": "GW-S"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

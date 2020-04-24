@@ -1,0 +1,65 @@
+{
+  "region": "Americas",
+  "iso": "JM",
+  "name": "Jamaica",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Clarendon",
+      "iso": "JM-13"
+    },
+    {
+      "name": "Hanover",
+      "iso": "JM-09"
+    },
+    {
+      "name": "Kingston",
+      "iso": "JM-01"
+    },
+    {
+      "name": "Manchester",
+      "iso": "JM-12"
+    },
+    {
+      "name": "Portland",
+      "iso": "JM-04"
+    },
+    {
+      "name": "Saint Andrew",
+      "iso": "JM-02"
+    },
+    {
+      "name": "Saint Ann",
+      "iso": "JM-06"
+    },
+    {
+      "name": "Saint Catherine",
+      "iso": "JM-14"
+    },
+    {
+      "name": "Saint Elizabeth",
+      "iso": "JM-11"
+    },
+    {
+      "name": "Saint James",
+      "iso": "JM-08"
+    },
+    {
+      "name": "Saint Mary",
+      "iso": "JM-05"
+    },
+    {
+      "name": "Saint Thomas",
+      "iso": "JM-03"
+    },
+    {
+      "name": "Trelawny",
+      "iso": "JM-07"
+    },
+    {
+      "name": "Westmoreland",
+      "iso": "JM-10"
+    }
+  ],
+  "zipRegex": "^((JM)[A-Z]{3,3}\\d{2,2})$"
+}

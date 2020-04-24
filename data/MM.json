@@ -1,0 +1,65 @@
+{
+  "region": "Asia",
+  "iso": "MM",
+  "name": "Myanmar",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ayeyarwady",
+      "iso": "MM-07"
+    },
+    {
+      "name": "Bago",
+      "iso": "MM-02"
+    },
+    {
+      "name": "Chin",
+      "iso": "MM-14"
+    },
+    {
+      "name": "Kachin",
+      "iso": "MM-11"
+    },
+    {
+      "name": "Kayah",
+      "iso": "MM-12"
+    },
+    {
+      "name": "Kayin",
+      "iso": "MM-13"
+    },
+    {
+      "name": "Magway",
+      "iso": "MM-03"
+    },
+    {
+      "name": "Mandalay",
+      "iso": "MM-04"
+    },
+    {
+      "name": "Mon",
+      "iso": "MM-15"
+    },
+    {
+      "name": "Rakhine",
+      "iso": "MM-16"
+    },
+    {
+      "name": "Sagaing",
+      "iso": "MM-01"
+    },
+    {
+      "name": "Shan",
+      "iso": "MM-17"
+    },
+    {
+      "name": "Tanintharyi",
+      "iso": "MM-05"
+    },
+    {
+      "name": "Yangon",
+      "iso": "MM-06"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

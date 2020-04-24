@@ -1,0 +1,8 @@
+{
+  "region": "Oceania",
+  "iso": "PF",
+  "name": "French Polynesia",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^((987)\\d{2})$"
+}

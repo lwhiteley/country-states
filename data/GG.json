@@ -1,0 +1,8 @@
+{
+  "region": "Europe",
+  "iso": "GG",
+  "name": "Guernsey",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "((GY)([0-9][0-9A-HJKPS-UW]?|[A-HK-Y][0-9][0-9ABEHMNPRV-Y]?) [0-9][ABD-HJLNP-UW-Z]{2})"
+}

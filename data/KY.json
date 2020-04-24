@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "KY",
+  "name": "Cayman Islands",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^[K][Y][0-9]{1}[-]([0-9]){4}$"
+}

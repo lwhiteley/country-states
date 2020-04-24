@@ -1,0 +1,53 @@
+{
+  "region": "Africa",
+  "iso": "MZ",
+  "name": "Mozambique",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Cabo Delgado",
+      "iso": "MZ-P"
+    },
+    {
+      "name": "Gaza",
+      "iso": "MZ-G"
+    },
+    {
+      "name": "Inhambane",
+      "iso": "MZ-I"
+    },
+    {
+      "name": "Manica",
+      "iso": "MZ-B"
+    },
+    {
+      "name": "Maputo",
+      "iso": "MZ-MPM"
+    },
+    {
+      "name": "Maputo",
+      "iso": "MZ-L"
+    },
+    {
+      "name": "Nampula",
+      "iso": "MZ-N"
+    },
+    {
+      "name": "Niassa",
+      "iso": "MZ-A"
+    },
+    {
+      "name": "Sofala",
+      "iso": "MZ-S"
+    },
+    {
+      "name": "Tete",
+      "iso": "MZ-T"
+    },
+    {
+      "name": "Zamb?zia",
+      "iso": "MZ-Q"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

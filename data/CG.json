@@ -1,0 +1,57 @@
+{
+  "region": "Africa",
+  "iso": "CG",
+  "name": "Congo",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Bouenza",
+      "iso": "CG-11"
+    },
+    {
+      "name": "Brazzaville",
+      "iso": "CG-BZV"
+    },
+    {
+      "name": "Cuvette",
+      "iso": "CG-8"
+    },
+    {
+      "name": "Cuvette-Ouest",
+      "iso": "CG-15"
+    },
+    {
+      "name": "Kouilou",
+      "iso": "CG-5"
+    },
+    {
+      "name": "Likouala",
+      "iso": "CG-7"
+    },
+    {
+      "name": "L?koumou",
+      "iso": "CG-2"
+    },
+    {
+      "name": "Niari",
+      "iso": "CG-9"
+    },
+    {
+      "name": "Plateaux",
+      "iso": "CG-14"
+    },
+    {
+      "name": "Pointe-Noire",
+      "iso": "CG-16"
+    },
+    {
+      "name": "Pool",
+      "iso": "CG-12"
+    },
+    {
+      "name": "Sangha",
+      "iso": "CG-13"
+    }
+  ],
+  "zipRegex": ""
+}

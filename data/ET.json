@@ -1,0 +1,53 @@
+{
+  "region": "Africa",
+  "iso": "ET",
+  "name": "Ethiopia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "B?nshangul Gumuz",
+      "iso": "ET-BE"
+    },
+    {
+      "name": "Dir? Dawa",
+      "iso": "ET-DD"
+    },
+    {
+      "name": "Gamb?la Hizboch",
+      "iso": "ET-GA"
+    },
+    {
+      "name": "H?rer? Hizb",
+      "iso": "ET-HA"
+    },
+    {
+      "name": "Orom?ya",
+      "iso": "ET-OR"
+    },
+    {
+      "name": "Sumal?",
+      "iso": "ET-SO"
+    },
+    {
+      "name": "Tigray",
+      "iso": "ET-TI"
+    },
+    {
+      "name": "YeDebub Bih?roch Bih?reseboch na Hizboch",
+      "iso": "ET-SN"
+    },
+    {
+      "name": "?d?s ?beba",
+      "iso": "ET-AA"
+    },
+    {
+      "name": "?far",
+      "iso": "ET-AF"
+    },
+    {
+      "name": "?mara",
+      "iso": "ET-AM"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

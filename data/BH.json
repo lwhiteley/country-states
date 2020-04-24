@@ -1,0 +1,29 @@
+{
+  "region": "Asia",
+  "iso": "BH",
+  "name": "Bahrain",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Al Jan?b?yah",
+      "iso": "BH-14"
+    },
+    {
+      "name": "Al Man?mah",
+      "iso": "BH-13"
+    },
+    {
+      "name": "Al Mu?arraq",
+      "iso": "BH-15"
+    },
+    {
+      "name": "Al Wus??",
+      "iso": "BH-16"
+    },
+    {
+      "name": "Ash Sham?l?yah",
+      "iso": "BH-17"
+    }
+  ],
+  "zipRegex": "^(\\d{3}\\d?)$"
+}

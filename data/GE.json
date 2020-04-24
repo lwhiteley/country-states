@@ -1,0 +1,57 @@
+{
+  "region": "Asia",
+  "iso": "GE",
+  "name": "Georgia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Abkhazia",
+      "iso": "GE-AB"
+    },
+    {
+      "name": "Ajaria",
+      "iso": "GE-AJ"
+    },
+    {
+      "name": "Guria",
+      "iso": "GE-GU"
+    },
+    {
+      "name": "Imereti",
+      "iso": "GE-IM"
+    },
+    {
+      "name": "K'akheti",
+      "iso": "GE-KA"
+    },
+    {
+      "name": "Kvemo Kartli",
+      "iso": "GE-KK"
+    },
+    {
+      "name": "Mtskheta-Mtianeti",
+      "iso": "GE-MM"
+    },
+    {
+      "name": "Rach'a-Lechkhumi-Kvemo Svaneti",
+      "iso": "GE-RL"
+    },
+    {
+      "name": "Samegrelo-Zemo Svaneti",
+      "iso": "GE-SZ"
+    },
+    {
+      "name": "Samtskhe-Javakheti",
+      "iso": "GE-SJ"
+    },
+    {
+      "name": "Shida Kartli",
+      "iso": "GE-SK"
+    },
+    {
+      "name": "Tbilisi",
+      "iso": "GE-TB"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

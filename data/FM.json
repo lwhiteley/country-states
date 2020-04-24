@@ -1,0 +1,25 @@
+{
+  "region": "Oceania",
+  "iso": "FM",
+  "name": "Micronesia, Federated States of",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Chuuk",
+      "iso": "FM-TRK"
+    },
+    {
+      "name": "Kosrae",
+      "iso": "FM-KSA"
+    },
+    {
+      "name": "Pohnpei",
+      "iso": "FM-PNI"
+    },
+    {
+      "name": "Yap",
+      "iso": "FM-YAP"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

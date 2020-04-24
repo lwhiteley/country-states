@@ -1,0 +1,8 @@
+{
+  "region": "Oceania",
+  "iso": "MP",
+  "name": "Northern Mariana Islands",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(\\d{5})$"
+}

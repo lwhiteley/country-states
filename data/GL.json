@@ -1,0 +1,25 @@
+{
+  "region": "Americas",
+  "iso": "GL",
+  "name": "Greenland",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Kommune Kujalleq",
+      "iso": "GL-KU"
+    },
+    {
+      "name": "Kommuneqarfik Sermersooq",
+      "iso": "GL-SM"
+    },
+    {
+      "name": "Qaasuitsup Kommunia",
+      "iso": "GL-QA"
+    },
+    {
+      "name": "Qeqqata Kommunia",
+      "iso": "GL-QE"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

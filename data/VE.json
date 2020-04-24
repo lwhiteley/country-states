@@ -1,0 +1,109 @@
+{
+  "region": "Americas",
+  "iso": "VE",
+  "name": "Venezuela, Bolivarian Republic of",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Amazonas",
+      "iso": "VE-Z"
+    },
+    {
+      "name": "Anzo?tegui",
+      "iso": "VE-B"
+    },
+    {
+      "name": "Apure",
+      "iso": "VE-C"
+    },
+    {
+      "name": "Aragua",
+      "iso": "VE-D"
+    },
+    {
+      "name": "Barinas",
+      "iso": "VE-E"
+    },
+    {
+      "name": "Bol?var",
+      "iso": "VE-F"
+    },
+    {
+      "name": "Carabobo",
+      "iso": "VE-G"
+    },
+    {
+      "name": "Cojedes",
+      "iso": "VE-H"
+    },
+    {
+      "name": "Delta Amacuro",
+      "iso": "VE-Y"
+    },
+    {
+      "name": "Dependencias Federales",
+      "iso": "VE-W"
+    },
+    {
+      "name": "Distrito Capital",
+      "iso": "VE-A"
+    },
+    {
+      "name": "Falc?n",
+      "iso": "VE-I"
+    },
+    {
+      "name": "Gu?rico",
+      "iso": "VE-J"
+    },
+    {
+      "name": "Lara",
+      "iso": "VE-K"
+    },
+    {
+      "name": "Miranda",
+      "iso": "VE-M"
+    },
+    {
+      "name": "Monagas",
+      "iso": "VE-N"
+    },
+    {
+      "name": "M?rida",
+      "iso": "VE-L"
+    },
+    {
+      "name": "Nueva Esparta",
+      "iso": "VE-O"
+    },
+    {
+      "name": "Portuguesa",
+      "iso": "VE-P"
+    },
+    {
+      "name": "Sucre",
+      "iso": "VE-R"
+    },
+    {
+      "name": "Trujillo",
+      "iso": "VE-T"
+    },
+    {
+      "name": "T?chira",
+      "iso": "VE-S"
+    },
+    {
+      "name": "Vargas",
+      "iso": "VE-X"
+    },
+    {
+      "name": "Yaracuy",
+      "iso": "VE-U"
+    },
+    {
+      "name": "Zulia",
+      "iso": "VE-V"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

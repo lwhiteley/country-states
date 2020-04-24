@@ -1,0 +1,61 @@
+{
+  "region": "Asia",
+  "iso": "SA",
+  "name": "Saudi Arabia",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Al B??ah",
+      "iso": "SA-11"
+    },
+    {
+      "name": "Al Jawf",
+      "iso": "SA-12"
+    },
+    {
+      "name": "Al Mad?nah",
+      "iso": "SA-03"
+    },
+    {
+      "name": "Al Qa??m",
+      "iso": "SA-05"
+    },
+    {
+      "name": "Al ?ud?d ash Sham?l?yah",
+      "iso": "SA-08"
+    },
+    {
+      "name": "Ar Riy??",
+      "iso": "SA-01"
+    },
+    {
+      "name": "Ash Sharq?yah",
+      "iso": "SA-04"
+    },
+    {
+      "name": "J?z?n",
+      "iso": "SA-09"
+    },
+    {
+      "name": "Makkah",
+      "iso": "SA-02"
+    },
+    {
+      "name": "Najr?n",
+      "iso": "SA-10"
+    },
+    {
+      "name": "Tab?k",
+      "iso": "SA-07"
+    },
+    {
+      "name": "??s?r",
+      "iso": "SA-14"
+    },
+    {
+      "name": "??'il",
+      "iso": "SA-06"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

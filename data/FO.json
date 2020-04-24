@@ -1,0 +1,8 @@
+{
+  "region": "Europe",
+  "iso": "FO",
+  "name": "Faroe Islands",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(?:FO)*(\\d{3})$"
+}

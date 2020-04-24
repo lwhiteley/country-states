@@ -1,0 +1,189 @@
+{
+  "region": "Asia",
+  "iso": "IN",
+  "name": "India",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Andaman and Nicobar Islands",
+      "iso": "IN-AN",
+      "subdivision": "Union territory"
+    },
+    {
+      "name": "Chandigarh",
+      "iso": "IN-CH",
+      "subdivision": "Union territory"
+    },
+    {
+      "name": "Dadra and Nagar Haveli",
+      "iso": "IN-DN",
+      "subdivision": "Union territory"
+    },
+    {
+      "name": "Daman and Diu",
+      "iso": "IN-DD",
+      "subdivision": "Union territory"
+    },
+    {
+      "name": "Delhi",
+      "iso": "IN-DL",
+      "subdivision": "Union territory"
+    },
+    {
+      "name": "Lakshadweep",
+      "iso": "IN-LD",
+      "subdivision": "Union territory"
+    },
+    {
+      "name": "Puducherry",
+      "iso": "IN-PY",
+      "subdivision": "Union territory"
+    },
+    {
+      "name": "Andhra Pradesh",
+      "iso": "IN-AP",
+      "subdivision": "state"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "iso": "IN-AR",
+      "subdivision": "state"
+    },
+    {
+      "name": "Assam",
+      "iso": "IN-AS",
+      "subdivision": "state"
+    },
+    {
+      "name": "Bihar",
+      "iso": "IN-BR",
+      "subdivision": "state"
+    },
+    {
+      "name": "Chhattisgarh",
+      "iso": "IN-CT",
+      "subdivision": "state"
+    },
+    {
+      "name": "Goa",
+      "iso": "IN-GA",
+      "subdivision": "state"
+    },
+    {
+      "name": "Gujarat",
+      "iso": "IN-GJ",
+      "subdivision": "state"
+    },
+    {
+      "name": "Haryana",
+      "iso": "IN-HR",
+      "subdivision": "state"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "iso": "IN-HP",
+      "subdivision": "state"
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "iso": "IN-JK",
+      "subdivision": "state"
+    },
+    {
+      "name": "Jharkhand",
+      "iso": "IN-JH",
+      "subdivision": "state"
+    },
+    {
+      "name": "Karnataka",
+      "iso": "IN-KA",
+      "subdivision": "state"
+    },
+    {
+      "name": "Kerala",
+      "iso": "IN-KL",
+      "subdivision": "state"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "iso": "IN-MP",
+      "subdivision": "state"
+    },
+    {
+      "name": "Maharashtra",
+      "iso": "IN-MH",
+      "subdivision": "state"
+    },
+    {
+      "name": "Manipur",
+      "iso": "IN-MN",
+      "subdivision": "state"
+    },
+    {
+      "name": "Meghalaya",
+      "iso": "IN-ML",
+      "subdivision": "state"
+    },
+    {
+      "name": "Mizoram",
+      "iso": "IN-MZ",
+      "subdivision": "state"
+    },
+    {
+      "name": "Nagaland",
+      "iso": "IN-NL",
+      "subdivision": "state"
+    },
+    {
+      "name": "Odisha",
+      "iso": "IN-OR",
+      "subdivision": "state"
+    },
+    {
+      "name": "Punjab",
+      "iso": "IN-PB",
+      "subdivision": "state"
+    },
+    {
+      "name": "Rajasthan",
+      "iso": "IN-RJ",
+      "subdivision": "state"
+    },
+    {
+      "name": "Sikkim",
+      "iso": "IN-SK",
+      "subdivision": "state"
+    },
+    {
+      "name": "Tamil Nadu",
+      "iso": "IN-TN",
+      "subdivision": "state"
+    },
+    {
+      "name": "Telangana",
+      "iso": "IN-TG",
+      "subdivision": "state"
+    },
+    {
+      "name": "Tripura",
+      "iso": "IN-TR",
+      "subdivision": "state"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "iso": "IN-UP",
+      "subdivision": "state"
+    },
+    {
+      "name": "Uttarakhand",
+      "iso": "IN-UT",
+      "subdivision": "state"
+    },
+    {
+      "name": "West Bengal",
+      "iso": "IN-WB",
+      "subdivision": "state"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

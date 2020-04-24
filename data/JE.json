@@ -1,0 +1,8 @@
+{
+  "region": "Europe",
+  "iso": "JE",
+  "name": "Jersey",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "(JE)([0-9]\\d{1})"
+}

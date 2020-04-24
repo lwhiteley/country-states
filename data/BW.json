@@ -1,0 +1,73 @@
+{
+  "region": "Africa",
+  "iso": "BW",
+  "name": "Botswana",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Central",
+      "iso": "BW-CE"
+    },
+    {
+      "name": "Chobe",
+      "iso": "BW-CH"
+    },
+    {
+      "name": "Francistown",
+      "iso": "BW-FR"
+    },
+    {
+      "name": "Gaborone",
+      "iso": "BW-GA"
+    },
+    {
+      "name": "Ghanzi",
+      "iso": "BW-GH"
+    },
+    {
+      "name": "Jwaneng",
+      "iso": "BW-JW"
+    },
+    {
+      "name": "Kgalagadi",
+      "iso": "BW-KG"
+    },
+    {
+      "name": "Kgatleng",
+      "iso": "BW-KL"
+    },
+    {
+      "name": "Kweneng",
+      "iso": "BW-KW"
+    },
+    {
+      "name": "Lobatse",
+      "iso": "BW-LO"
+    },
+    {
+      "name": "North-East",
+      "iso": "BW-NE"
+    },
+    {
+      "name": "North-West",
+      "iso": "BW-NW"
+    },
+    {
+      "name": "Selibe Phikwe",
+      "iso": "BW-SP"
+    },
+    {
+      "name": "South-East",
+      "iso": "BW-SE"
+    },
+    {
+      "name": "Southern",
+      "iso": "BW-SO"
+    },
+    {
+      "name": "Sowa Town",
+      "iso": "BW-ST"
+    }
+  ],
+  "zipRegex": ""
+}

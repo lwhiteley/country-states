@@ -1,0 +1,81 @@
+{
+  "region": "Americas",
+  "iso": "HN",
+  "name": "Honduras",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Atl?ntida",
+      "iso": "HN-AT"
+    },
+    {
+      "name": "Choluteca",
+      "iso": "HN-CH"
+    },
+    {
+      "name": "Col?n",
+      "iso": "HN-CL"
+    },
+    {
+      "name": "Comayagua",
+      "iso": "HN-CM"
+    },
+    {
+      "name": "Cop?n",
+      "iso": "HN-CP"
+    },
+    {
+      "name": "Cort?s",
+      "iso": "HN-CR"
+    },
+    {
+      "name": "El Para?so",
+      "iso": "HN-EP"
+    },
+    {
+      "name": "Francisco Moraz?n",
+      "iso": "HN-FM"
+    },
+    {
+      "name": "Gracias a Dios",
+      "iso": "HN-GD"
+    },
+    {
+      "name": "Intibuc?",
+      "iso": "HN-IN"
+    },
+    {
+      "name": "Islas de la Bah?a",
+      "iso": "HN-IB"
+    },
+    {
+      "name": "La Paz",
+      "iso": "HN-LP"
+    },
+    {
+      "name": "Lempira",
+      "iso": "HN-LE"
+    },
+    {
+      "name": "Ocotepeque",
+      "iso": "HN-OC"
+    },
+    {
+      "name": "Olancho",
+      "iso": "HN-OL"
+    },
+    {
+      "name": "Santa B?rbara",
+      "iso": "HN-SB"
+    },
+    {
+      "name": "Valle",
+      "iso": "HN-VA"
+    },
+    {
+      "name": "Yoro",
+      "iso": "HN-YO"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

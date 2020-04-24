@@ -1,0 +1,21 @@
+{
+  "region": "Europe",
+  "iso": "LU",
+  "name": "Luxembourg",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Diekirch",
+      "iso": "LU-D"
+    },
+    {
+      "name": "Grevenmacher",
+      "iso": "LU-G"
+    },
+    {
+      "name": "Luxembourg",
+      "iso": "LU-L"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

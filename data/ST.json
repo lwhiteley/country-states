@@ -1,0 +1,17 @@
+{
+  "region": "Africa",
+  "iso": "ST",
+  "name": "Sao Tome and Principe",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Pr?ncipe",
+      "iso": "ST-P"
+    },
+    {
+      "name": "S?o Tom?",
+      "iso": "ST-S"
+    }
+  ],
+  "zipRegex": ""
+}

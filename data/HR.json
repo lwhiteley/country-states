@@ -1,0 +1,93 @@
+{
+  "region": "Europe",
+  "iso": "HR",
+  "name": "Croatia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Bjelovarsko-bilogorska ?upanija",
+      "iso": "HR-07"
+    },
+    {
+      "name": "Brodsko-posavska ?upanija",
+      "iso": "HR-12"
+    },
+    {
+      "name": "Dubrova?ko-neretvanska ?upanija",
+      "iso": "HR-19"
+    },
+    {
+      "name": "Grad Zagreb",
+      "iso": "HR-21"
+    },
+    {
+      "name": "Istarska ?upanija",
+      "iso": "HR-18"
+    },
+    {
+      "name": "Karlova?ka ?upanija",
+      "iso": "HR-04"
+    },
+    {
+      "name": "Koprivni?ko-kri?eva?ka ?upanija",
+      "iso": "HR-06"
+    },
+    {
+      "name": "Krapinsko-zagorska ?upanija",
+      "iso": "HR-02"
+    },
+    {
+      "name": "Li?ko-senjska ?upanija",
+      "iso": "HR-09"
+    },
+    {
+      "name": "Me?imurska ?upanija",
+      "iso": "HR-20"
+    },
+    {
+      "name": "Osje?ko-baranjska ?upanija",
+      "iso": "HR-14"
+    },
+    {
+      "name": "Po?e?ko-slavonska ?upanija",
+      "iso": "HR-11"
+    },
+    {
+      "name": "Primorsko-goranska ?upanija",
+      "iso": "HR-08"
+    },
+    {
+      "name": "Sisa?ko-moslava?ka ?upanija",
+      "iso": "HR-03"
+    },
+    {
+      "name": "Splitsko-dalmatinska ?upanija",
+      "iso": "HR-17"
+    },
+    {
+      "name": "Vara?dinska ?upanija",
+      "iso": "HR-05"
+    },
+    {
+      "name": "Viroviti?ko-podravska ?upanija",
+      "iso": "HR-10"
+    },
+    {
+      "name": "Vukovarsko-srijemska ?upanija",
+      "iso": "HR-16"
+    },
+    {
+      "name": "Zadarska ?upanija",
+      "iso": "HR-13"
+    },
+    {
+      "name": "Zagreba?ka ?upanija",
+      "iso": "HR-01"
+    },
+    {
+      "name": "?ibensko-kninska ?upanija",
+      "iso": "HR-15"
+    }
+  ],
+  "zipRegex": "^(?:HR)*(\\d{5})$"
+}

@@ -1,0 +1,33 @@
+{
+  "region": "Asia",
+  "iso": "IL",
+  "name": "Israel",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "HaDarom",
+      "iso": "IL-D"
+    },
+    {
+      "name": "HaMerkaz",
+      "iso": "IL-M"
+    },
+    {
+      "name": "HaTsafon",
+      "iso": "IL-Z"
+    },
+    {
+      "name": "H?efa",
+      "iso": "IL-HA"
+    },
+    {
+      "name": "Tel-Aviv",
+      "iso": "IL-TA"
+    },
+    {
+      "name": "Yerushalayim",
+      "iso": "IL-JM"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

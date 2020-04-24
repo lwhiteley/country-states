@@ -1,0 +1,61 @@
+{
+  "region": "Europe",
+  "iso": "GR",
+  "name": "Greece",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Anatoliki Makedonia kai Thraki",
+      "iso": "GR-A"
+    },
+    {
+      "name": "Attiki",
+      "iso": "GR-I"
+    },
+    {
+      "name": "Dytiki Ellada",
+      "iso": "GR-G"
+    },
+    {
+      "name": "Dytiki Makedonia",
+      "iso": "GR-C"
+    },
+    {
+      "name": "Ionia Nisia",
+      "iso": "GR-F"
+    },
+    {
+      "name": "Ipeiros",
+      "iso": "GR-D"
+    },
+    {
+      "name": "Kentriki Makedonia",
+      "iso": "GR-B"
+    },
+    {
+      "name": "Kriti",
+      "iso": "GR-M"
+    },
+    {
+      "name": "Notio Aigaio",
+      "iso": "GR-L"
+    },
+    {
+      "name": "Peloponnisos",
+      "iso": "GR-J"
+    },
+    {
+      "name": "Sterea Ellada",
+      "iso": "GR-H"
+    },
+    {
+      "name": "Thessalia",
+      "iso": "GR-E"
+    },
+    {
+      "name": "Voreio Aigaio",
+      "iso": "GR-K"
+    }
+  ],
+  "zipRegex": "^(\\d{3}) \\d{2}$"
+}

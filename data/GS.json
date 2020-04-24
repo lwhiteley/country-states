@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "GS",
+  "name": "South Georgia and the South Sandwich Islands",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(SIQQ 1ZZ)$"
+}

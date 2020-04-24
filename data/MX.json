@@ -1,0 +1,169 @@
+{
+  "region": "Americas",
+  "iso": "MX",
+  "name": "Mexico",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Distrito Federal",
+      "iso": "MX-DIF",
+      "subdivision": "federal district"
+    },
+    {
+      "name": "Aguascalientes",
+      "iso": "MX-AGU",
+      "subdivision": "state"
+    },
+    {
+      "name": "Baja California",
+      "iso": "MX-BCN",
+      "subdivision": "state"
+    },
+    {
+      "name": "Baja California Sur",
+      "iso": "MX-BCS",
+      "subdivision": "state"
+    },
+    {
+      "name": "Campeche",
+      "iso": "MX-CAM",
+      "subdivision": "state"
+    },
+    {
+      "name": "Chiapas",
+      "iso": "MX-CHP",
+      "subdivision": "state"
+    },
+    {
+      "name": "Chihuahua",
+      "iso": "MX-CHH",
+      "subdivision": "state"
+    },
+    {
+      "name": "Coahuila",
+      "iso": "MX-COA",
+      "subdivision": "state"
+    },
+    {
+      "name": "Colima",
+      "iso": "MX-COL",
+      "subdivision": "state"
+    },
+    {
+      "name": "Durango",
+      "iso": "MX-DUR",
+      "subdivision": "state"
+    },
+    {
+      "name": "Guanajuato",
+      "iso": "MX-GUA",
+      "subdivision": "state"
+    },
+    {
+      "name": "Guerrero",
+      "iso": "MX-GRO",
+      "subdivision": "state"
+    },
+    {
+      "name": "Hidalgo",
+      "iso": "MX-HID",
+      "subdivision": "state"
+    },
+    {
+      "name": "Jalisco",
+      "iso": "MX-JAL",
+      "subdivision": "state"
+    },
+    {
+      "name": "Michoac?n",
+      "iso": "MX-MIC",
+      "subdivision": "state"
+    },
+    {
+      "name": "Morelos",
+      "iso": "MX-MOR",
+      "subdivision": "state"
+    },
+    {
+      "name": "M?xico",
+      "iso": "MX-MEX",
+      "subdivision": "state"
+    },
+    {
+      "name": "Nayarit",
+      "iso": "MX-NAY",
+      "subdivision": "state"
+    },
+    {
+      "name": "Nuevo Le?n",
+      "iso": "MX-NLE",
+      "subdivision": "state"
+    },
+    {
+      "name": "Oaxaca",
+      "iso": "MX-OAX",
+      "subdivision": "state"
+    },
+    {
+      "name": "Puebla",
+      "iso": "MX-PUE",
+      "subdivision": "state"
+    },
+    {
+      "name": "Quer?taro",
+      "iso": "MX-QUE",
+      "subdivision": "state"
+    },
+    {
+      "name": "Quintana Roo",
+      "iso": "MX-ROO",
+      "subdivision": "state"
+    },
+    {
+      "name": "San Luis Potos?",
+      "iso": "MX-SLP",
+      "subdivision": "state"
+    },
+    {
+      "name": "Sinaloa",
+      "iso": "MX-SIN",
+      "subdivision": "state"
+    },
+    {
+      "name": "Sonora",
+      "iso": "MX-SON",
+      "subdivision": "state"
+    },
+    {
+      "name": "Tabasco",
+      "iso": "MX-TAB",
+      "subdivision": "state"
+    },
+    {
+      "name": "Tamaulipas",
+      "iso": "MX-TAM",
+      "subdivision": "state"
+    },
+    {
+      "name": "Tlaxcala",
+      "iso": "MX-TLA",
+      "subdivision": "state"
+    },
+    {
+      "name": "Veracruz",
+      "iso": "MX-VER",
+      "subdivision": "state"
+    },
+    {
+      "name": "Yucat?n",
+      "iso": "MX-YUC",
+      "subdivision": "state"
+    },
+    {
+      "name": "Zacatecas",
+      "iso": "MX-ZAC",
+      "subdivision": "state"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

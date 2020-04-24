@@ -1,0 +1,81 @@
+{
+  "region": "Asia",
+  "iso": "IQ",
+  "name": "Iraq",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Al Anb?r",
+      "iso": "IQ-AN"
+    },
+    {
+      "name": "Al Ba?rah",
+      "iso": "IQ-BA"
+    },
+    {
+      "name": "Al Muthann?",
+      "iso": "IQ-MU"
+    },
+    {
+      "name": "Al Q?dis?yah",
+      "iso": "IQ-QA"
+    },
+    {
+      "name": "An Najaf",
+      "iso": "IQ-NA"
+    },
+    {
+      "name": "Arb?l",
+      "iso": "IQ-AR"
+    },
+    {
+      "name": "As Sulaym?n?yah",
+      "iso": "IQ-SU"
+    },
+    {
+      "name": "At Ta'm?m",
+      "iso": "IQ-TS"
+    },
+    {
+      "name": "Baghd?d",
+      "iso": "IQ-BG"
+    },
+    {
+      "name": "B?bil",
+      "iso": "IQ-BB"
+    },
+    {
+      "name": "Dah?k",
+      "iso": "IQ-DA"
+    },
+    {
+      "name": "Dh? Q?r",
+      "iso": "IQ-DQ"
+    },
+    {
+      "name": "Diy?l?",
+      "iso": "IQ-DI"
+    },
+    {
+      "name": "Karbal?'",
+      "iso": "IQ-KA"
+    },
+    {
+      "name": "Mays?n",
+      "iso": "IQ-MA"
+    },
+    {
+      "name": "N?naw?",
+      "iso": "IQ-NI"
+    },
+    {
+      "name": "W?si?",
+      "iso": "IQ-WA"
+    },
+    {
+      "name": "?al?? ad D?n",
+      "iso": "IQ-SD"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

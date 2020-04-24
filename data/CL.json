@@ -1,0 +1,69 @@
+{
+  "region": "Americas",
+  "iso": "CL",
+  "name": "Chile",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ais?n del General Carlos Iba?ez del Campo",
+      "iso": "CL-AI"
+    },
+    {
+      "name": "Antofagasta",
+      "iso": "CL-AN"
+    },
+    {
+      "name": "Araucan?a",
+      "iso": "CL-AR"
+    },
+    {
+      "name": "Arica y Parinacota",
+      "iso": "CL-AP"
+    },
+    {
+      "name": "Atacama",
+      "iso": "CL-AT"
+    },
+    {
+      "name": "B?o-B?o",
+      "iso": "CL-BI"
+    },
+    {
+      "name": "Coquimbo",
+      "iso": "CL-CO"
+    },
+    {
+      "name": "Libertador General Bernardo O'Higgins",
+      "iso": "CL-LI"
+    },
+    {
+      "name": "Los Lagos",
+      "iso": "CL-LL"
+    },
+    {
+      "name": "Los R?os",
+      "iso": "CL-LR"
+    },
+    {
+      "name": "Magallanes",
+      "iso": "CL-MA"
+    },
+    {
+      "name": "Maule",
+      "iso": "CL-ML"
+    },
+    {
+      "name": "Regi?n Metropolitana de Santiago",
+      "iso": "CL-RM"
+    },
+    {
+      "name": "Tarapac?",
+      "iso": "CL-TA"
+    },
+    {
+      "name": "Valpara?so",
+      "iso": "CL-VS"
+    }
+  ],
+  "zipRegex": "^(\\d{7})$"
+}

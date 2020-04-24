@@ -1,0 +1,45 @@
+{
+  "region": "Americas",
+  "iso": "BO",
+  "name": "Bolivia, Plurinational State of",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Chuquisaca",
+      "iso": "BO-H"
+    },
+    {
+      "name": "Cochabamba",
+      "iso": "BO-C"
+    },
+    {
+      "name": "El Beni",
+      "iso": "BO-B"
+    },
+    {
+      "name": "La Paz",
+      "iso": "BO-L"
+    },
+    {
+      "name": "Oruro",
+      "iso": "BO-O"
+    },
+    {
+      "name": "Pando",
+      "iso": "BO-N"
+    },
+    {
+      "name": "Potos?",
+      "iso": "BO-P"
+    },
+    {
+      "name": "Santa Cruz",
+      "iso": "BO-S"
+    },
+    {
+      "name": "Tarija",
+      "iso": "BO-T"
+    }
+  ],
+  "zipRegex": ""
+}

@@ -1,0 +1,29 @@
+{
+  "region": "Asia",
+  "iso": "NP",
+  "name": "Nepal",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Madhya Pashchimanchal",
+      "iso": "NP-2"
+    },
+    {
+      "name": "Madhyamanchal",
+      "iso": "NP-1"
+    },
+    {
+      "name": "Pashchimanchal",
+      "iso": "NP-3"
+    },
+    {
+      "name": "Purwanchal",
+      "iso": "NP-4"
+    },
+    {
+      "name": "Sudur Pashchimanchal",
+      "iso": "NP-5"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

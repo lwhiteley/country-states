@@ -1,0 +1,61 @@
+{
+  "region": "Asia",
+  "iso": "TL",
+  "name": "Timor-Leste",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Aileu",
+      "iso": "TL-AL"
+    },
+    {
+      "name": "Ainaro",
+      "iso": "TL-AN"
+    },
+    {
+      "name": "Baucau",
+      "iso": "TL-BA"
+    },
+    {
+      "name": "Bobonaro",
+      "iso": "TL-BO"
+    },
+    {
+      "name": "Cova Lima",
+      "iso": "TL-CO"
+    },
+    {
+      "name": "D?li",
+      "iso": "TL-DI"
+    },
+    {
+      "name": "Ermera",
+      "iso": "TL-ER"
+    },
+    {
+      "name": "Lautem",
+      "iso": "TL-LA"
+    },
+    {
+      "name": "Liqui?a",
+      "iso": "TL-LI"
+    },
+    {
+      "name": "Manatuto",
+      "iso": "TL-MT"
+    },
+    {
+      "name": "Manufahi",
+      "iso": "TL-MF"
+    },
+    {
+      "name": "Oecussi",
+      "iso": "TL-OE"
+    },
+    {
+      "name": "Viqueque",
+      "iso": "TL-VI"
+    }
+  ],
+  "zipRegex": ""
+}

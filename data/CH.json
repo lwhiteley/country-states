@@ -1,0 +1,113 @@
+{
+  "region": "Europe",
+  "iso": "CH",
+  "name": "Switzerland",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Aargau",
+      "iso": "CH-AG"
+    },
+    {
+      "name": "Appenzell Ausserrhoden",
+      "iso": "CH-AR"
+    },
+    {
+      "name": "Appenzell Innerrhoden",
+      "iso": "CH-AI"
+    },
+    {
+      "name": "Basel-Landschaft",
+      "iso": "CH-BL"
+    },
+    {
+      "name": "Basel-Stadt",
+      "iso": "CH-BS"
+    },
+    {
+      "name": "Bern",
+      "iso": "CH-BE"
+    },
+    {
+      "name": "Fribourg",
+      "iso": "CH-FR"
+    },
+    {
+      "name": "Gen?ve",
+      "iso": "CH-GE"
+    },
+    {
+      "name": "Glarus",
+      "iso": "CH-GL"
+    },
+    {
+      "name": "Graub?nden",
+      "iso": "CH-GR"
+    },
+    {
+      "name": "Jura",
+      "iso": "CH-JU"
+    },
+    {
+      "name": "Luzern",
+      "iso": "CH-LU"
+    },
+    {
+      "name": "Neuch?tel",
+      "iso": "CH-NE"
+    },
+    {
+      "name": "Nidwalden",
+      "iso": "CH-NW"
+    },
+    {
+      "name": "Obwalden",
+      "iso": "CH-OW"
+    },
+    {
+      "name": "Sankt Gallen",
+      "iso": "CH-SG"
+    },
+    {
+      "name": "Schaffhausen",
+      "iso": "CH-SH"
+    },
+    {
+      "name": "Schwyz",
+      "iso": "CH-SZ"
+    },
+    {
+      "name": "Solothurn",
+      "iso": "CH-SO"
+    },
+    {
+      "name": "Thurgau",
+      "iso": "CH-TG"
+    },
+    {
+      "name": "Ticino",
+      "iso": "CH-TI"
+    },
+    {
+      "name": "Uri",
+      "iso": "CH-UR"
+    },
+    {
+      "name": "Valais",
+      "iso": "CH-VS"
+    },
+    {
+      "name": "Vaud",
+      "iso": "CH-VD"
+    },
+    {
+      "name": "Zug",
+      "iso": "CH-ZG"
+    },
+    {
+      "name": "Z?rich",
+      "iso": "CH-ZH"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

@@ -1,0 +1,57 @@
+{
+  "region": "Asia",
+  "iso": "JO",
+  "name": "Jordan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Al Balq?'",
+      "iso": "JO-BA"
+    },
+    {
+      "name": "Al ?Aqabah",
+      "iso": "JO-AQ"
+    },
+    {
+      "name": "Az Zarq?'",
+      "iso": "JO-AZ"
+    },
+    {
+      "name": "A? ?af?lah",
+      "iso": "JO-AT"
+    },
+    {
+      "name": "Irbid",
+      "iso": "JO-IR"
+    },
+    {
+      "name": "Jerash",
+      "iso": "JO-JA"
+    },
+    {
+      "name": "Karak",
+      "iso": "JO-KA"
+    },
+    {
+      "name": "Ma'?n",
+      "iso": "JO-MN"
+    },
+    {
+      "name": "Mafraq",
+      "iso": "JO-MA"
+    },
+    {
+      "name": "M?dab?",
+      "iso": "JO-MD"
+    },
+    {
+      "name": "?Ajl?n",
+      "iso": "JO-AJ"
+    },
+    {
+      "name": "�Amm?n",
+      "iso": "JO-AM"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

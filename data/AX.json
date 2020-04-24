@@ -1,0 +1,8 @@
+{
+  "region": "Europe",
+  "iso": "AX",
+  "name": "Åland Islands",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(\\d{5})$"
+}

@@ -1,0 +1,8 @@
+{
+  "region": "Oceania",
+  "iso": "PN",
+  "name": "Pitcairn",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(PCR9 1ZZ)$"
+}

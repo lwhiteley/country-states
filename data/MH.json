@@ -1,0 +1,17 @@
+{
+  "region": "Oceania",
+  "iso": "MH",
+  "name": "Marshall Islands",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ralik chain",
+      "iso": "MH-L"
+    },
+    {
+      "name": "Ratak chain",
+      "iso": "MH-T"
+    }
+  ],
+  "zipRegex": "^((969)[6-7][0-9])$"
+}

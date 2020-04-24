@@ -1,0 +1,33 @@
+{
+  "region": "Africa",
+  "iso": "ER",
+  "name": "Eritrea",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Al Awsa?",
+      "iso": "ER-MA"
+    },
+    {
+      "name": "Al Jan?b?",
+      "iso": "ER-DU"
+    },
+    {
+      "name": "Ansab?",
+      "iso": "ER-AN"
+    },
+    {
+      "name": "Jan?b? al Ba?r? al A?mar",
+      "iso": "ER-DK"
+    },
+    {
+      "name": "Q?sh-Barkah",
+      "iso": "ER-GB"
+    },
+    {
+      "name": "Shim?l? al Ba?r? al A?mar",
+      "iso": "ER-SK"
+    }
+  ],
+  "zipRegex": ""
+}

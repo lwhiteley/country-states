@@ -1,0 +1,97 @@
+{
+  "region": "Africa",
+  "iso": "TD",
+  "name": "Chad",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Al Ba??ah",
+      "iso": "TD-BA"
+    },
+    {
+      "name": "Al Bu?ayrah",
+      "iso": "TD-LC"
+    },
+    {
+      "name": "Ba?r al Ghaz?l",
+      "iso": "TD-BG"
+    },
+    {
+      "name": "B?rk?",
+      "iso": "TD-BO"
+    },
+    {
+      "name": "Inn?d?",
+      "iso": "TD-EN"
+    },
+    {
+      "name": "K?nim",
+      "iso": "TD-KA"
+    },
+    {
+      "name": "L?q?n al Gharb?",
+      "iso": "TD-LO"
+    },
+    {
+      "name": "L?q?n ash Sharq?",
+      "iso": "TD-LR"
+    },
+    {
+      "name": "Mad?nat Injam?n?",
+      "iso": "TD-ND"
+    },
+    {
+      "name": "M?nd?l",
+      "iso": "TD-MA"
+    },
+    {
+      "name": "M?y? K?bb? al Gharb?",
+      "iso": "TD-MO"
+    },
+    {
+      "name": "M?y? K?bb? ash Sharq?",
+      "iso": "TD-ME"
+    },
+    {
+      "name": "Q?r?",
+      "iso": "TD-GR"
+    },
+    {
+      "name": "Sal?m?t",
+      "iso": "TD-SA"
+    },
+    {
+      "name": "Sh?r? B?qirm?",
+      "iso": "TD-CB"
+    },
+    {
+      "name": "Sh?r? al Awsa?",
+      "iso": "TD-MC"
+    },
+    {
+      "name": "S?l?",
+      "iso": "TD-SI"
+    },
+    {
+      "name": "Tibast?",
+      "iso": "TD-TI"
+    },
+    {
+      "name": "T?njil?",
+      "iso": "TD-TA"
+    },
+    {
+      "name": "Wadd?y",
+      "iso": "TD-OD"
+    },
+    {
+      "name": "W?d? F?r?",
+      "iso": "TD-WF"
+    },
+    {
+      "name": "?ajjar Lam?s",
+      "iso": "TD-HL"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

@@ -1,0 +1,33 @@
+{
+  "region": "Asia",
+  "iso": "KW",
+  "name": "Kuwait",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Al A?madi",
+      "iso": "KW-AH"
+    },
+    {
+      "name": "Al Farw?n?yah",
+      "iso": "KW-FA"
+    },
+    {
+      "name": "Al Jahr?�",
+      "iso": "KW-JA"
+    },
+    {
+      "name": "Al Kuwayt",
+      "iso": "KW-KU"
+    },
+    {
+      "name": "Mub?rak al Kab?r",
+      "iso": "KW-MU"
+    },
+    {
+      "name": "?awall?",
+      "iso": "KW-HA"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

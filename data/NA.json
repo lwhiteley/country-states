@@ -1,0 +1,65 @@
+{
+  "region": "Africa",
+  "iso": "NA",
+  "name": "Namibia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Erongo",
+      "iso": "NA-ER"
+    },
+    {
+      "name": "Hardap",
+      "iso": "NA-HA"
+    },
+    {
+      "name": "Karas",
+      "iso": "NA-KA"
+    },
+    {
+      "name": "Kavango East",
+      "iso": "NA-KE"
+    },
+    {
+      "name": "Kavango West",
+      "iso": "NA-KW"
+    },
+    {
+      "name": "Khomas",
+      "iso": "NA-KH"
+    },
+    {
+      "name": "Kunene",
+      "iso": "NA-KU"
+    },
+    {
+      "name": "Ohangwena",
+      "iso": "NA-OW"
+    },
+    {
+      "name": "Omaheke",
+      "iso": "NA-OH"
+    },
+    {
+      "name": "Omusati",
+      "iso": "NA-OS"
+    },
+    {
+      "name": "Oshana",
+      "iso": "NA-ON"
+    },
+    {
+      "name": "Oshikoto",
+      "iso": "NA-OT"
+    },
+    {
+      "name": "Otjozondjupa",
+      "iso": "NA-OD"
+    },
+    {
+      "name": "Zambezi",
+      "iso": "NA-CA"
+    }
+  ],
+  "zipRegex": ""
+}

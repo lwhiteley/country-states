@@ -1,0 +1,77 @@
+{
+  "region": "Africa",
+  "iso": "CF",
+  "name": "Central African Republic",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Bamingui-Bangoran",
+      "iso": "CF-BB"
+    },
+    {
+      "name": "Bangui",
+      "iso": "CF-BGF"
+    },
+    {
+      "name": "Basse-Kotto",
+      "iso": "CF-BK"
+    },
+    {
+      "name": "Gribingui",
+      "iso": "CF-KB"
+    },
+    {
+      "name": "Haut-Mbomou",
+      "iso": "CF-HM"
+    },
+    {
+      "name": "Haute-Kotto",
+      "iso": "CF-HK"
+    },
+    {
+      "name": "Haute-Sangha / Mamb?r?-Kad??",
+      "iso": "CF-HS"
+    },
+    {
+      "name": "K?mo-Gribingui",
+      "iso": "CF-KG"
+    },
+    {
+      "name": "Lobaye",
+      "iso": "CF-LB"
+    },
+    {
+      "name": "Mbomou",
+      "iso": "CF-MB"
+    },
+    {
+      "name": "Nana-Mamb?r?",
+      "iso": "CF-NM"
+    },
+    {
+      "name": "Ombella-Mpoko",
+      "iso": "CF-MP"
+    },
+    {
+      "name": "Ouaka",
+      "iso": "CF-UK"
+    },
+    {
+      "name": "Ouham",
+      "iso": "CF-AC"
+    },
+    {
+      "name": "Ouham-Pend?",
+      "iso": "CF-OP"
+    },
+    {
+      "name": "Sangha",
+      "iso": "CF-SE"
+    },
+    {
+      "name": "Vakaga",
+      "iso": "CF-VK"
+    }
+  ],
+  "zipRegex": ""
+}

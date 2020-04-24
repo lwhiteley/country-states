@@ -1,0 +1,29 @@
+{
+  "region": "Asia",
+  "iso": "SG",
+  "name": "Singapore",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Central Singapore",
+      "iso": "SG-01"
+    },
+    {
+      "name": "North East",
+      "iso": "SG-02"
+    },
+    {
+      "name": "North West",
+      "iso": "SG-03"
+    },
+    {
+      "name": "South East",
+      "iso": "SG-04"
+    },
+    {
+      "name": "South West",
+      "iso": "SG-05"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

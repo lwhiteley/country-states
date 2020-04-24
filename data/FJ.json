@@ -1,0 +1,29 @@
+{
+  "region": "Oceania",
+  "iso": "FJ",
+  "name": "Fiji",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Central",
+      "iso": "FJ-C"
+    },
+    {
+      "name": "Eastern",
+      "iso": "FJ-E"
+    },
+    {
+      "name": "Northern",
+      "iso": "FJ-N"
+    },
+    {
+      "name": "Rotuma",
+      "iso": "FJ-R"
+    },
+    {
+      "name": "Western",
+      "iso": "FJ-W"
+    }
+  ],
+  "zipRegex": ""
+}

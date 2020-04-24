@@ -1,0 +1,265 @@
+{
+  "region": "Asia",
+  "iso": "VN",
+  "name": "Viet Nam",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "An Giang",
+      "iso": "VN-44"
+    },
+    {
+      "name": "B? R?a�V?ng T?u",
+      "iso": "VN-43"
+    },
+    {
+      "name": "B?nh D??ng",
+      "iso": "VN-57"
+    },
+    {
+      "name": "B?nh Ph??c",
+      "iso": "VN-58"
+    },
+    {
+      "name": "B?nh Thu?n",
+      "iso": "VN-40"
+    },
+    {
+      "name": "B?nh ??nh",
+      "iso": "VN-31"
+    },
+    {
+      "name": "B?c Li?u",
+      "iso": "VN-55"
+    },
+    {
+      "name": "B?c Giang",
+      "iso": "VN-54"
+    },
+    {
+      "name": "B?c K?n",
+      "iso": "VN-53"
+    },
+    {
+      "name": "B?c Ninh",
+      "iso": "VN-56"
+    },
+    {
+      "name": "B?n Tre",
+      "iso": "VN-50"
+    },
+    {
+      "name": "Cao B?ng",
+      "iso": "VN-04"
+    },
+    {
+      "name": "C? Mau",
+      "iso": "VN-59"
+    },
+    {
+      "name": "C?n Th?",
+      "iso": "VN-CT"
+    },
+    {
+      "name": "Gia Lai",
+      "iso": "VN-30"
+    },
+    {
+      "name": "H? Giang",
+      "iso": "VN-03"
+    },
+    {
+      "name": "H? Nam",
+      "iso": "VN-63"
+    },
+    {
+      "name": "H? N?i",
+      "iso": "VN-HN"
+    },
+    {
+      "name": "H? T?y",
+      "iso": "VN-15"
+    },
+    {
+      "name": "H? T?nh",
+      "iso": "VN-23"
+    },
+    {
+      "name": "H?a B?nh",
+      "iso": "VN-14"
+    },
+    {
+      "name": "H?ng Y?n",
+      "iso": "VN-66"
+    },
+    {
+      "name": "H?i D??ng",
+      "iso": "VN-61"
+    },
+    {
+      "name": "H?i Ph?ng",
+      "iso": "VN-HP"
+    },
+    {
+      "name": "H?u Giang",
+      "iso": "VN-73"
+    },
+    {
+      "name": "H? Ch? Minh",
+      "iso": "VN-SG"
+    },
+    {
+      "name": "Kh?nh H?a",
+      "iso": "VN-34"
+    },
+    {
+      "name": "Ki?n Giang",
+      "iso": "VN-47"
+    },
+    {
+      "name": "Kon Tum",
+      "iso": "VN-28"
+    },
+    {
+      "name": "Lai Ch?u",
+      "iso": "VN-01"
+    },
+    {
+      "name": "Long An",
+      "iso": "VN-41"
+    },
+    {
+      "name": "L?o Cai",
+      "iso": "VN-02"
+    },
+    {
+      "name": "L?m ??ng",
+      "iso": "VN-35"
+    },
+    {
+      "name": "L?ng S?n",
+      "iso": "VN-09"
+    },
+    {
+      "name": "Nam ??nh",
+      "iso": "VN-67"
+    },
+    {
+      "name": "Ngh? An",
+      "iso": "VN-22"
+    },
+    {
+      "name": "Ninh B?nh",
+      "iso": "VN-18"
+    },
+    {
+      "name": "Ninh Thu?n",
+      "iso": "VN-36"
+    },
+    {
+      "name": "Ph? Th?",
+      "iso": "VN-68"
+    },
+    {
+      "name": "Ph? Y?n",
+      "iso": "VN-32"
+    },
+    {
+      "name": "Qu?ng B?nh",
+      "iso": "VN-24"
+    },
+    {
+      "name": "Qu?ng Nam",
+      "iso": "VN-27"
+    },
+    {
+      "name": "Qu?ng Ng?i",
+      "iso": "VN-29"
+    },
+    {
+      "name": "Qu?ng Ninh",
+      "iso": "VN-13"
+    },
+    {
+      "name": "Qu?ng Tr?",
+      "iso": "VN-25"
+    },
+    {
+      "name": "S?c Tr?ng",
+      "iso": "VN-52"
+    },
+    {
+      "name": "S?n La",
+      "iso": "VN-05"
+    },
+    {
+      "name": "Thanh H?a",
+      "iso": "VN-21"
+    },
+    {
+      "name": "Th?i B?nh",
+      "iso": "VN-20"
+    },
+    {
+      "name": "Th?i Nguy?n",
+      "iso": "VN-69"
+    },
+    {
+      "name": "Th?a Thi?n�Hu?",
+      "iso": "VN-26"
+    },
+    {
+      "name": "Ti?n Giang",
+      "iso": "VN-46"
+    },
+    {
+      "name": "Tr? Vinh",
+      "iso": "VN-51"
+    },
+    {
+      "name": "Tuy?n Quang",
+      "iso": "VN-07"
+    },
+    {
+      "name": "T?y Ninh",
+      "iso": "VN-37"
+    },
+    {
+      "name": "V?nh Long",
+      "iso": "VN-49"
+    },
+    {
+      "name": "V?nh Ph?c",
+      "iso": "VN-70"
+    },
+    {
+      "name": "Y?n B?i",
+      "iso": "VN-06"
+    },
+    {
+      "name": "?i?n Bi?n",
+      "iso": "VN-71"
+    },
+    {
+      "name": "?? N?ng",
+      "iso": "VN-DN"
+    },
+    {
+      "name": "??k L?k",
+      "iso": "VN-33"
+    },
+    {
+      "name": "??k N?ng",
+      "iso": "VN-72"
+    },
+    {
+      "name": "??ng Nai",
+      "iso": "VN-39"
+    },
+    {
+      "name": "??ng Th?p",
+      "iso": "VN-45"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

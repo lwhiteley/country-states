@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "TC",
+  "name": "Turks and Caicos Islands",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(TKCA 1ZZ)$"
+}

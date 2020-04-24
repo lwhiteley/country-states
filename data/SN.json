@@ -1,0 +1,65 @@
+{
+  "region": "Africa",
+  "iso": "SN",
+  "name": "Senegal",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Dakar",
+      "iso": "SN-DK"
+    },
+    {
+      "name": "Diourbel",
+      "iso": "SN-DB"
+    },
+    {
+      "name": "Fatick",
+      "iso": "SN-FK"
+    },
+    {
+      "name": "Kaffrine",
+      "iso": "SN-KA"
+    },
+    {
+      "name": "Kaolack",
+      "iso": "SN-KL"
+    },
+    {
+      "name": "Kolda",
+      "iso": "SN-KD"
+    },
+    {
+      "name": "K?dougou",
+      "iso": "SN-KE"
+    },
+    {
+      "name": "Louga",
+      "iso": "SN-LG"
+    },
+    {
+      "name": "Matam",
+      "iso": "SN-MT"
+    },
+    {
+      "name": "Saint-Louis",
+      "iso": "SN-SL"
+    },
+    {
+      "name": "S?dhiou",
+      "iso": "SN-SE"
+    },
+    {
+      "name": "Tambacounda",
+      "iso": "SN-TC"
+    },
+    {
+      "name": "Thi?s",
+      "iso": "SN-TH"
+    },
+    {
+      "name": "Ziguinchor",
+      "iso": "SN-ZG"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

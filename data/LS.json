@@ -1,0 +1,49 @@
+{
+  "region": "Africa",
+  "iso": "LS",
+  "name": "Lesotho",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Berea",
+      "iso": "LS-D"
+    },
+    {
+      "name": "Butha-Buthe",
+      "iso": "LS-B"
+    },
+    {
+      "name": "Leribe",
+      "iso": "LS-C"
+    },
+    {
+      "name": "Mafeteng",
+      "iso": "LS-E"
+    },
+    {
+      "name": "Maseru",
+      "iso": "LS-A"
+    },
+    {
+      "name": "Mohale's Hoek",
+      "iso": "LS-F"
+    },
+    {
+      "name": "Mokhotlong",
+      "iso": "LS-J"
+    },
+    {
+      "name": "Qacha's Nek",
+      "iso": "LS-H"
+    },
+    {
+      "name": "Quthing",
+      "iso": "LS-G"
+    },
+    {
+      "name": "Thaba-Tseka",
+      "iso": "LS-K"
+    }
+  ],
+  "zipRegex": "^(\\d{3})$"
+}

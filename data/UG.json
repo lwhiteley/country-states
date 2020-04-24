@@ -1,0 +1,25 @@
+{
+  "region": "Africa",
+  "iso": "UG",
+  "name": "Uganda",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Central",
+      "iso": "UG-C"
+    },
+    {
+      "name": "Eastern",
+      "iso": "UG-E"
+    },
+    {
+      "name": "Northern",
+      "iso": "UG-N"
+    },
+    {
+      "name": "Western",
+      "iso": "UG-W"
+    }
+  ],
+  "zipRegex": ""
+}

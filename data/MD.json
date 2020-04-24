@@ -1,0 +1,157 @@
+{
+  "region": "Europe",
+  "iso": "MD",
+  "name": "Moldova, Republic of",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Anenii Noi",
+      "iso": "MD-AN"
+    },
+    {
+      "name": "Basarabeasca",
+      "iso": "MD-BS"
+    },
+    {
+      "name": "Briceni",
+      "iso": "MD-BR"
+    },
+    {
+      "name": "B?l?i",
+      "iso": "MD-BA"
+    },
+    {
+      "name": "Cahul",
+      "iso": "MD-CA"
+    },
+    {
+      "name": "Cantemir",
+      "iso": "MD-CT"
+    },
+    {
+      "name": "Chi?in?u",
+      "iso": "MD-CU"
+    },
+    {
+      "name": "Cimi?lia",
+      "iso": "MD-CM"
+    },
+    {
+      "name": "Criuleni",
+      "iso": "MD-CR"
+    },
+    {
+      "name": "C?l?ra?i",
+      "iso": "MD-CL"
+    },
+    {
+      "name": "C?u?eni",
+      "iso": "MD-CS"
+    },
+    {
+      "name": "Dondu?eni",
+      "iso": "MD-DO"
+    },
+    {
+      "name": "Drochia",
+      "iso": "MD-DR"
+    },
+    {
+      "name": "Dub?sari",
+      "iso": "MD-DU"
+    },
+    {
+      "name": "Edine?",
+      "iso": "MD-ED"
+    },
+    {
+      "name": "Flore?ti",
+      "iso": "MD-FL"
+    },
+    {
+      "name": "F?le?ti",
+      "iso": "MD-FA"
+    },
+    {
+      "name": "Glodeni",
+      "iso": "MD-GL"
+    },
+    {
+      "name": "G?g?uzia, Unitatea teritorial? autonom?",
+      "iso": "MD-GA"
+    },
+    {
+      "name": "H?nce?ti",
+      "iso": "MD-HI"
+    },
+    {
+      "name": "Ialoveni",
+      "iso": "MD-IA"
+    },
+    {
+      "name": "Leova",
+      "iso": "MD-LE"
+    },
+    {
+      "name": "Nisporeni",
+      "iso": "MD-NI"
+    },
+    {
+      "name": "Ocni?a",
+      "iso": "MD-OC"
+    },
+    {
+      "name": "Orhei",
+      "iso": "MD-OR"
+    },
+    {
+      "name": "Rezina",
+      "iso": "MD-RE"
+    },
+    {
+      "name": "R??cani",
+      "iso": "MD-RI"
+    },
+    {
+      "name": "Soroca",
+      "iso": "MD-SO"
+    },
+    {
+      "name": "Str??eni",
+      "iso": "MD-ST"
+    },
+    {
+      "name": "St?nga Nistrului, unitatea teritorial? din",
+      "iso": "MD-SN"
+    },
+    {
+      "name": "S?ngerei",
+      "iso": "MD-SI"
+    },
+    {
+      "name": "Taraclia",
+      "iso": "MD-TA"
+    },
+    {
+      "name": "Telene?ti",
+      "iso": "MD-TE"
+    },
+    {
+      "name": "Tighina",
+      "iso": "MD-BD"
+    },
+    {
+      "name": "Ungheni",
+      "iso": "MD-UN"
+    },
+    {
+      "name": "?old?ne?ti",
+      "iso": "MD-SD"
+    },
+    {
+      "name": "?tefan Vod?",
+      "iso": "MD-SV"
+    }
+  ],
+  "zipRegex": "^(?:MD)*(\\d{4})$"
+}

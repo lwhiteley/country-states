@@ -1,0 +1,8 @@
+{
+  "region": "Africa",
+  "iso": "EH",
+  "name": "Western Sahara",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(\\d{5})$"
+}

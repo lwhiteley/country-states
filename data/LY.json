@@ -1,0 +1,97 @@
+{
+  "region": "Africa",
+  "iso": "LY",
+  "name": "Libya",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Al Bu?n?n",
+      "iso": "LY-BU"
+    },
+    {
+      "name": "Al Jabal al Akh?ar",
+      "iso": "LY-JA"
+    },
+    {
+      "name": "Al Jabal al Gharb?",
+      "iso": "LY-JG"
+    },
+    {
+      "name": "Al Jif?rah",
+      "iso": "LY-JI"
+    },
+    {
+      "name": "Al Jufrah",
+      "iso": "LY-JU"
+    },
+    {
+      "name": "Al Kufrah",
+      "iso": "LY-KF"
+    },
+    {
+      "name": "Al Marj",
+      "iso": "LY-MJ"
+    },
+    {
+      "name": "Al Marqab",
+      "iso": "LY-MB"
+    },
+    {
+      "name": "Al W???t",
+      "iso": "LY-WA"
+    },
+    {
+      "name": "An Nuqa? al Khams",
+      "iso": "LY-NQ"
+    },
+    {
+      "name": "Az Z?wiyah",
+      "iso": "LY-ZA"
+    },
+    {
+      "name": "Bangh?z?",
+      "iso": "LY-BA"
+    },
+    {
+      "name": "Darnah",
+      "iso": "LY-DR"
+    },
+    {
+      "name": "Gh?t",
+      "iso": "LY-GT"
+    },
+    {
+      "name": "Mi?r?tah",
+      "iso": "LY-MI"
+    },
+    {
+      "name": "Murzuq",
+      "iso": "LY-MQ"
+    },
+    {
+      "name": "N?l?t",
+      "iso": "LY-NL"
+    },
+    {
+      "name": "Sabh?",
+      "iso": "LY-SB"
+    },
+    {
+      "name": "Surt",
+      "iso": "LY-SR"
+    },
+    {
+      "name": "W?d? al ?ay?t",
+      "iso": "LY-WD"
+    },
+    {
+      "name": "W?d? ash Sh??i?",
+      "iso": "LY-WS"
+    },
+    {
+      "name": "?ar?bulus",
+      "iso": "LY-TB"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

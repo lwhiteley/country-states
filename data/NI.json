@@ -1,0 +1,77 @@
+{
+  "region": "Americas",
+  "iso": "NI",
+  "name": "Nicaragua",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Atl?ntico Norte",
+      "iso": "NI-AN"
+    },
+    {
+      "name": "Atl?ntico Sur",
+      "iso": "NI-AS"
+    },
+    {
+      "name": "Boaco",
+      "iso": "NI-BO"
+    },
+    {
+      "name": "Carazo",
+      "iso": "NI-CA"
+    },
+    {
+      "name": "Chinandega",
+      "iso": "NI-CI"
+    },
+    {
+      "name": "Chontales",
+      "iso": "NI-CO"
+    },
+    {
+      "name": "Estel?",
+      "iso": "NI-ES"
+    },
+    {
+      "name": "Granada",
+      "iso": "NI-GR"
+    },
+    {
+      "name": "Jinotega",
+      "iso": "NI-JI"
+    },
+    {
+      "name": "Le?n",
+      "iso": "NI-LE"
+    },
+    {
+      "name": "Madriz",
+      "iso": "NI-MD"
+    },
+    {
+      "name": "Managua",
+      "iso": "NI-MN"
+    },
+    {
+      "name": "Masaya",
+      "iso": "NI-MS"
+    },
+    {
+      "name": "Matagalpa",
+      "iso": "NI-MT"
+    },
+    {
+      "name": "Nueva Segovia",
+      "iso": "NI-NS"
+    },
+    {
+      "name": "Rivas",
+      "iso": "NI-RI"
+    },
+    {
+      "name": "R?o San Juan",
+      "iso": "NI-SJ"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

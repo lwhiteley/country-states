@@ -1,0 +1,25 @@
+{
+  "region": "Africa",
+  "iso": "SZ",
+  "name": "Swaziland",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Hhohho",
+      "iso": "SZ-HH"
+    },
+    {
+      "name": "Lubombo",
+      "iso": "SZ-LU"
+    },
+    {
+      "name": "Manzini",
+      "iso": "SZ-MA"
+    },
+    {
+      "name": "Shiselweni",
+      "iso": "SZ-SH"
+    }
+  ],
+  "zipRegex": "^([A-Z]\\d{3})$"
+}

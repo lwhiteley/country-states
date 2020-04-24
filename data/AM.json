@@ -1,0 +1,53 @@
+{
+  "region": "Asia",
+  "iso": "AM",
+  "name": "Armenia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Aragac?otn",
+      "iso": "AM-AG"
+    },
+    {
+      "name": "Ararat",
+      "iso": "AM-AR"
+    },
+    {
+      "name": "Armavir",
+      "iso": "AM-AV"
+    },
+    {
+      "name": "Erevan",
+      "iso": "AM-ER"
+    },
+    {
+      "name": "Ge?ark'unik'",
+      "iso": "AM-GR"
+    },
+    {
+      "name": "Kotayk'",
+      "iso": "AM-KT"
+    },
+    {
+      "name": "Lo?i",
+      "iso": "AM-LO"
+    },
+    {
+      "name": "Syunik'",
+      "iso": "AM-SU"
+    },
+    {
+      "name": "Tavu?",
+      "iso": "AM-TV"
+    },
+    {
+      "name": "Vayo? Jor",
+      "iso": "AM-VD"
+    },
+    {
+      "name": "?irak",
+      "iso": "AM-SH"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

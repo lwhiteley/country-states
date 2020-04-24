@@ -1,0 +1,97 @@
+{
+  "region": "Asia",
+  "iso": "MN",
+  "name": "Mongolia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Arhangay",
+      "iso": "MN-073"
+    },
+    {
+      "name": "Bayan-?lgiy",
+      "iso": "MN-071"
+    },
+    {
+      "name": "Bayanhongor",
+      "iso": "MN-069"
+    },
+    {
+      "name": "Bulgan",
+      "iso": "MN-067"
+    },
+    {
+      "name": "Darhan uul",
+      "iso": "MN-037"
+    },
+    {
+      "name": "Dornod",
+      "iso": "MN-061"
+    },
+    {
+      "name": "Dornogov?",
+      "iso": "MN-063"
+    },
+    {
+      "name": "Dundgov?",
+      "iso": "MN-059"
+    },
+    {
+      "name": "Dzavhan",
+      "iso": "MN-057"
+    },
+    {
+      "name": "Gov?-Altay",
+      "iso": "MN-065"
+    },
+    {
+      "name": "Gov?-S?mber",
+      "iso": "MN-064"
+    },
+    {
+      "name": "Hentiy",
+      "iso": "MN-039"
+    },
+    {
+      "name": "Hovd",
+      "iso": "MN-043"
+    },
+    {
+      "name": "H?vsg?l",
+      "iso": "MN-041"
+    },
+    {
+      "name": "Orhon",
+      "iso": "MN-035"
+    },
+    {
+      "name": "Selenge",
+      "iso": "MN-049"
+    },
+    {
+      "name": "S?hbaatar",
+      "iso": "MN-051"
+    },
+    {
+      "name": "T?v",
+      "iso": "MN-047"
+    },
+    {
+      "name": "Ulaanbaatar",
+      "iso": "MN-1"
+    },
+    {
+      "name": "Uvs",
+      "iso": "MN-046"
+    },
+    {
+      "name": "?mn?gov?",
+      "iso": "MN-053"
+    },
+    {
+      "name": "?v?rhangay",
+      "iso": "MN-055"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

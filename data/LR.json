@@ -1,0 +1,69 @@
+{
+  "region": "Africa",
+  "iso": "LR",
+  "name": "Liberia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Bomi",
+      "iso": "LR-BM"
+    },
+    {
+      "name": "Bong",
+      "iso": "LR-BG"
+    },
+    {
+      "name": "Gbarpolu",
+      "iso": "LR-GP"
+    },
+    {
+      "name": "Grand Bassa",
+      "iso": "LR-GB"
+    },
+    {
+      "name": "Grand Cape Mount",
+      "iso": "LR-CM"
+    },
+    {
+      "name": "Grand Gedeh",
+      "iso": "LR-GG"
+    },
+    {
+      "name": "Grand Kru",
+      "iso": "LR-GK"
+    },
+    {
+      "name": "Lofa",
+      "iso": "LR-LO"
+    },
+    {
+      "name": "Margibi",
+      "iso": "LR-MG"
+    },
+    {
+      "name": "Maryland",
+      "iso": "LR-MY"
+    },
+    {
+      "name": "Montserrado",
+      "iso": "LR-MO"
+    },
+    {
+      "name": "Nimba",
+      "iso": "LR-NI"
+    },
+    {
+      "name": "River Gee",
+      "iso": "LR-RG"
+    },
+    {
+      "name": "Rivercess",
+      "iso": "LR-RI"
+    },
+    {
+      "name": "Sinoe",
+      "iso": "LR-SI"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

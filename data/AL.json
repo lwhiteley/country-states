@@ -1,0 +1,57 @@
+{
+  "region": "Europe",
+  "iso": "AL",
+  "name": "Albania",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Berat",
+      "iso": "AL-01"
+    },
+    {
+      "name": "Dib?r",
+      "iso": "AL-09"
+    },
+    {
+      "name": "Durr?s",
+      "iso": "AL-02"
+    },
+    {
+      "name": "Elbasan",
+      "iso": "AL-03"
+    },
+    {
+      "name": "Fier",
+      "iso": "AL-04"
+    },
+    {
+      "name": "Gjirokast?r",
+      "iso": "AL-05"
+    },
+    {
+      "name": "Kor??",
+      "iso": "AL-06"
+    },
+    {
+      "name": "Kuk?s",
+      "iso": "AL-07"
+    },
+    {
+      "name": "Lezh?",
+      "iso": "AL-08"
+    },
+    {
+      "name": "Shkod?r",
+      "iso": "AL-10"
+    },
+    {
+      "name": "Tiran?",
+      "iso": "AL-11"
+    },
+    {
+      "name": "Vlor?",
+      "iso": "AL-12"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

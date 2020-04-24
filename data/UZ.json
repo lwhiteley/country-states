@@ -1,0 +1,65 @@
+{
+  "region": "Asia",
+  "iso": "UZ",
+  "name": "Uzbekistan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Andijon",
+      "iso": "UZ-AN"
+    },
+    {
+      "name": "Buxoro",
+      "iso": "UZ-BU"
+    },
+    {
+      "name": "Farg�ona",
+      "iso": "UZ-FA"
+    },
+    {
+      "name": "Jizzax",
+      "iso": "UZ-JI"
+    },
+    {
+      "name": "Namangan",
+      "iso": "UZ-NG"
+    },
+    {
+      "name": "Navoiy",
+      "iso": "UZ-NW"
+    },
+    {
+      "name": "Qashqadaryo",
+      "iso": "UZ-QA"
+    },
+    {
+      "name": "Qoraqalpog�iston Respublikasi",
+      "iso": "UZ-QR"
+    },
+    {
+      "name": "Samarqand",
+      "iso": "UZ-SA"
+    },
+    {
+      "name": "Sirdaryo",
+      "iso": "UZ-SI"
+    },
+    {
+      "name": "Surxondaryo",
+      "iso": "UZ-SU"
+    },
+    {
+      "name": "Toshkent",
+      "iso": "UZ-TO"
+    },
+    {
+      "name": "Toshkent",
+      "iso": "UZ-TK"
+    },
+    {
+      "name": "Xorazm",
+      "iso": "UZ-XO"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

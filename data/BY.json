@@ -1,0 +1,37 @@
+{
+  "region": "Europe",
+  "iso": "BY",
+  "name": "Belarus",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Brestskaya voblasts'",
+      "iso": "BY-BR"
+    },
+    {
+      "name": "Homyel'skaya voblasts'",
+      "iso": "BY-HO"
+    },
+    {
+      "name": "Horad Minsk",
+      "iso": "BY-HM"
+    },
+    {
+      "name": "Hrodzenskaya voblasts'",
+      "iso": "BY-HR"
+    },
+    {
+      "name": "Mahilyowskaya voblasts'",
+      "iso": "BY-MA"
+    },
+    {
+      "name": "Minskaya voblasts'",
+      "iso": "BY-MI"
+    },
+    {
+      "name": "Vitsyebskaya voblasts'",
+      "iso": "BY-VI"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

@@ -1,0 +1,17 @@
+{
+  "region": "Africa",
+  "iso": "GQ",
+  "name": "Equatorial Guinea",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Regi?n Continental",
+      "iso": "GQ-C"
+    },
+    {
+      "name": "Regi?n Insular",
+      "iso": "GQ-I"
+    }
+  ],
+  "zipRegex": ""
+}

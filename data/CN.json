@@ -1,0 +1,189 @@
+{
+  "region": "Asia",
+  "iso": "CN",
+  "name": "China",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Guangxi",
+      "iso": "CN-45"
+    },
+    {
+      "name": "Nei Mongol",
+      "iso": "CN-15"
+    },
+    {
+      "name": "Ningxia",
+      "iso": "CN-64"
+    },
+    {
+      "name": "Xinjiang",
+      "iso": "CN-65"
+    },
+    {
+      "name": "Xizang",
+      "iso": "CN-54"
+    },
+    {
+      "name": "Beijing",
+      "iso": "CN-11"
+    },
+    {
+      "name": "Chongqing",
+      "iso": "CN-50"
+    },
+    {
+      "name": "Shanghai",
+      "iso": "CN-31",
+      "subdivision": "Municipality",
+      "native": "??"
+    },
+    {
+      "name": "Tianjin",
+      "iso": "CN-12"
+    },
+    {
+      "name": "Anhui",
+      "iso": "CN-34"
+    },
+    {
+      "name": "Fujian",
+      "iso": "CN-35",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Gansu",
+      "iso": "CN-62"
+    },
+    {
+      "name": "Guangdong",
+      "iso": "CN-44"
+    },
+    {
+      "name": "Guizhou",
+      "iso": "CN-52"
+    },
+    {
+      "name": "Hainan",
+      "iso": "CN-46",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Hebei",
+      "iso": "CN-13",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Heilongjiang",
+      "iso": "CN-23",
+      "subdivision": "Province",
+      "native": "???"
+    },
+    {
+      "name": "Henan",
+      "iso": "CN-41",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Hubei",
+      "iso": "CN-42",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Hunan",
+      "iso": "CN-43",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Jiangsu",
+      "iso": "CN-32",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Jiangxi",
+      "iso": "CN-36",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Jilin",
+      "iso": "CN-22",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Liaoning",
+      "iso": "CN-21",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Qinghai",
+      "iso": "CN-63",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Shaanxi",
+      "iso": "CN-61",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Shandong",
+      "iso": "CN-37",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Shanxi",
+      "iso": "CN-14",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Sichuan",
+      "iso": "CN-51",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Taiwan",
+      "iso": "CN-71",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Yunnan",
+      "iso": "CN-53",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Zhejiang",
+      "iso": "CN-33",
+      "subdivision": "Province",
+      "native": "??"
+    },
+    {
+      "name": "Hong Kong",
+      "iso": "CN-91",
+      "subdivision": "Special administrative region",
+      "native": "??"
+    },
+    {
+      "name": "Macao",
+      "iso": "CN-92",
+      "subdivision": "Special administrative region",
+      "native": "??"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

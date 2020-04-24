@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "MF",
+  "name": "Saint Martin (French part)",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(\\d{5})$"
+}

@@ -1,0 +1,41 @@
+{
+  "region": "Africa",
+  "iso": "NE",
+  "name": "Niger",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Agadez",
+      "iso": "NE-1"
+    },
+    {
+      "name": "Diffa",
+      "iso": "NE-2"
+    },
+    {
+      "name": "Dosso",
+      "iso": "NE-3"
+    },
+    {
+      "name": "Maradi",
+      "iso": "NE-4"
+    },
+    {
+      "name": "Niamey",
+      "iso": "NE-8"
+    },
+    {
+      "name": "Tahoua",
+      "iso": "NE-5"
+    },
+    {
+      "name": "Tillab?ri",
+      "iso": "NE-6"
+    },
+    {
+      "name": "Zinder",
+      "iso": "NE-7"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

@@ -1,0 +1,177 @@
+{
+  "region": "Europe",
+  "iso": "RO",
+  "name": "Romania",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Alba",
+      "iso": "RO-AB"
+    },
+    {
+      "name": "Arad",
+      "iso": "RO-AR"
+    },
+    {
+      "name": "Arge?",
+      "iso": "RO-AG"
+    },
+    {
+      "name": "Bac?u",
+      "iso": "RO-BC"
+    },
+    {
+      "name": "Bihor",
+      "iso": "RO-BH"
+    },
+    {
+      "name": "Bistri?a-N?s?ud",
+      "iso": "RO-BN"
+    },
+    {
+      "name": "Boto?ani",
+      "iso": "RO-BT"
+    },
+    {
+      "name": "Bra?ov",
+      "iso": "RO-BV"
+    },
+    {
+      "name": "Br?ila",
+      "iso": "RO-BR"
+    },
+    {
+      "name": "Bucure?ti",
+      "iso": "RO-B"
+    },
+    {
+      "name": "Buz?u",
+      "iso": "RO-BZ"
+    },
+    {
+      "name": "Cara?-Severin",
+      "iso": "RO-CS"
+    },
+    {
+      "name": "Cluj",
+      "iso": "RO-CJ"
+    },
+    {
+      "name": "Constan?a",
+      "iso": "RO-CT"
+    },
+    {
+      "name": "Covasna",
+      "iso": "RO-CV"
+    },
+    {
+      "name": "C?l?ra?i",
+      "iso": "RO-CL"
+    },
+    {
+      "name": "Dolj",
+      "iso": "RO-DJ"
+    },
+    {
+      "name": "D?mbovi?a",
+      "iso": "RO-DB"
+    },
+    {
+      "name": "Gala?i",
+      "iso": "RO-GL"
+    },
+    {
+      "name": "Giurgiu",
+      "iso": "RO-GR"
+    },
+    {
+      "name": "Gorj",
+      "iso": "RO-GJ"
+    },
+    {
+      "name": "Harghita",
+      "iso": "RO-HR"
+    },
+    {
+      "name": "Hunedoara",
+      "iso": "RO-HD"
+    },
+    {
+      "name": "Ialomi?a",
+      "iso": "RO-IL"
+    },
+    {
+      "name": "Ia?i",
+      "iso": "RO-IS"
+    },
+    {
+      "name": "Ilfov",
+      "iso": "RO-IF"
+    },
+    {
+      "name": "Maramure?",
+      "iso": "RO-MM"
+    },
+    {
+      "name": "Mehedin?i",
+      "iso": "RO-MH"
+    },
+    {
+      "name": "Mure?",
+      "iso": "RO-MS"
+    },
+    {
+      "name": "Neam?",
+      "iso": "RO-NT"
+    },
+    {
+      "name": "Olt",
+      "iso": "RO-OT"
+    },
+    {
+      "name": "Prahova",
+      "iso": "RO-PH"
+    },
+    {
+      "name": "Satu Mare",
+      "iso": "RO-SM"
+    },
+    {
+      "name": "Sibiu",
+      "iso": "RO-SB"
+    },
+    {
+      "name": "Suceava",
+      "iso": "RO-SV"
+    },
+    {
+      "name": "S?laj",
+      "iso": "RO-SJ"
+    },
+    {
+      "name": "Teleorman",
+      "iso": "RO-TR"
+    },
+    {
+      "name": "Timi?",
+      "iso": "RO-TM"
+    },
+    {
+      "name": "Tulcea",
+      "iso": "RO-TL"
+    },
+    {
+      "name": "Vaslui",
+      "iso": "RO-VS"
+    },
+    {
+      "name": "Vrancea",
+      "iso": "RO-VN"
+    },
+    {
+      "name": "V?lcea",
+      "iso": "RO-VL"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

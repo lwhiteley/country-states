@@ -1,0 +1,17 @@
+{
+  "region": "Europe",
+  "iso": "RS",
+  "name": "Serbia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Kosovo-Metohija",
+      "iso": "RS-KM"
+    },
+    {
+      "name": "Vojvodina",
+      "iso": "RS-VO"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

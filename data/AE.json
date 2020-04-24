@@ -1,0 +1,37 @@
+{
+  "region": "Asia",
+  "iso": "AE",
+  "name": "United Arab Emirates",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "'Ajm?n",
+      "iso": "AE-AJ"
+    },
+    {
+      "name": "Ab? Z?aby",
+      "iso": "AE-AZ"
+    },
+    {
+      "name": "Al Fujayrah",
+      "iso": "AE-FU"
+    },
+    {
+      "name": "Ash Sh?riqah",
+      "iso": "AE-SH"
+    },
+    {
+      "name": "Dubayy",
+      "iso": "AE-DU"
+    },
+    {
+      "name": "Ra's al Khaymah",
+      "iso": "AE-RK"
+    },
+    {
+      "name": "Umm al Qaywayn",
+      "iso": "AE-UQ"
+    }
+  ],
+  "zipRegex": ""
+}

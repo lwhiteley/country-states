@@ -1,0 +1,8 @@
+{
+  "region": "Oceania",
+  "iso": "NF",
+  "name": "Norfolk Island",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(2899)$"
+}

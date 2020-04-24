@@ -1,0 +1,41 @@
+{
+  "region": "Asia",
+  "iso": "MV",
+  "name": "Maldives",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Central",
+      "iso": "MV-CE"
+    },
+    {
+      "name": "Male",
+      "iso": "MV-MLE"
+    },
+    {
+      "name": "North",
+      "iso": "MV-NO"
+    },
+    {
+      "name": "North Central",
+      "iso": "MV-NC"
+    },
+    {
+      "name": "South",
+      "iso": "MV-SU"
+    },
+    {
+      "name": "South Central",
+      "iso": "MV-SC"
+    },
+    {
+      "name": "Upper North",
+      "iso": "MV-UN"
+    },
+    {
+      "name": "Upper South",
+      "iso": "MV-US"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

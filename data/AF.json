@@ -1,0 +1,145 @@
+{
+  "region": "Asia",
+  "iso": "AF",
+  "name": "Afghanistan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Badakhsh?n",
+      "iso": "AF-BDS"
+    },
+    {
+      "name": "Baghl?n",
+      "iso": "AF-BGL"
+    },
+    {
+      "name": "Balkh",
+      "iso": "AF-BAL"
+    },
+    {
+      "name": "B?dgh?s",
+      "iso": "AF-BDG"
+    },
+    {
+      "name": "B?my?n",
+      "iso": "AF-BAM"
+    },
+    {
+      "name": "D?ykund?",
+      "iso": "AF-DAY"
+    },
+    {
+      "name": "Far?h",
+      "iso": "AF-FRA"
+    },
+    {
+      "name": "F?ry?b",
+      "iso": "AF-FYB"
+    },
+    {
+      "name": "Ghazn?",
+      "iso": "AF-GHA"
+    },
+    {
+      "name": "Gh?r",
+      "iso": "AF-GHO"
+    },
+    {
+      "name": "Helmand",
+      "iso": "AF-HEL"
+    },
+    {
+      "name": "Her?t",
+      "iso": "AF-HER"
+    },
+    {
+      "name": "Jowzj?n",
+      "iso": "AF-JOW"
+    },
+    {
+      "name": "Kandah?r",
+      "iso": "AF-KAN"
+    },
+    {
+      "name": "Kh?st",
+      "iso": "AF-KHO"
+    },
+    {
+      "name": "Kunar",
+      "iso": "AF-KNR"
+    },
+    {
+      "name": "Kunduz",
+      "iso": "AF-KDZ"
+    },
+    {
+      "name": "K?bul",
+      "iso": "AF-KAB"
+    },
+    {
+      "name": "K?p?s?",
+      "iso": "AF-KAP"
+    },
+    {
+      "name": "Laghm?n",
+      "iso": "AF-LAG"
+    },
+    {
+      "name": "L?gar",
+      "iso": "AF-LOG"
+    },
+    {
+      "name": "Nangarh?r",
+      "iso": "AF-NAN"
+    },
+    {
+      "name": "N?mr?z",
+      "iso": "AF-NIM"
+    },
+    {
+      "name": "N?rist?n",
+      "iso": "AF-NUR"
+    },
+    {
+      "name": "Paktiy?",
+      "iso": "AF-PIA"
+    },
+    {
+      "name": "Pakt?k?",
+      "iso": "AF-PKA"
+    },
+    {
+      "name": "Panjshayr",
+      "iso": "AF-PAN"
+    },
+    {
+      "name": "Parw?n",
+      "iso": "AF-PAR"
+    },
+    {
+      "name": "Samang?n",
+      "iso": "AF-SAM"
+    },
+    {
+      "name": "Sar-e Pul",
+      "iso": "AF-SAR"
+    },
+    {
+      "name": "Takh?r",
+      "iso": "AF-TAK"
+    },
+    {
+      "name": "Uruzg?n",
+      "iso": "AF-URU"
+    },
+    {
+      "name": "Wardak",
+      "iso": "AF-WAR"
+    },
+    {
+      "name": "Z?bul",
+      "iso": "AF-ZAB"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

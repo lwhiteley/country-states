@@ -1,0 +1,8 @@
+{
+  "region": "Europe",
+  "iso": "GI",
+  "name": "Gibraltar",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(GX11 1AA)$"
+}

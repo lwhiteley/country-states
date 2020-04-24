@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "PR",
+  "name": "Puerto Rico",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^\\d{5}((-|\\s)?\\d{4})?$"
+}

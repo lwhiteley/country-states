@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "SX",
+  "name": "Sint Maarten (Dutch part)",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(0000 AA)$"
+}

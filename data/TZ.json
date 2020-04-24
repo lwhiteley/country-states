@@ -1,0 +1,113 @@
+{
+  "region": "Africa",
+  "iso": "TZ",
+  "name": "Tanzania, United Republic of",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Arusha",
+      "iso": "TZ-01"
+    },
+    {
+      "name": "Dar es Salaam",
+      "iso": "TZ-02"
+    },
+    {
+      "name": "Dodoma",
+      "iso": "TZ-03"
+    },
+    {
+      "name": "Iringa",
+      "iso": "TZ-04"
+    },
+    {
+      "name": "Kagera",
+      "iso": "TZ-05"
+    },
+    {
+      "name": "Kaskazini Pemba",
+      "iso": "TZ-06"
+    },
+    {
+      "name": "Kaskazini Unguja",
+      "iso": "TZ-07"
+    },
+    {
+      "name": "Kigoma",
+      "iso": "TZ-08"
+    },
+    {
+      "name": "Kilimanjaro",
+      "iso": "TZ-09"
+    },
+    {
+      "name": "Kusini Pemba",
+      "iso": "TZ-10"
+    },
+    {
+      "name": "Kusini Unguja",
+      "iso": "TZ-11"
+    },
+    {
+      "name": "Lindi",
+      "iso": "TZ-12"
+    },
+    {
+      "name": "Manyara",
+      "iso": "TZ-26"
+    },
+    {
+      "name": "Mara",
+      "iso": "TZ-13"
+    },
+    {
+      "name": "Mbeya",
+      "iso": "TZ-14"
+    },
+    {
+      "name": "Mjini Magharibi",
+      "iso": "TZ-15"
+    },
+    {
+      "name": "Morogoro",
+      "iso": "TZ-16"
+    },
+    {
+      "name": "Mtwara",
+      "iso": "TZ-17"
+    },
+    {
+      "name": "Mwanza",
+      "iso": "TZ-18"
+    },
+    {
+      "name": "Pwani",
+      "iso": "TZ-19"
+    },
+    {
+      "name": "Rukwa",
+      "iso": "TZ-20"
+    },
+    {
+      "name": "Ruvuma",
+      "iso": "TZ-21"
+    },
+    {
+      "name": "Shinyanga",
+      "iso": "TZ-22"
+    },
+    {
+      "name": "Singida",
+      "iso": "TZ-23"
+    },
+    {
+      "name": "Tabora",
+      "iso": "TZ-24"
+    },
+    {
+      "name": "Tanga",
+      "iso": "TZ-25"
+    }
+  ],
+  "zipRegex": ""
+}

@@ -1,0 +1,85 @@
+{
+  "region": "Africa",
+  "iso": "CI",
+  "name": "Côte d'Ivoire",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "18 Montagnes",
+      "iso": "CI-06"
+    },
+    {
+      "name": "Agn?bi",
+      "iso": "CI-16"
+    },
+    {
+      "name": "Bafing",
+      "iso": "CI-17"
+    },
+    {
+      "name": "Bas-Sassandra",
+      "iso": "CI-09"
+    },
+    {
+      "name": "Dengu?l?",
+      "iso": "CI-10"
+    },
+    {
+      "name": "Fromager",
+      "iso": "CI-18"
+    },
+    {
+      "name": "Haut-Sassandra",
+      "iso": "CI-02"
+    },
+    {
+      "name": "Lacs",
+      "iso": "CI-07"
+    },
+    {
+      "name": "Lagunes",
+      "iso": "CI-01"
+    },
+    {
+      "name": "Marahou?",
+      "iso": "CI-12"
+    },
+    {
+      "name": "Moyen-Cavally",
+      "iso": "CI-19"
+    },
+    {
+      "name": "Moyen-Como?",
+      "iso": "CI-05"
+    },
+    {
+      "name": "Nzi-Como?",
+      "iso": "CI-11"
+    },
+    {
+      "name": "Savanes",
+      "iso": "CI-03"
+    },
+    {
+      "name": "Sud-Bandama",
+      "iso": "CI-15"
+    },
+    {
+      "name": "Sud-Como?",
+      "iso": "CI-13"
+    },
+    {
+      "name": "Vall?e du Bandama",
+      "iso": "CI-04"
+    },
+    {
+      "name": "Worodougou",
+      "iso": "CI-14"
+    },
+    {
+      "name": "Zanzan",
+      "iso": "CI-08"
+    }
+  ],
+  "zipRegex": ""
+}

@@ -1,0 +1,89 @@
+{
+  "region": "Oceania",
+  "iso": "PG",
+  "name": "Papua New Guinea",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Bougainville",
+      "iso": "PG-NSB"
+    },
+    {
+      "name": "Central",
+      "iso": "PG-CPM"
+    },
+    {
+      "name": "Chimbu",
+      "iso": "PG-CPK"
+    },
+    {
+      "name": "East New Britain",
+      "iso": "PG-EBR"
+    },
+    {
+      "name": "East Sepik",
+      "iso": "PG-ESW"
+    },
+    {
+      "name": "Eastern Highlands",
+      "iso": "PG-EHG"
+    },
+    {
+      "name": "Enga",
+      "iso": "PG-EPW"
+    },
+    {
+      "name": "Gulf",
+      "iso": "PG-GPK"
+    },
+    {
+      "name": "Madang",
+      "iso": "PG-MPM"
+    },
+    {
+      "name": "Manus",
+      "iso": "PG-MRL"
+    },
+    {
+      "name": "Milne Bay",
+      "iso": "PG-MBA"
+    },
+    {
+      "name": "Morobe",
+      "iso": "PG-MPL"
+    },
+    {
+      "name": "National Capital District",
+      "iso": "PG-NCD"
+    },
+    {
+      "name": "New Ireland",
+      "iso": "PG-NIK"
+    },
+    {
+      "name": "Northern",
+      "iso": "PG-NPP"
+    },
+    {
+      "name": "Sandaun",
+      "iso": "PG-SAN"
+    },
+    {
+      "name": "Southern Highlands",
+      "iso": "PG-SHM"
+    },
+    {
+      "name": "West New Britain",
+      "iso": "PG-WBK"
+    },
+    {
+      "name": "Western",
+      "iso": "PG-WPD"
+    },
+    {
+      "name": "Western Highlands",
+      "iso": "PG-WHM"
+    }
+  ],
+  "zipRegex": "^(\\d{3})$"
+}

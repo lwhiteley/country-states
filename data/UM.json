@@ -1,0 +1,45 @@
+{
+  "region": "Americas",
+  "iso": "UM",
+  "name": "United States Minor Outlying Islands",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Baker Island",
+      "iso": "UM-81"
+    },
+    {
+      "name": "Howland Island",
+      "iso": "UM-84"
+    },
+    {
+      "name": "Jarvis Island",
+      "iso": "UM-86"
+    },
+    {
+      "name": "Johnston Atoll",
+      "iso": "UM-67"
+    },
+    {
+      "name": "Kingman Reef",
+      "iso": "UM-89"
+    },
+    {
+      "name": "Midway Islands",
+      "iso": "UM-71"
+    },
+    {
+      "name": "Navassa Island",
+      "iso": "UM-76"
+    },
+    {
+      "name": "Palmyra Atoll",
+      "iso": "UM-95"
+    },
+    {
+      "name": "Wake Island",
+      "iso": "UM-79"
+    }
+  ],
+  "zipRegex": ""
+}

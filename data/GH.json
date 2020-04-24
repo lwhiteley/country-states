@@ -1,0 +1,49 @@
+{
+  "region": "Africa",
+  "iso": "GH",
+  "name": "Ghana",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Ashanti",
+      "iso": "GH-AH"
+    },
+    {
+      "name": "Brong-Ahafo",
+      "iso": "GH-BA"
+    },
+    {
+      "name": "Central",
+      "iso": "GH-CP"
+    },
+    {
+      "name": "Eastern",
+      "iso": "GH-EP"
+    },
+    {
+      "name": "Greater Accra",
+      "iso": "GH-AA"
+    },
+    {
+      "name": "Northern",
+      "iso": "GH-NP"
+    },
+    {
+      "name": "Upper East",
+      "iso": "GH-UE"
+    },
+    {
+      "name": "Upper West",
+      "iso": "GH-UW"
+    },
+    {
+      "name": "Volta",
+      "iso": "GH-TV"
+    },
+    {
+      "name": "Western",
+      "iso": "GH-WP"
+    }
+  ],
+  "zipRegex": ""
+}

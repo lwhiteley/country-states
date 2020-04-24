@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "BL",
+  "name": "Saint Barthélemy",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(\\d{5})$"
+}

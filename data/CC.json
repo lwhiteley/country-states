@@ -1,0 +1,8 @@
+{
+  "region": "Oceania",
+  "iso": "CC",
+  "name": "Cocos (Keeling) Islands",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(6799 W3)$"
+}

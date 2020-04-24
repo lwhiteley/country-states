@@ -1,0 +1,213 @@
+{
+  "region": "Americas",
+  "iso": "US",
+  "name": "United States",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "iso": "AL",
+      "name": "Alabama"
+    },
+    {
+      "iso": "AK",
+      "name": "Alaska"
+    },
+    {
+      "iso": "AZ",
+      "name": "Arizona"
+    },
+    {
+      "iso": "AR",
+      "name": "Arkansas"
+    },
+    {
+      "iso": "CA",
+      "name": "California"
+    },
+    {
+      "iso": "CO",
+      "name": "Colorado"
+    },
+    {
+      "iso": "CT",
+      "name": "Connecticut"
+    },
+    {
+      "iso": "DE",
+      "name": "Delaware"
+    },
+    {
+      "iso": "DC",
+      "name": "District Of Columbia"
+    },
+    {
+      "iso": "FL",
+      "name": "Florida"
+    },
+    {
+      "iso": "GA",
+      "name": "Georgia"
+    },
+    {
+      "iso": "HI",
+      "name": "Hawaii"
+    },
+    {
+      "iso": "ID",
+      "name": "Idaho"
+    },
+    {
+      "iso": "IL",
+      "name": "Illinois"
+    },
+    {
+      "iso": "IN",
+      "name": "Indiana"
+    },
+    {
+      "iso": "IA",
+      "name": "Iowa"
+    },
+    {
+      "iso": "KS",
+      "name": "Kansas"
+    },
+    {
+      "iso": "KY",
+      "name": "Kentucky"
+    },
+    {
+      "iso": "LA",
+      "name": "Louisiana"
+    },
+    {
+      "iso": "ME",
+      "name": "Maine"
+    },
+    {
+      "iso": "MD",
+      "name": "Maryland"
+    },
+    {
+      "iso": "MA",
+      "name": "Massachusetts"
+    },
+    {
+      "iso": "MI",
+      "name": "Michigan"
+    },
+    {
+      "iso": "MN",
+      "name": "Minnesota"
+    },
+    {
+      "iso": "MS",
+      "name": "Mississippi"
+    },
+    {
+      "iso": "MO",
+      "name": "Missouri"
+    },
+    {
+      "iso": "MT",
+      "name": "Montana"
+    },
+    {
+      "iso": "NE",
+      "name": "Nebraska"
+    },
+    {
+      "iso": "NV",
+      "name": "Nevada"
+    },
+    {
+      "iso": "NH",
+      "name": "New Hampshire"
+    },
+    {
+      "iso": "NJ",
+      "name": "New Jersey"
+    },
+    {
+      "iso": "NM",
+      "name": "New Mexico"
+    },
+    {
+      "iso": "NY",
+      "name": "New York"
+    },
+    {
+      "iso": "NC",
+      "name": "North Carolina"
+    },
+    {
+      "iso": "ND",
+      "name": "North Dakota"
+    },
+    {
+      "iso": "OH",
+      "name": "Ohio"
+    },
+    {
+      "iso": "OK",
+      "name": "Oklahoma"
+    },
+    {
+      "iso": "OR",
+      "name": "Oregon"
+    },
+    {
+      "iso": "PA",
+      "name": "Pennsylvania"
+    },
+    {
+      "iso": "RI",
+      "name": "Rhode Island"
+    },
+    {
+      "iso": "SC",
+      "name": "South Carolina"
+    },
+    {
+      "iso": "SD",
+      "name": "South Dakota"
+    },
+    {
+      "iso": "TN",
+      "name": "Tennessee"
+    },
+    {
+      "iso": "TX",
+      "name": "Texas"
+    },
+    {
+      "iso": "UT",
+      "name": "Utah"
+    },
+    {
+      "iso": "VT",
+      "name": "Vermont"
+    },
+    {
+      "iso": "VA",
+      "name": "Virginia"
+    },
+    {
+      "iso": "WA",
+      "name": "Washington"
+    },
+    {
+      "iso": "WV",
+      "name": "West Virginia"
+    },
+    {
+      "iso": "WI",
+      "name": "Wisconsin"
+    },
+    {
+      "iso": "WY",
+      "name": "Wyoming"
+    }
+  ],
+  "zipRegex": "^\\d{5}([\\-]\\d{4})?$"
+}

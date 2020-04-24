@@ -1,0 +1,37 @@
+{
+  "region": "Asia",
+  "iso": "QA",
+  "name": "Qatar",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Ad Daw?ah",
+      "iso": "QA-DA"
+    },
+    {
+      "name": "Al Khawr wa adh Dhakh?rah",
+      "iso": "QA-KH"
+    },
+    {
+      "name": "Al Wakrah",
+      "iso": "QA-WA"
+    },
+    {
+      "name": "Ar Rayy?n",
+      "iso": "QA-RA"
+    },
+    {
+      "name": "Ash Sham?l",
+      "iso": "QA-MS"
+    },
+    {
+      "name": "Az? Za?`?yin",
+      "iso": "QA-ZA"
+    },
+    {
+      "name": "Umm ?al?l",
+      "iso": "QA-US"
+    }
+  ],
+  "zipRegex": ""
+}

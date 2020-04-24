@@ -1,0 +1,53 @@
+{
+  "region": "Europe",
+  "iso": "LI",
+  "name": "Liechtenstein",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Balzers",
+      "iso": "LI-01"
+    },
+    {
+      "name": "Eschen",
+      "iso": "LI-02"
+    },
+    {
+      "name": "Gamprin",
+      "iso": "LI-03"
+    },
+    {
+      "name": "Mauren",
+      "iso": "LI-04"
+    },
+    {
+      "name": "Planken",
+      "iso": "LI-05"
+    },
+    {
+      "name": "Ruggell",
+      "iso": "LI-06"
+    },
+    {
+      "name": "Schaan",
+      "iso": "LI-07"
+    },
+    {
+      "name": "Schellenberg",
+      "iso": "LI-08"
+    },
+    {
+      "name": "Triesen",
+      "iso": "LI-09"
+    },
+    {
+      "name": "Triesenberg",
+      "iso": "LI-10"
+    },
+    {
+      "name": "Vaduz",
+      "iso": "LI-11"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

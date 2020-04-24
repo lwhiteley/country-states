@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "BM",
+  "name": "Bermuda",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^([A-Z]{2} \\d{2})$"
+}

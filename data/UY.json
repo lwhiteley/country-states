@@ -1,0 +1,85 @@
+{
+  "region": "Americas",
+  "iso": "UY",
+  "name": "Uruguay",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Artigas",
+      "iso": "UY-AR"
+    },
+    {
+      "name": "Canelones",
+      "iso": "UY-CA"
+    },
+    {
+      "name": "Cerro Largo",
+      "iso": "UY-CL"
+    },
+    {
+      "name": "Colonia",
+      "iso": "UY-CO"
+    },
+    {
+      "name": "Durazno",
+      "iso": "UY-DU"
+    },
+    {
+      "name": "Flores",
+      "iso": "UY-FS"
+    },
+    {
+      "name": "Florida",
+      "iso": "UY-FD"
+    },
+    {
+      "name": "Lavalleja",
+      "iso": "UY-LA"
+    },
+    {
+      "name": "Maldonado",
+      "iso": "UY-MA"
+    },
+    {
+      "name": "Montevideo",
+      "iso": "UY-MO"
+    },
+    {
+      "name": "Paysand?",
+      "iso": "UY-PA"
+    },
+    {
+      "name": "Rivera",
+      "iso": "UY-RV"
+    },
+    {
+      "name": "Rocha",
+      "iso": "UY-RO"
+    },
+    {
+      "name": "R?o Negro",
+      "iso": "UY-RN"
+    },
+    {
+      "name": "Salto",
+      "iso": "UY-SA"
+    },
+    {
+      "name": "San Jos?",
+      "iso": "UY-SJ"
+    },
+    {
+      "name": "Soriano",
+      "iso": "UY-SO"
+    },
+    {
+      "name": "Tacuaremb?",
+      "iso": "UY-TA"
+    },
+    {
+      "name": "Treinta y Tres",
+      "iso": "UY-TT"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

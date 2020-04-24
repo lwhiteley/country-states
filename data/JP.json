@@ -1,0 +1,197 @@
+{
+  "region": "Asia",
+  "iso": "JP",
+  "name": "Japan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Aiti",
+      "iso": "JP-23"
+    },
+    {
+      "name": "Akita",
+      "iso": "JP-05"
+    },
+    {
+      "name": "Aomori",
+      "iso": "JP-02"
+    },
+    {
+      "name": "Ehime",
+      "iso": "JP-38"
+    },
+    {
+      "name": "Gihu",
+      "iso": "JP-21"
+    },
+    {
+      "name": "Gunma",
+      "iso": "JP-10"
+    },
+    {
+      "name": "Hirosima",
+      "iso": "JP-34"
+    },
+    {
+      "name": "Hokkaid?",
+      "iso": "JP-01"
+    },
+    {
+      "name": "Hukui",
+      "iso": "JP-18"
+    },
+    {
+      "name": "Hukuoka",
+      "iso": "JP-40"
+    },
+    {
+      "name": "Hukusima",
+      "iso": "JP-07"
+    },
+    {
+      "name": "Hy?go",
+      "iso": "JP-28"
+    },
+    {
+      "name": "Ibaraki",
+      "iso": "JP-08"
+    },
+    {
+      "name": "Isikawa",
+      "iso": "JP-17"
+    },
+    {
+      "name": "Iwate",
+      "iso": "JP-03"
+    },
+    {
+      "name": "Kagawa",
+      "iso": "JP-37"
+    },
+    {
+      "name": "Kagosima",
+      "iso": "JP-46"
+    },
+    {
+      "name": "Kanagawa",
+      "iso": "JP-14"
+    },
+    {
+      "name": "Kumamoto",
+      "iso": "JP-43"
+    },
+    {
+      "name": "Ky?to",
+      "iso": "JP-26"
+    },
+    {
+      "name": "K?ti",
+      "iso": "JP-39"
+    },
+    {
+      "name": "Mie",
+      "iso": "JP-24"
+    },
+    {
+      "name": "Miyagi",
+      "iso": "JP-04"
+    },
+    {
+      "name": "Miyazaki",
+      "iso": "JP-45"
+    },
+    {
+      "name": "Nagano",
+      "iso": "JP-20"
+    },
+    {
+      "name": "Nagasaki",
+      "iso": "JP-42"
+    },
+    {
+      "name": "Nara",
+      "iso": "JP-29"
+    },
+    {
+      "name": "Niigata",
+      "iso": "JP-15"
+    },
+    {
+      "name": "Okayama",
+      "iso": "JP-33"
+    },
+    {
+      "name": "Okinawa",
+      "iso": "JP-47"
+    },
+    {
+      "name": "Saga",
+      "iso": "JP-41"
+    },
+    {
+      "name": "Saitama",
+      "iso": "JP-11"
+    },
+    {
+      "name": "Siga",
+      "iso": "JP-25"
+    },
+    {
+      "name": "Simane",
+      "iso": "JP-32"
+    },
+    {
+      "name": "Sizuoka",
+      "iso": "JP-22"
+    },
+    {
+      "name": "Tiba",
+      "iso": "JP-12"
+    },
+    {
+      "name": "Tokusima",
+      "iso": "JP-36"
+    },
+    {
+      "name": "Totigi",
+      "iso": "JP-09"
+    },
+    {
+      "name": "Tottori",
+      "iso": "JP-31"
+    },
+    {
+      "name": "Toyama",
+      "iso": "JP-16"
+    },
+    {
+      "name": "T?ky?",
+      "iso": "JP-13"
+    },
+    {
+      "name": "Wakayama",
+      "iso": "JP-30"
+    },
+    {
+      "name": "Yamagata",
+      "iso": "JP-06"
+    },
+    {
+      "name": "Yamaguti",
+      "iso": "JP-35"
+    },
+    {
+      "name": "Yamanasi",
+      "iso": "JP-19"
+    },
+    {
+      "name": "?ita",
+      "iso": "JP-44"
+    },
+    {
+      "name": "?saka",
+      "iso": "JP-27"
+    }
+  ],
+  "zipRegex": "^(\\d{3}-\\d{4})$"
+}

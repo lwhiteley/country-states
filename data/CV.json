@@ -1,0 +1,17 @@
+{
+  "region": "Africa",
+  "iso": "CV",
+  "name": "Cape Verde",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ilhas de Barlavento",
+      "iso": "CV-B"
+    },
+    {
+      "name": "Ilhas de Sotavento",
+      "iso": "CV-S"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

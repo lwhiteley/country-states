@@ -1,0 +1,37 @@
+{
+  "region": "Asia",
+  "iso": "BD",
+  "name": "Bangladesh",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Barisal",
+      "iso": "BD-A"
+    },
+    {
+      "name": "Chittagong",
+      "iso": "BD-B"
+    },
+    {
+      "name": "Dhaka",
+      "iso": "BD-C"
+    },
+    {
+      "name": "Khulna",
+      "iso": "BD-D"
+    },
+    {
+      "name": "Rajshahi",
+      "iso": "BD-E"
+    },
+    {
+      "name": "Rangpur",
+      "iso": "BD-F"
+    },
+    {
+      "name": "Sylhet",
+      "iso": "BD-G"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

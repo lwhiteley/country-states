@@ -1,0 +1,8 @@
+{
+  "region": "Africa",
+  "iso": "IO",
+  "name": "British Indian Ocean Territory",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(BB9D 1ZZ)$"
+}

@@ -1,0 +1,49 @@
+{
+  "region": "Africa",
+  "iso": "CM",
+  "name": "Cameroon",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Adamaoua",
+      "iso": "CM-AD"
+    },
+    {
+      "name": "Centre",
+      "iso": "CM-CE"
+    },
+    {
+      "name": "East",
+      "iso": "CM-ES"
+    },
+    {
+      "name": "Far North",
+      "iso": "CM-EN"
+    },
+    {
+      "name": "Littoral",
+      "iso": "CM-LT"
+    },
+    {
+      "name": "North",
+      "iso": "CM-NO"
+    },
+    {
+      "name": "North-West",
+      "iso": "CM-NW"
+    },
+    {
+      "name": "South",
+      "iso": "CM-SU"
+    },
+    {
+      "name": "South-West",
+      "iso": "CM-SW"
+    },
+    {
+      "name": "West",
+      "iso": "CM-OU"
+    }
+  ],
+  "zipRegex": ""
+}

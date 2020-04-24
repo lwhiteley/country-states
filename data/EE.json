@@ -1,0 +1,69 @@
+{
+  "region": "Europe",
+  "iso": "EE",
+  "name": "Estonia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Harjumaa",
+      "iso": "EE-37"
+    },
+    {
+      "name": "Hiiumaa",
+      "iso": "EE-39"
+    },
+    {
+      "name": "Ida-Virumaa",
+      "iso": "EE-44"
+    },
+    {
+      "name": "J?rvamaa",
+      "iso": "EE-51"
+    },
+    {
+      "name": "J?gevamaa",
+      "iso": "EE-49"
+    },
+    {
+      "name": "L??ne-Virumaa",
+      "iso": "EE-59"
+    },
+    {
+      "name": "L??nemaa",
+      "iso": "EE-57"
+    },
+    {
+      "name": "P?rnumaa",
+      "iso": "EE-67"
+    },
+    {
+      "name": "P?lvamaa",
+      "iso": "EE-65"
+    },
+    {
+      "name": "Raplamaa",
+      "iso": "EE-70"
+    },
+    {
+      "name": "Saaremaa",
+      "iso": "EE-74"
+    },
+    {
+      "name": "Tartumaa",
+      "iso": "EE-78"
+    },
+    {
+      "name": "Valgamaa",
+      "iso": "EE-82"
+    },
+    {
+      "name": "Viljandimaa",
+      "iso": "EE-84"
+    },
+    {
+      "name": "V?rumaa",
+      "iso": "EE-86"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

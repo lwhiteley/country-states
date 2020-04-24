@@ -1,0 +1,99 @@
+{
+  "region": "Europe",
+  "iso": "NL",
+  "name": "Netherlands",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Drenthe",
+      "iso": "NL-DR",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Flevoland",
+      "iso": "NL-FL",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Frysl?n",
+      "iso": "NL-FR",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Gelderland",
+      "iso": "NL-GE",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Groningen",
+      "iso": "NL-GR",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Limburg",
+      "iso": "NL-LI",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Noord-Brabant",
+      "iso": "NL-NB",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Noord-Holland",
+      "iso": "NL-NH",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Overijssel",
+      "iso": "NL-OV",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Utrecht",
+      "iso": "NL-UT",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Zeeland",
+      "iso": "NL-ZE",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Zuid-Holland",
+      "iso": "NL-ZH",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Aruba",
+      "iso": "NL-AW",
+      "subdivision": "country"
+    },
+    {
+      "name": "Cura?ao",
+      "iso": "NL-CW",
+      "subdivision": "country"
+    },
+    {
+      "name": "Sint Maarten",
+      "iso": "NL-SX",
+      "subdivision": "country"
+    },
+    {
+      "name": "Bonaire",
+      "iso": "NL-BQ1",
+      "subdivision": "special municipality"
+    },
+    {
+      "name": "Saba",
+      "iso": "NL-BQ2",
+      "subdivision": "special municipality"
+    },
+    {
+      "name": "Sint Eustatius",
+      "iso": "NL-BQ3",
+      "subdivision": "special municipality"
+    }
+  ],
+  "zipRegex": "[0-9]{4} [A-Z]{2}"
+}

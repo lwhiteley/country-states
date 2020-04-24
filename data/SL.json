@@ -1,0 +1,25 @@
+{
+  "region": "Africa",
+  "iso": "SL",
+  "name": "Sierra Leone",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Eastern",
+      "iso": "SL-E"
+    },
+    {
+      "name": "Northern",
+      "iso": "SL-N"
+    },
+    {
+      "name": "Southern",
+      "iso": "SL-S"
+    },
+    {
+      "name": "Western Area",
+      "iso": "SL-W"
+    }
+  ],
+  "zipRegex": ""
+}

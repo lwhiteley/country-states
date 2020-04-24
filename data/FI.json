@@ -1,0 +1,85 @@
+{
+  "region": "Europe",
+  "iso": "FI",
+  "name": "Finland",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ahvenanmaan maakunta",
+      "iso": "FI-01"
+    },
+    {
+      "name": "Etel?-Karjala",
+      "iso": "FI-02"
+    },
+    {
+      "name": "Etel?-Pohjanmaa",
+      "iso": "FI-03"
+    },
+    {
+      "name": "Etel?-Savo",
+      "iso": "FI-04"
+    },
+    {
+      "name": "Kainuu",
+      "iso": "FI-05"
+    },
+    {
+      "name": "Kanta-H?me",
+      "iso": "FI-06"
+    },
+    {
+      "name": "Keski-Pohjanmaa",
+      "iso": "FI-07"
+    },
+    {
+      "name": "Keski-Suomi",
+      "iso": "FI-08"
+    },
+    {
+      "name": "Kymenlaakso",
+      "iso": "FI-09"
+    },
+    {
+      "name": "Lappi",
+      "iso": "FI-10"
+    },
+    {
+      "name": "Pirkanmaa",
+      "iso": "FI-11"
+    },
+    {
+      "name": "Pohjanmaa",
+      "iso": "FI-12"
+    },
+    {
+      "name": "Pohjois-Karjala",
+      "iso": "FI-13"
+    },
+    {
+      "name": "Pohjois-Pohjanmaa",
+      "iso": "FI-14"
+    },
+    {
+      "name": "Pohjois-Savo",
+      "iso": "FI-15"
+    },
+    {
+      "name": "P?ij?t-H?me",
+      "iso": "FI-16"
+    },
+    {
+      "name": "Satakunta",
+      "iso": "FI-17"
+    },
+    {
+      "name": "Uusimaa",
+      "iso": "FI-18"
+    },
+    {
+      "name": "Varsinais-Suomi",
+      "iso": "FI-19"
+    }
+  ],
+  "zipRegex": "^(?:FI)*(\\d{5})$"
+}

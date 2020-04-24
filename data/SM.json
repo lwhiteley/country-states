@@ -1,0 +1,45 @@
+{
+  "region": "Europe",
+  "iso": "SM",
+  "name": "San Marino",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Acquaviva",
+      "iso": "SM-01"
+    },
+    {
+      "name": "Borgo Maggiore",
+      "iso": "SM-06"
+    },
+    {
+      "name": "Chiesanuova",
+      "iso": "SM-02"
+    },
+    {
+      "name": "Domagnano",
+      "iso": "SM-03"
+    },
+    {
+      "name": "Faetano",
+      "iso": "SM-04"
+    },
+    {
+      "name": "Fiorentino",
+      "iso": "SM-05"
+    },
+    {
+      "name": "Montegiardino",
+      "iso": "SM-08"
+    },
+    {
+      "name": "San Marino",
+      "iso": "SM-07"
+    },
+    {
+      "name": "Serravalle",
+      "iso": "SM-09"
+    }
+  ],
+  "zipRegex": "^(4789\\d)$"
+}

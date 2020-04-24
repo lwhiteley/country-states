@@ -1,0 +1,125 @@
+{
+  "region": "Africa",
+  "iso": "EG",
+  "name": "Egypt",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ad Daqahl?yah",
+      "iso": "EG-DK"
+    },
+    {
+      "name": "Al Ba?r al A?mar",
+      "iso": "EG-BA"
+    },
+    {
+      "name": "Al Bu?ayrah",
+      "iso": "EG-BH"
+    },
+    {
+      "name": "Al Fayy?m",
+      "iso": "EG-FYM"
+    },
+    {
+      "name": "Al Gharb?yah",
+      "iso": "EG-GH"
+    },
+    {
+      "name": "Al Iskandar?yah",
+      "iso": "EG-ALX"
+    },
+    {
+      "name": "Al Ism???l?yah",
+      "iso": "EG-IS"
+    },
+    {
+      "name": "Al J?zah",
+      "iso": "EG-GZ"
+    },
+    {
+      "name": "Al Miny?",
+      "iso": "EG-MN"
+    },
+    {
+      "name": "Al Min?f?yah",
+      "iso": "EG-MNF"
+    },
+    {
+      "name": "Al Qaly?b?yah",
+      "iso": "EG-KB"
+    },
+    {
+      "name": "Al Q?hirah",
+      "iso": "EG-C"
+    },
+    {
+      "name": "Al Uq?ur",
+      "iso": "EG-LX"
+    },
+    {
+      "name": "Al W?d? al Jad?d",
+      "iso": "EG-WAD"
+    },
+    {
+      "name": "As Suways",
+      "iso": "EG-SUZ"
+    },
+    {
+      "name": "As S?dis min Ukt?bar",
+      "iso": "EG-SU"
+    },
+    {
+      "name": "Ash Sharq?yah",
+      "iso": "EG-SHR"
+    },
+    {
+      "name": "Asw?n",
+      "iso": "EG-ASN"
+    },
+    {
+      "name": "Asy??",
+      "iso": "EG-AST"
+    },
+    {
+      "name": "Ban? Suwayf",
+      "iso": "EG-BNS"
+    },
+    {
+      "name": "B?r Sa??d",
+      "iso": "EG-PTS"
+    },
+    {
+      "name": "Dumy??",
+      "iso": "EG-DT"
+    },
+    {
+      "name": "Jan?b S?n?'",
+      "iso": "EG-JS"
+    },
+    {
+      "name": "Kafr ash Shaykh",
+      "iso": "EG-KFS"
+    },
+    {
+      "name": "Ma?r??",
+      "iso": "EG-MT"
+    },
+    {
+      "name": "Qin?",
+      "iso": "EG-KN"
+    },
+    {
+      "name": "Sham?l S?n?'",
+      "iso": "EG-SIN"
+    },
+    {
+      "name": "S?h?j",
+      "iso": "EG-SHG"
+    },
+    {
+      "name": "?ulw?n",
+      "iso": "EG-HU"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

@@ -1,0 +1,81 @@
+{
+  "region": "Africa",
+  "iso": "AO",
+  "name": "Angola",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Bengo",
+      "iso": "AO-BGO"
+    },
+    {
+      "name": "Benguela",
+      "iso": "AO-BGU"
+    },
+    {
+      "name": "Bi?",
+      "iso": "AO-BIE"
+    },
+    {
+      "name": "Cabinda",
+      "iso": "AO-CAB"
+    },
+    {
+      "name": "Cunene",
+      "iso": "AO-CNN"
+    },
+    {
+      "name": "Huambo",
+      "iso": "AO-HUA"
+    },
+    {
+      "name": "Hu?la",
+      "iso": "AO-HUI"
+    },
+    {
+      "name": "Kuando Kubango",
+      "iso": "AO-CCU"
+    },
+    {
+      "name": "Kwanza Norte",
+      "iso": "AO-CNO"
+    },
+    {
+      "name": "Kwanza Sul",
+      "iso": "AO-CUS"
+    },
+    {
+      "name": "Luanda",
+      "iso": "AO-LUA"
+    },
+    {
+      "name": "Lunda Norte",
+      "iso": "AO-LNO"
+    },
+    {
+      "name": "Lunda Sul",
+      "iso": "AO-LSU"
+    },
+    {
+      "name": "Malange",
+      "iso": "AO-MAL"
+    },
+    {
+      "name": "Moxico",
+      "iso": "AO-MOX"
+    },
+    {
+      "name": "Namibe",
+      "iso": "AO-NAM"
+    },
+    {
+      "name": "U?ge",
+      "iso": "AO-UIG"
+    },
+    {
+      "name": "Zaire",
+      "iso": "AO-ZAI"
+    }
+  ],
+  "zipRegex": ""
+}

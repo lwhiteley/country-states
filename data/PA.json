@@ -1,0 +1,61 @@
+{
+  "region": "Americas",
+  "iso": "PA",
+  "name": "Panama",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Bocas del Toro",
+      "iso": "PA-1"
+    },
+    {
+      "name": "Chiriqu?",
+      "iso": "PA-4"
+    },
+    {
+      "name": "Cocl?",
+      "iso": "PA-2"
+    },
+    {
+      "name": "Col?n",
+      "iso": "PA-3"
+    },
+    {
+      "name": "Dari?n",
+      "iso": "PA-5"
+    },
+    {
+      "name": "Ember?",
+      "iso": "PA-EM"
+    },
+    {
+      "name": "Herrera",
+      "iso": "PA-6"
+    },
+    {
+      "name": "Kuna Yala",
+      "iso": "PA-KY"
+    },
+    {
+      "name": "Los Santos",
+      "iso": "PA-7"
+    },
+    {
+      "name": "Ng?be-Bugl?",
+      "iso": "PA-NB"
+    },
+    {
+      "name": "Panam?",
+      "iso": "PA-8"
+    },
+    {
+      "name": "Panam? Oeste",
+      "iso": "PA-10"
+    },
+    {
+      "name": "Veraguas",
+      "iso": "PA-9"
+    }
+  ],
+  "zipRegex": ""
+}

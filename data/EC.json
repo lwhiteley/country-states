@@ -1,0 +1,105 @@
+{
+  "region": "Americas",
+  "iso": "EC",
+  "name": "Ecuador",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Azuay",
+      "iso": "EC-A"
+    },
+    {
+      "name": "Bol?var",
+      "iso": "EC-B"
+    },
+    {
+      "name": "Carchi",
+      "iso": "EC-C"
+    },
+    {
+      "name": "Ca?ar",
+      "iso": "EC-F"
+    },
+    {
+      "name": "Chimborazo",
+      "iso": "EC-H"
+    },
+    {
+      "name": "Cotopaxi",
+      "iso": "EC-X"
+    },
+    {
+      "name": "El Oro",
+      "iso": "EC-O"
+    },
+    {
+      "name": "Esmeraldas",
+      "iso": "EC-E"
+    },
+    {
+      "name": "Gal?pagos",
+      "iso": "EC-W"
+    },
+    {
+      "name": "Guayas",
+      "iso": "EC-G"
+    },
+    {
+      "name": "Imbabura",
+      "iso": "EC-I"
+    },
+    {
+      "name": "Loja",
+      "iso": "EC-L"
+    },
+    {
+      "name": "Los R?os",
+      "iso": "EC-R"
+    },
+    {
+      "name": "Manab?",
+      "iso": "EC-M"
+    },
+    {
+      "name": "Morona-Santiago",
+      "iso": "EC-S"
+    },
+    {
+      "name": "Napo",
+      "iso": "EC-N"
+    },
+    {
+      "name": "Orellana",
+      "iso": "EC-D"
+    },
+    {
+      "name": "Pastaza",
+      "iso": "EC-Y"
+    },
+    {
+      "name": "Pichincha",
+      "iso": "EC-P"
+    },
+    {
+      "name": "Santa Elena",
+      "iso": "EC-SE"
+    },
+    {
+      "name": "Santo Domingo de los Ts?chilas",
+      "iso": "EC-SD"
+    },
+    {
+      "name": "Sucumb?os",
+      "iso": "EC-U"
+    },
+    {
+      "name": "Tungurahua",
+      "iso": "EC-T"
+    },
+    {
+      "name": "Zamora-Chinchipe",
+      "iso": "EC-Z"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

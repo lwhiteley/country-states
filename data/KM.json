@@ -1,0 +1,21 @@
+{
+  "region": "Africa",
+  "iso": "KM",
+  "name": "Comoros",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Anjouan",
+      "iso": "KM-A"
+    },
+    {
+      "name": "Grande Comore",
+      "iso": "KM-G"
+    },
+    {
+      "name": "Moh?li",
+      "iso": "KM-M"
+    }
+  ],
+  "zipRegex": ""
+}

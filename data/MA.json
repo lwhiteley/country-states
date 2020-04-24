@@ -1,0 +1,73 @@
+{
+  "region": "Africa",
+  "iso": "MA",
+  "name": "Morocco",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Chaouia-Ouardigha",
+      "iso": "MA-09"
+    },
+    {
+      "name": "Doukhala-Abda",
+      "iso": "MA-10"
+    },
+    {
+      "name": "F?s-Boulemane",
+      "iso": "MA-05"
+    },
+    {
+      "name": "Gharb-Chrarda-Beni Hssen",
+      "iso": "MA-02"
+    },
+    {
+      "name": "Grand Casablanca",
+      "iso": "MA-08"
+    },
+    {
+      "name": "Guelmim-Es Smara",
+      "iso": "MA-14"
+    },
+    {
+      "name": "L'Oriental",
+      "iso": "MA-04"
+    },
+    {
+      "name": "La?youne-Boujdour-Sakia el Hamra",
+      "iso": "MA-15"
+    },
+    {
+      "name": "Marrakech-Tensift-Al Haouz",
+      "iso": "MA-11"
+    },
+    {
+      "name": "Mekn?s-Tafilalet",
+      "iso": "MA-06"
+    },
+    {
+      "name": "Oued ed Dahab-Lagouira",
+      "iso": "MA-16"
+    },
+    {
+      "name": "Rabat-Sal?-Zemmour-Zaer",
+      "iso": "MA-07"
+    },
+    {
+      "name": "Souss-Massa-Dr?a",
+      "iso": "MA-13"
+    },
+    {
+      "name": "Tadla-Azilal",
+      "iso": "MA-12"
+    },
+    {
+      "name": "Tanger-T?touan",
+      "iso": "MA-01"
+    },
+    {
+      "name": "Taza-Al Hoceima-Taounate",
+      "iso": "MA-03"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

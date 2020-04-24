@@ -1,0 +1,49 @@
+{
+  "region": "Americas",
+  "iso": "DO",
+  "name": "Dominican Republic",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Cibao Nordeste",
+      "iso": "DO-33"
+    },
+    {
+      "name": "Cibao Noroeste",
+      "iso": "DO-34"
+    },
+    {
+      "name": "Cibao Norte",
+      "iso": "DO-35"
+    },
+    {
+      "name": "Cibao Sur",
+      "iso": "DO-36"
+    },
+    {
+      "name": "El Valle",
+      "iso": "DO-37"
+    },
+    {
+      "name": "Enriquillo",
+      "iso": "DO-38"
+    },
+    {
+      "name": "Higuamo",
+      "iso": "DO-39"
+    },
+    {
+      "name": "Ozama",
+      "iso": "DO-40"
+    },
+    {
+      "name": "Valdesia",
+      "iso": "DO-41"
+    },
+    {
+      "name": "Yuma",
+      "iso": "DO-42"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

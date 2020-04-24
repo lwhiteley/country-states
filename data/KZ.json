@@ -1,0 +1,73 @@
+{
+  "region": "Asia",
+  "iso": "KZ",
+  "name": "Kazakhstan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Almaty",
+      "iso": "KZ-ALA"
+    },
+    {
+      "name": "Almaty oblysy",
+      "iso": "KZ-ALM"
+    },
+    {
+      "name": "Aqmola oblysy",
+      "iso": "KZ-AKM"
+    },
+    {
+      "name": "Aqt?be oblysy",
+      "iso": "KZ-AKT"
+    },
+    {
+      "name": "Astana",
+      "iso": "KZ-AST"
+    },
+    {
+      "name": "Atyra? oblysy",
+      "iso": "KZ-ATY"
+    },
+    {
+      "name": "Batys Qazaqstan oblysy",
+      "iso": "KZ-ZAP"
+    },
+    {
+      "name": "Mangghysta? oblysy",
+      "iso": "KZ-MAN"
+    },
+    {
+      "name": "Ongt?stik Qazaqstan oblysy",
+      "iso": "KZ-YUZ"
+    },
+    {
+      "name": "Pavlodar oblysy",
+      "iso": "KZ-PAV"
+    },
+    {
+      "name": "Qaraghandy oblysy",
+      "iso": "KZ-KAR"
+    },
+    {
+      "name": "Qostanay oblysy",
+      "iso": "KZ-KUS"
+    },
+    {
+      "name": "Qyzylorda oblysy",
+      "iso": "KZ-KZY"
+    },
+    {
+      "name": "Shyghys Qazaqstan oblysy",
+      "iso": "KZ-VOS"
+    },
+    {
+      "name": "Solt?stik Qazaqstan oblysy",
+      "iso": "KZ-SEV"
+    },
+    {
+      "name": "Zhambyl oblysy",
+      "iso": "KZ-ZHA"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

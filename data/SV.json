@@ -1,0 +1,65 @@
+{
+  "region": "Americas",
+  "iso": "SV",
+  "name": "El Salvador",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ahuachap?n",
+      "iso": "SV-AH"
+    },
+    {
+      "name": "Caba?as",
+      "iso": "SV-CA"
+    },
+    {
+      "name": "Chalatenango",
+      "iso": "SV-CH"
+    },
+    {
+      "name": "Cuscatl?n",
+      "iso": "SV-CU"
+    },
+    {
+      "name": "La Libertad",
+      "iso": "SV-LI"
+    },
+    {
+      "name": "La Paz",
+      "iso": "SV-PA"
+    },
+    {
+      "name": "La Uni?n",
+      "iso": "SV-UN"
+    },
+    {
+      "name": "Moraz?n",
+      "iso": "SV-MO"
+    },
+    {
+      "name": "San Miguel",
+      "iso": "SV-SM"
+    },
+    {
+      "name": "San Salvador",
+      "iso": "SV-SS"
+    },
+    {
+      "name": "San Vicente",
+      "iso": "SV-SV"
+    },
+    {
+      "name": "Santa Ana",
+      "iso": "SV-SA"
+    },
+    {
+      "name": "Sonsonate",
+      "iso": "SV-SO"
+    },
+    {
+      "name": "Usulut?n",
+      "iso": "SV-US"
+    }
+  ],
+  "zipRegex": "^(01101)$"
+}

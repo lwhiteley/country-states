@@ -1,0 +1,33 @@
+{
+  "region": "Africa",
+  "iso": "MG",
+  "name": "Madagascar",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Antananarivo",
+      "iso": "MG-T"
+    },
+    {
+      "name": "Antsiranana",
+      "iso": "MG-D"
+    },
+    {
+      "name": "Fianarantsoa",
+      "iso": "MG-F"
+    },
+    {
+      "name": "Mahajanga",
+      "iso": "MG-M"
+    },
+    {
+      "name": "Toamasina",
+      "iso": "MG-A"
+    },
+    {
+      "name": "Toliara",
+      "iso": "MG-U"
+    }
+  ],
+  "zipRegex": "^(\\d{3})$"
+}

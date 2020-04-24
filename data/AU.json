@@ -1,0 +1,41 @@
+{
+  "region": "Oceania",
+  "iso": "AU",
+  "name": "Australia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Australian Capital Territory",
+      "iso": "AU-ACT"
+    },
+    {
+      "name": "New South Wales",
+      "iso": "AU-NSW"
+    },
+    {
+      "name": "Northern Territory",
+      "iso": "AU-NT"
+    },
+    {
+      "name": "Queensland",
+      "iso": "AU-QLD"
+    },
+    {
+      "name": "South Australia",
+      "iso": "AU-SA"
+    },
+    {
+      "name": "Tasmania",
+      "iso": "AU-TAS"
+    },
+    {
+      "name": "Victoria",
+      "iso": "AU-VIC"
+    },
+    {
+      "name": "Western Australia",
+      "iso": "AU-WA"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

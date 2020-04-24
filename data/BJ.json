@@ -1,0 +1,57 @@
+{
+  "region": "Africa",
+  "iso": "BJ",
+  "name": "Benin",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Alibori",
+      "iso": "BJ-AL"
+    },
+    {
+      "name": "Atakora",
+      "iso": "BJ-AK"
+    },
+    {
+      "name": "Atlantique",
+      "iso": "BJ-AQ"
+    },
+    {
+      "name": "Borgou",
+      "iso": "BJ-BO"
+    },
+    {
+      "name": "Collines",
+      "iso": "BJ-CO"
+    },
+    {
+      "name": "Donga",
+      "iso": "BJ-DO"
+    },
+    {
+      "name": "Kouffo",
+      "iso": "BJ-KO"
+    },
+    {
+      "name": "Littoral",
+      "iso": "BJ-LI"
+    },
+    {
+      "name": "Mono",
+      "iso": "BJ-MO"
+    },
+    {
+      "name": "Ou?m?",
+      "iso": "BJ-OU"
+    },
+    {
+      "name": "Plateau",
+      "iso": "BJ-PL"
+    },
+    {
+      "name": "Zou",
+      "iso": "BJ-ZO"
+    }
+  ],
+  "zipRegex": ""
+}

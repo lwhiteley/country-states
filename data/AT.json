@@ -1,0 +1,45 @@
+{
+  "region": "Europe",
+  "iso": "AT",
+  "name": "Austria",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Burgenland",
+      "iso": "AT-1"
+    },
+    {
+      "name": "K?rnten",
+      "iso": "AT-2"
+    },
+    {
+      "name": "Nieder?sterreich",
+      "iso": "AT-3"
+    },
+    {
+      "name": "Ober?sterreich",
+      "iso": "AT-4"
+    },
+    {
+      "name": "Salzburg",
+      "iso": "AT-5"
+    },
+    {
+      "name": "Steiermark",
+      "iso": "AT-6"
+    },
+    {
+      "name": "Tirol",
+      "iso": "AT-7"
+    },
+    {
+      "name": "Vorarlberg",
+      "iso": "AT-8"
+    },
+    {
+      "name": "Wien",
+      "iso": "AT-9"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

@@ -1,0 +1,49 @@
+{
+  "region": "Africa",
+  "iso": "SS",
+  "name": "South Sudan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Central Equatoria",
+      "iso": "SS-EC"
+    },
+    {
+      "name": "Eastern Equatoria",
+      "iso": "SS-EE"
+    },
+    {
+      "name": "Jonglei",
+      "iso": "SS-JG"
+    },
+    {
+      "name": "Lakes",
+      "iso": "SS-LK"
+    },
+    {
+      "name": "Northern Bahr el Ghazal",
+      "iso": "SS-BN"
+    },
+    {
+      "name": "Unity",
+      "iso": "SS-UY"
+    },
+    {
+      "name": "Upper Nile",
+      "iso": "SS-NU"
+    },
+    {
+      "name": "Warrap",
+      "iso": "SS-WR"
+    },
+    {
+      "name": "Western Bahr el Ghazal",
+      "iso": "SS-BW"
+    },
+    {
+      "name": "Western Equatoria",
+      "iso": "SS-EW"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

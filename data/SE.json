@@ -1,0 +1,93 @@
+{
+  "region": "Europe",
+  "iso": "SE",
+  "name": "Sweden",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Blekinge l?n",
+      "iso": "SE-K"
+    },
+    {
+      "name": "Dalarnas l?n",
+      "iso": "SE-W"
+    },
+    {
+      "name": "Gotlands l?n",
+      "iso": "SE-I"
+    },
+    {
+      "name": "G?vleborgs l?n",
+      "iso": "SE-X"
+    },
+    {
+      "name": "Hallands l?n",
+      "iso": "SE-N"
+    },
+    {
+      "name": "J?mtlands l?n",
+      "iso": "SE-Z"
+    },
+    {
+      "name": "J?nk?pings l?n",
+      "iso": "SE-F"
+    },
+    {
+      "name": "Kalmar l?n",
+      "iso": "SE-H"
+    },
+    {
+      "name": "Kronobergs l?n",
+      "iso": "SE-G"
+    },
+    {
+      "name": "Norrbottens l?n",
+      "iso": "SE-BD"
+    },
+    {
+      "name": "Sk?ne l?n",
+      "iso": "SE-M"
+    },
+    {
+      "name": "Stockholms l?n",
+      "iso": "SE-AB"
+    },
+    {
+      "name": "S?dermanlands l?n",
+      "iso": "SE-D"
+    },
+    {
+      "name": "Uppsala l?n",
+      "iso": "SE-C"
+    },
+    {
+      "name": "V?rmlands l?n",
+      "iso": "SE-S"
+    },
+    {
+      "name": "V?sterbottens l?n",
+      "iso": "SE-AC"
+    },
+    {
+      "name": "V?sternorrlands l?n",
+      "iso": "SE-Y"
+    },
+    {
+      "name": "V?stmanlands l?n",
+      "iso": "SE-U"
+    },
+    {
+      "name": "V?stra G?talands l?n",
+      "iso": "SE-O"
+    },
+    {
+      "name": "?rebro l?n",
+      "iso": "SE-T"
+    },
+    {
+      "name": "?sterg?tlands l?n",
+      "iso": "SE-E"
+    }
+  ],
+  "zipRegex": "^(\\d{3} \\d{2})$"
+}

@@ -1,0 +1,77 @@
+{
+  "region": "Africa",
+  "iso": "MU",
+  "name": "Mauritius",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Agalega Islands",
+      "iso": "MU-AG"
+    },
+    {
+      "name": "Beau Bassin-Rose Hill",
+      "iso": "MU-BR"
+    },
+    {
+      "name": "Black River",
+      "iso": "MU-BL"
+    },
+    {
+      "name": "Cargados Carajos Shoals",
+      "iso": "MU-CC"
+    },
+    {
+      "name": "Curepipe",
+      "iso": "MU-CU"
+    },
+    {
+      "name": "Flacq",
+      "iso": "MU-FL"
+    },
+    {
+      "name": "Grand Port",
+      "iso": "MU-GP"
+    },
+    {
+      "name": "Moka",
+      "iso": "MU-MO"
+    },
+    {
+      "name": "Pamplemousses",
+      "iso": "MU-PA"
+    },
+    {
+      "name": "Plaines Wilhems",
+      "iso": "MU-PW"
+    },
+    {
+      "name": "Port Louis",
+      "iso": "MU-PL"
+    },
+    {
+      "name": "Port Louis",
+      "iso": "MU-PU"
+    },
+    {
+      "name": "Quatre Bornes",
+      "iso": "MU-QB"
+    },
+    {
+      "name": "Rivi?re du Rempart",
+      "iso": "MU-RR"
+    },
+    {
+      "name": "Rodrigues Island",
+      "iso": "MU-RO"
+    },
+    {
+      "name": "Savanne",
+      "iso": "MU-SA"
+    },
+    {
+      "name": "Vacoas-Phoenix",
+      "iso": "MU-VP"
+    }
+  ],
+  "zipRegex": "^([0-9A-Z]\\d{4})$"
+}

@@ -1,0 +1,8 @@
+{
+  "region": "Europe",
+  "iso": "SJ",
+  "name": "Svalbard and Jan Mayen",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(\\d{4})$"
+}

@@ -1,0 +1,73 @@
+{
+  "region": "Oceania",
+  "iso": "PW",
+  "name": "Palau",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Aimeliik",
+      "iso": "PW-002"
+    },
+    {
+      "name": "Airai",
+      "iso": "PW-004"
+    },
+    {
+      "name": "Angaur",
+      "iso": "PW-010"
+    },
+    {
+      "name": "Hatobohei",
+      "iso": "PW-050"
+    },
+    {
+      "name": "Kayangel",
+      "iso": "PW-100"
+    },
+    {
+      "name": "Koror",
+      "iso": "PW-150"
+    },
+    {
+      "name": "Melekeok",
+      "iso": "PW-212"
+    },
+    {
+      "name": "Ngaraard",
+      "iso": "PW-214"
+    },
+    {
+      "name": "Ngarchelong",
+      "iso": "PW-218"
+    },
+    {
+      "name": "Ngardmau",
+      "iso": "PW-222"
+    },
+    {
+      "name": "Ngatpang",
+      "iso": "PW-224"
+    },
+    {
+      "name": "Ngchesar",
+      "iso": "PW-226"
+    },
+    {
+      "name": "Ngeremlengui",
+      "iso": "PW-227"
+    },
+    {
+      "name": "Ngiwal",
+      "iso": "PW-228"
+    },
+    {
+      "name": "Peleliu",
+      "iso": "PW-350"
+    },
+    {
+      "name": "Sonsorol",
+      "iso": "PW-370"
+    }
+  ],
+  "zipRegex": "^(96940)$"
+}

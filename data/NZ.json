@@ -1,0 +1,119 @@
+{
+  "region": "Oceania",
+  "iso": "NZ",
+  "name": "New Zealand",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "North Island",
+      "iso": "NZ-N",
+      "subdivision": "Island"
+    },
+    {
+      "name": "South Island",
+      "iso": "NZ-S",
+      "subdivision": "Island"
+    },
+    {
+      "name": "Auckland",
+      "iso": "NZ-AUK",
+      "subdivision": "regional council",
+      "native": "T?maki-makau-rau"
+    },
+    {
+      "name": "Bay of Plenty",
+      "iso": "NZ-BOP",
+      "subdivision": "regional council",
+      "native": "Te Moana a Toi Te Huatahi"
+    },
+    {
+      "name": "Canterbury",
+      "iso": "NZ-CAN",
+      "subdivision": "regional council",
+      "native": "Waitaha"
+    },
+    {
+      "name": "Hawke's Bay",
+      "iso": "NZ-HKB",
+      "subdivision": "regional council",
+      "native": "Te Matau a M?ui"
+    },
+    {
+      "name": "Manawatu-Wanganui",
+      "iso": "NZ-MWT",
+      "subdivision": "regional council",
+      "native": "Manawatu Whanganui"
+    },
+    {
+      "name": "Northland",
+      "iso": "NZ-NTL",
+      "subdivision": "regional council",
+      "native": "Te Tai tokerau"
+    },
+    {
+      "name": "Otago",
+      "iso": "NZ-OTA",
+      "subdivision": "regional council",
+      "native": "? T?kou"
+    },
+    {
+      "name": "Southland",
+      "iso": "NZ-STL",
+      "subdivision": "regional council",
+      "native": "Murihiku"
+    },
+    {
+      "name": "Taranaki",
+      "iso": "NZ-TKI",
+      "subdivision": "regional council",
+      "native": "Taranaki"
+    },
+    {
+      "name": "Waikato",
+      "iso": "NZ-WKO",
+      "subdivision": "regional council",
+      "native": "Waikato"
+    },
+    {
+      "name": "Wellington",
+      "iso": "NZ-WGN",
+      "subdivision": "regional council",
+      "native": "Te Whanga-nui-a-Tara"
+    },
+    {
+      "name": "West Coast",
+      "iso": "NZ-WTC",
+      "subdivision": "regional council",
+      "native": "Te Taihau ? uru"
+    },
+    {
+      "name": "Chatham Islands Territory",
+      "iso": "NZ-CIT",
+      "subdivision": "special island authority",
+      "native": "Wharekauri"
+    },
+    {
+      "name": "Gisborne District",
+      "iso": "NZ-GIS",
+      "subdivision": "unitary authority",
+      "native": "T?ranga nui a Kiwa"
+    },
+    {
+      "name": "Marlborough District",
+      "iso": "NZ-MBH",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Nelson City",
+      "iso": "NZ-NSN",
+      "subdivision": "unitary authority",
+      "native": "Whakat?"
+    },
+    {
+      "name": "Tasman District",
+      "iso": "NZ-TAS",
+      "subdivision": "unitary authority"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

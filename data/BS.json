@@ -1,0 +1,133 @@
+{
+  "region": "Americas",
+  "iso": "BS",
+  "name": "Bahamas",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Acklins",
+      "iso": "BS-AK"
+    },
+    {
+      "name": "Berry Islands",
+      "iso": "BS-BY"
+    },
+    {
+      "name": "Bimini",
+      "iso": "BS-BI"
+    },
+    {
+      "name": "Black Point",
+      "iso": "BS-BP"
+    },
+    {
+      "name": "Cat Island",
+      "iso": "BS-CI"
+    },
+    {
+      "name": "Central Abaco",
+      "iso": "BS-CO"
+    },
+    {
+      "name": "Central Andros",
+      "iso": "BS-CS"
+    },
+    {
+      "name": "Central Eleuthera",
+      "iso": "BS-CE"
+    },
+    {
+      "name": "City of Freeport",
+      "iso": "BS-FP"
+    },
+    {
+      "name": "Crooked Island and Long Cay",
+      "iso": "BS-CK"
+    },
+    {
+      "name": "East Grand Bahama",
+      "iso": "BS-EG"
+    },
+    {
+      "name": "Exuma",
+      "iso": "BS-EX"
+    },
+    {
+      "name": "Grand Cay",
+      "iso": "BS-GC"
+    },
+    {
+      "name": "Harbour Island",
+      "iso": "BS-HI"
+    },
+    {
+      "name": "Hope Town",
+      "iso": "BS-HT"
+    },
+    {
+      "name": "Inagua",
+      "iso": "BS-IN"
+    },
+    {
+      "name": "Long Island",
+      "iso": "BS-LI"
+    },
+    {
+      "name": "Mangrove Cay",
+      "iso": "BS-MC"
+    },
+    {
+      "name": "Mayaguana",
+      "iso": "BS-MG"
+    },
+    {
+      "name": "Moores Island",
+      "iso": "BS-MI"
+    },
+    {
+      "name": "North Abaco",
+      "iso": "BS-NO"
+    },
+    {
+      "name": "North Andros",
+      "iso": "BS-NS"
+    },
+    {
+      "name": "North Eleuthera",
+      "iso": "BS-NE"
+    },
+    {
+      "name": "Ragged Island",
+      "iso": "BS-RI"
+    },
+    {
+      "name": "Rum Cay",
+      "iso": "BS-RC"
+    },
+    {
+      "name": "San Salvador",
+      "iso": "BS-SS"
+    },
+    {
+      "name": "South Abaco",
+      "iso": "BS-SO"
+    },
+    {
+      "name": "South Andros",
+      "iso": "BS-SA"
+    },
+    {
+      "name": "South Eleuthera",
+      "iso": "BS-SE"
+    },
+    {
+      "name": "Spanish Wells",
+      "iso": "BS-SW"
+    },
+    {
+      "name": "West Grand Bahama",
+      "iso": "BS-WG"
+    }
+  ],
+  "zipRegex": ""
+}

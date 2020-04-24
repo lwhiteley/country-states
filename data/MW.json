@@ -1,0 +1,21 @@
+{
+  "region": "Africa",
+  "iso": "MW",
+  "name": "Malawi",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Central Region",
+      "iso": "MW-C"
+    },
+    {
+      "name": "Northern Region",
+      "iso": "MW-N"
+    },
+    {
+      "name": "Southern Region",
+      "iso": "MW-S"
+    }
+  ],
+  "zipRegex": ""
+}

@@ -1,0 +1,45 @@
+{
+  "region": "Africa",
+  "iso": "ML",
+  "name": "Mali",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Bamako",
+      "iso": "ML-BKO"
+    },
+    {
+      "name": "Gao",
+      "iso": "ML-7"
+    },
+    {
+      "name": "Kayes",
+      "iso": "ML-1"
+    },
+    {
+      "name": "Kidal",
+      "iso": "ML-8"
+    },
+    {
+      "name": "Koulikoro",
+      "iso": "ML-2"
+    },
+    {
+      "name": "Mopti",
+      "iso": "ML-5"
+    },
+    {
+      "name": "Sikasso",
+      "iso": "ML-3"
+    },
+    {
+      "name": "S?gou",
+      "iso": "ML-4"
+    },
+    {
+      "name": "Tombouctou",
+      "iso": "ML-6"
+    }
+  ],
+  "zipRegex": ""
+}

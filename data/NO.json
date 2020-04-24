@@ -1,0 +1,93 @@
+{
+  "region": "Europe",
+  "iso": "NO",
+  "name": "Norway",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Akershus",
+      "iso": "NO-02"
+    },
+    {
+      "name": "Aust-Agder",
+      "iso": "NO-09"
+    },
+    {
+      "name": "Buskerud",
+      "iso": "NO-06"
+    },
+    {
+      "name": "Finnmark",
+      "iso": "NO-20"
+    },
+    {
+      "name": "Hedmark",
+      "iso": "NO-04"
+    },
+    {
+      "name": "Hordaland",
+      "iso": "NO-12"
+    },
+    {
+      "name": "Jan Mayen",
+      "iso": "NO-22"
+    },
+    {
+      "name": "M?re og Romsdal",
+      "iso": "NO-15"
+    },
+    {
+      "name": "Nord-Tr?ndelag",
+      "iso": "NO-17"
+    },
+    {
+      "name": "Nordland",
+      "iso": "NO-18"
+    },
+    {
+      "name": "Oppland",
+      "iso": "NO-05"
+    },
+    {
+      "name": "Oslo",
+      "iso": "NO-03"
+    },
+    {
+      "name": "Rogaland",
+      "iso": "NO-11"
+    },
+    {
+      "name": "Sogn og Fjordane",
+      "iso": "NO-14"
+    },
+    {
+      "name": "Svalbard",
+      "iso": "NO-21"
+    },
+    {
+      "name": "S?r-Tr?ndelag",
+      "iso": "NO-16"
+    },
+    {
+      "name": "Telemark",
+      "iso": "NO-08"
+    },
+    {
+      "name": "Troms",
+      "iso": "NO-19"
+    },
+    {
+      "name": "Vest-Agder",
+      "iso": "NO-10"
+    },
+    {
+      "name": "Vestfold",
+      "iso": "NO-07"
+    },
+    {
+      "name": "?stfold",
+      "iso": "NO-01"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

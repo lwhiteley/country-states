@@ -1,0 +1,89 @@
+{
+  "region": "Europe",
+  "iso": "PT",
+  "name": "Portugal",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Aveiro",
+      "iso": "PT-01"
+    },
+    {
+      "name": "Beja",
+      "iso": "PT-02"
+    },
+    {
+      "name": "Braga",
+      "iso": "PT-03"
+    },
+    {
+      "name": "Bragan?a",
+      "iso": "PT-04"
+    },
+    {
+      "name": "Castelo Branco",
+      "iso": "PT-05"
+    },
+    {
+      "name": "Coimbra",
+      "iso": "PT-06"
+    },
+    {
+      "name": "Faro",
+      "iso": "PT-08"
+    },
+    {
+      "name": "Guarda",
+      "iso": "PT-09"
+    },
+    {
+      "name": "Leiria",
+      "iso": "PT-10"
+    },
+    {
+      "name": "Lisboa",
+      "iso": "PT-11"
+    },
+    {
+      "name": "Portalegre",
+      "iso": "PT-12"
+    },
+    {
+      "name": "Porto",
+      "iso": "PT-13"
+    },
+    {
+      "name": "Regi?o Aut?noma da Madeira",
+      "iso": "PT-30"
+    },
+    {
+      "name": "Regi?o Aut?noma dos A?ores",
+      "iso": "PT-20"
+    },
+    {
+      "name": "Santar?m",
+      "iso": "PT-14"
+    },
+    {
+      "name": "Set?bal",
+      "iso": "PT-15"
+    },
+    {
+      "name": "Viana do Castelo",
+      "iso": "PT-16"
+    },
+    {
+      "name": "Vila Real",
+      "iso": "PT-17"
+    },
+    {
+      "name": "Viseu",
+      "iso": "PT-18"
+    },
+    {
+      "name": "?vora",
+      "iso": "PT-07"
+    }
+  ],
+  "zipRegex": "^\\d{4}((-|\\s)?\\d{3})?$"
+}

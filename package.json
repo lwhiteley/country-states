@@ -1,0 +1,33 @@
+{
+  "name": "country-states",
+  "version": "0.0.0",
+  "description": "database with countries and states",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "git push --tags && git push",
+    "release:patch": "npm version patch && npm publish --access public",
+    "release:minor": "npm version minor && npm publish --access public",
+    "release:major": "npm version major && npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwhiteley/country-states.git"
+  },
+  "keywords": [
+    "country",
+    "states",
+    "federal",
+    "countries",
+    "state",
+    "geoip",
+    "iso"
+  ],
+  "author": "Layton Whiteley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwhiteley/country-states/issues"
+  },
+  "homepage": "https://github.com/lwhiteley/country-states#readme",
+  "devDependencies": {}
+}

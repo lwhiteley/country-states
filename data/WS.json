@@ -1,0 +1,53 @@
+{
+  "region": "Oceania",
+  "iso": "WS",
+  "name": "Samoa",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "A'ana",
+      "iso": "WS-AA"
+    },
+    {
+      "name": "Aiga-i-le-Tai",
+      "iso": "WS-AL"
+    },
+    {
+      "name": "Atua",
+      "iso": "WS-AT"
+    },
+    {
+      "name": "Fa'asaleleaga",
+      "iso": "WS-FA"
+    },
+    {
+      "name": "Gaga'emauga",
+      "iso": "WS-GE"
+    },
+    {
+      "name": "Gagaifomauga",
+      "iso": "WS-GI"
+    },
+    {
+      "name": "Palauli",
+      "iso": "WS-PA"
+    },
+    {
+      "name": "Satupa'itea",
+      "iso": "WS-SA"
+    },
+    {
+      "name": "Tuamasaga",
+      "iso": "WS-TU"
+    },
+    {
+      "name": "Va'a-o-Fonoti",
+      "iso": "WS-VF"
+    },
+    {
+      "name": "Vaisigano",
+      "iso": "WS-VS"
+    }
+  ],
+  "zipRegex": ""
+}

@@ -1,0 +1,33 @@
+{
+  "region": "Oceania",
+  "iso": "VU",
+  "name": "Vanuatu",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Malampa",
+      "iso": "VU-MAP"
+    },
+    {
+      "name": "P?nama",
+      "iso": "VU-PAM"
+    },
+    {
+      "name": "Sanma",
+      "iso": "VU-SAM"
+    },
+    {
+      "name": "Sh?fa",
+      "iso": "VU-SEE"
+    },
+    {
+      "name": "Taf?a",
+      "iso": "VU-TAE"
+    },
+    {
+      "name": "Torba",
+      "iso": "VU-TOB"
+    }
+  ],
+  "zipRegex": ""
+}

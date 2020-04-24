@@ -1,0 +1,21 @@
+{
+  "region": "Africa",
+  "iso": "SH",
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ascension",
+      "iso": "SH-AC"
+    },
+    {
+      "name": "Saint Helena",
+      "iso": "SH-HL"
+    },
+    {
+      "name": "Tristan da Cunha",
+      "iso": "SH-TA"
+    }
+  ],
+  "zipRegex": "^[A-Z]{4} (1ZZ)$"
+}

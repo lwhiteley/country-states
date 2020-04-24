@@ -1,0 +1,61 @@
+{
+  "region": "Africa",
+  "iso": "MR",
+  "name": "Mauritania",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Adrar",
+      "iso": "MR-07"
+    },
+    {
+      "name": "Assaba",
+      "iso": "MR-03"
+    },
+    {
+      "name": "Brakna",
+      "iso": "MR-05"
+    },
+    {
+      "name": "Dakhlet Nou?dhibou",
+      "iso": "MR-08"
+    },
+    {
+      "name": "Gorgol",
+      "iso": "MR-04"
+    },
+    {
+      "name": "Guidimaka",
+      "iso": "MR-10"
+    },
+    {
+      "name": "Hodh ech Chargui",
+      "iso": "MR-01"
+    },
+    {
+      "name": "Hodh el Gharbi",
+      "iso": "MR-02"
+    },
+    {
+      "name": "Inchiri",
+      "iso": "MR-12"
+    },
+    {
+      "name": "Nouakchott",
+      "iso": "MR-NKC"
+    },
+    {
+      "name": "Tagant",
+      "iso": "MR-09"
+    },
+    {
+      "name": "Tiris Zemmour",
+      "iso": "MR-11"
+    },
+    {
+      "name": "Trarza",
+      "iso": "MR-06"
+    }
+  ],
+  "zipRegex": ""
+}

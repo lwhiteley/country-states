@@ -1,0 +1,93 @@
+{
+  "region": "Asia",
+  "iso": "YE",
+  "name": "Yemen",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "'Adan",
+      "iso": "YE-AD"
+    },
+    {
+      "name": "'Amr?n",
+      "iso": "YE-AM"
+    },
+    {
+      "name": "Aby?n",
+      "iso": "YE-AB"
+    },
+    {
+      "name": "Al Bay??'",
+      "iso": "YE-BA"
+    },
+    {
+      "name": "Al Jawf",
+      "iso": "YE-JA"
+    },
+    {
+      "name": "Al Mahrah",
+      "iso": "YE-MR"
+    },
+    {
+      "name": "Al Ma?w?t",
+      "iso": "YE-MW"
+    },
+    {
+      "name": "Al ?udaydah",
+      "iso": "YE-HU"
+    },
+    {
+      "name": "A? ??li'",
+      "iso": "YE-DA"
+    },
+    {
+      "name": "Dham?r",
+      "iso": "YE-DH"
+    },
+    {
+      "name": "Ibb",
+      "iso": "YE-IB"
+    },
+    {
+      "name": "La?ij",
+      "iso": "YE-LA"
+    },
+    {
+      "name": "Ma'rib",
+      "iso": "YE-MA"
+    },
+    {
+      "name": "Raymah",
+      "iso": "YE-RA"
+    },
+    {
+      "name": "Shabwah",
+      "iso": "YE-SH"
+    },
+    {
+      "name": "T?�izz",
+      "iso": "YE-TA"
+    },
+    {
+      "name": "?an�?'",
+      "iso": "YE-SA"
+    },
+    {
+      "name": "?an�?'",
+      "iso": "YE-SN"
+    },
+    {
+      "name": "??�dah",
+      "iso": "YE-SD"
+    },
+    {
+      "name": "?ajjah",
+      "iso": "YE-HJ"
+    },
+    {
+      "name": "?a?ramawt",
+      "iso": "YE-HD"
+    }
+  ],
+  "zipRegex": ""
+}

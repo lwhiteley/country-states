@@ -1,0 +1,37 @@
+{
+  "region": "Americas",
+  "iso": "GD",
+  "name": "Grenada",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Saint Andrew",
+      "iso": "GD-01"
+    },
+    {
+      "name": "Saint David",
+      "iso": "GD-02"
+    },
+    {
+      "name": "Saint George",
+      "iso": "GD-03"
+    },
+    {
+      "name": "Saint John",
+      "iso": "GD-04"
+    },
+    {
+      "name": "Saint Mark",
+      "iso": "GD-05"
+    },
+    {
+      "name": "Saint Patrick",
+      "iso": "GD-06"
+    },
+    {
+      "name": "Southern Grenadine Islands",
+      "iso": "GD-10"
+    }
+  ],
+  "zipRegex": ""
+}

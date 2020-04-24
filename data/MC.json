@@ -1,0 +1,77 @@
+{
+  "region": "Europe",
+  "iso": "MC",
+  "name": "Monaco",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Fontvieille",
+      "iso": "MC-FO"
+    },
+    {
+      "name": "Jardin Exotique",
+      "iso": "MC-JE"
+    },
+    {
+      "name": "La Colle",
+      "iso": "MC-CL"
+    },
+    {
+      "name": "La Condamine",
+      "iso": "MC-CO"
+    },
+    {
+      "name": "La Gare",
+      "iso": "MC-GA"
+    },
+    {
+      "name": "La Source",
+      "iso": "MC-SO"
+    },
+    {
+      "name": "Larvotto",
+      "iso": "MC-LA"
+    },
+    {
+      "name": "Malbousquet",
+      "iso": "MC-MA"
+    },
+    {
+      "name": "Monaco-Ville",
+      "iso": "MC-MO"
+    },
+    {
+      "name": "Moneghetti",
+      "iso": "MC-MG"
+    },
+    {
+      "name": "Monte-Carlo",
+      "iso": "MC-MC"
+    },
+    {
+      "name": "Moulins",
+      "iso": "MC-MU"
+    },
+    {
+      "name": "Port-Hercule",
+      "iso": "MC-PH"
+    },
+    {
+      "name": "Saint-Roman",
+      "iso": "MC-SR"
+    },
+    {
+      "name": "Sainte-D?vote",
+      "iso": "MC-SD"
+    },
+    {
+      "name": "Sp?lugues",
+      "iso": "MC-SP"
+    },
+    {
+      "name": "Vallon de la Rousse",
+      "iso": "MC-VR"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

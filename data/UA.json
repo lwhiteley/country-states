@@ -1,0 +1,117 @@
+{
+  "region": "Europe",
+  "iso": "UA",
+  "name": "Ukraine",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Avtonomna Respublika Krym",
+      "iso": "UA-43"
+    },
+    {
+      "name": "Cherkas'ka Oblast'",
+      "iso": "UA-71"
+    },
+    {
+      "name": "Chernihivs'ka Oblast'",
+      "iso": "UA-74"
+    },
+    {
+      "name": "Chernivets'ka Oblast'",
+      "iso": "UA-77"
+    },
+    {
+      "name": "Dnipropetrovs'ka Oblast'",
+      "iso": "UA-12"
+    },
+    {
+      "name": "Donets'ka Oblast'",
+      "iso": "UA-14"
+    },
+    {
+      "name": "Ivano-Frankivs'ka Oblast'",
+      "iso": "UA-26"
+    },
+    {
+      "name": "Kharkivs'ka Oblast'",
+      "iso": "UA-63"
+    },
+    {
+      "name": "Khersons'ka Oblast'",
+      "iso": "UA-65"
+    },
+    {
+      "name": "Khmel'nyts'ka Oblast'",
+      "iso": "UA-68"
+    },
+    {
+      "name": "Kirovohrads'ka Oblast'",
+      "iso": "UA-35"
+    },
+    {
+      "name": "Ky?v",
+      "iso": "UA-30"
+    },
+    {
+      "name": "Ky?vs'ka Oblast'",
+      "iso": "UA-32"
+    },
+    {
+      "name": "L'vivs'ka Oblast'",
+      "iso": "UA-46"
+    },
+    {
+      "name": "Luhans'ka Oblast'",
+      "iso": "UA-09"
+    },
+    {
+      "name": "Mykola?vs'ka Oblast'",
+      "iso": "UA-48"
+    },
+    {
+      "name": "Odes'ka Oblast'",
+      "iso": "UA-51"
+    },
+    {
+      "name": "Poltavs'ka Oblast'",
+      "iso": "UA-53"
+    },
+    {
+      "name": "Rivnens'ka Oblast'",
+      "iso": "UA-56"
+    },
+    {
+      "name": "Sevastopol'",
+      "iso": "UA-40"
+    },
+    {
+      "name": "Sums'ka Oblast'",
+      "iso": "UA-59"
+    },
+    {
+      "name": "Ternopil's'ka Oblast'",
+      "iso": "UA-61"
+    },
+    {
+      "name": "Vinnyts'ka Oblast'",
+      "iso": "UA-05"
+    },
+    {
+      "name": "Volyns'ka Oblast'",
+      "iso": "UA-07"
+    },
+    {
+      "name": "Zakarpats'ka Oblast'",
+      "iso": "UA-21"
+    },
+    {
+      "name": "Zaporiz'ka Oblast'",
+      "iso": "UA-23"
+    },
+    {
+      "name": "Zhytomyrs'ka Oblast'",
+      "iso": "UA-18"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

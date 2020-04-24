@@ -1,0 +1,29 @@
+{
+  "region": "Africa",
+  "iso": "RW",
+  "name": "Rwanda",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Est",
+      "iso": "RW-02"
+    },
+    {
+      "name": "Nord",
+      "iso": "RW-03"
+    },
+    {
+      "name": "Ouest",
+      "iso": "RW-04"
+    },
+    {
+      "name": "Sud",
+      "iso": "RW-05"
+    },
+    {
+      "name": "Ville de Kigali",
+      "iso": "RW-01"
+    }
+  ],
+  "zipRegex": ""
+}

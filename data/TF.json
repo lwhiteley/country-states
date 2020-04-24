@@ -1,0 +1,8 @@
+{
+  "region": "Antarctica",
+  "iso": "TF",
+  "name": "French Southern Territories",
+  "hasPostalCodes": false,
+  "states": [],
+  "zipRegex": "^((984)\\d{2})$"
+}

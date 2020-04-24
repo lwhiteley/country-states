@@ -1,0 +1,25 @@
+{
+  "region": "Europe",
+  "iso": "IE",
+  "name": "Ireland",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Connaught",
+      "iso": "IE-C"
+    },
+    {
+      "name": "Leinster",
+      "iso": "IE-L"
+    },
+    {
+      "name": "Munster",
+      "iso": "IE-M"
+    },
+    {
+      "name": "Ulster",
+      "iso": "IE-U"
+    }
+  ],
+  "zipRegex": ""
+}

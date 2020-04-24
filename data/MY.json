@@ -1,0 +1,89 @@
+{
+  "region": "Asia",
+  "iso": "MY",
+  "name": "Malaysia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Wilayah Persekutuan Kuala Lumpur",
+      "iso": "MY-14",
+      "subdivision": "federal territory"
+    },
+    {
+      "name": "Wilayah Persekutuan Labuan",
+      "iso": "MY-15",
+      "subdivision": "federal territory"
+    },
+    {
+      "name": "Wilayah Persekutuan Putrajaya",
+      "iso": "MY-16",
+      "subdivision": "federal territory"
+    },
+    {
+      "name": "Johor",
+      "iso": "MY-01",
+      "subdivision": "state"
+    },
+    {
+      "name": "Kedah",
+      "iso": "MY-02",
+      "subdivision": "state"
+    },
+    {
+      "name": "Kelantan",
+      "iso": "MY-03",
+      "subdivision": "state"
+    },
+    {
+      "name": "Melaka",
+      "iso": "MY-04",
+      "subdivision": "state"
+    },
+    {
+      "name": "Negeri Sembilan",
+      "iso": "MY-05",
+      "subdivision": "state"
+    },
+    {
+      "name": "Pahang",
+      "iso": "MY-06",
+      "subdivision": "state"
+    },
+    {
+      "name": "Perak",
+      "iso": "MY-08",
+      "subdivision": "state"
+    },
+    {
+      "name": "Perlis",
+      "iso": "MY-09",
+      "subdivision": "state"
+    },
+    {
+      "name": "Pulau Pinang",
+      "iso": "MY-07",
+      "subdivision": "state"
+    },
+    {
+      "name": "Sabah",
+      "iso": "MY-12",
+      "subdivision": "state"
+    },
+    {
+      "name": "Sarawak",
+      "iso": "MY-13",
+      "subdivision": "state"
+    },
+    {
+      "name": "Selangor",
+      "iso": "MY-10",
+      "subdivision": "state"
+    },
+    {
+      "name": "Terengganu",
+      "iso": "MY-11",
+      "subdivision": "state"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

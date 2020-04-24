@@ -1,0 +1,97 @@
+{
+  "region": "Americas",
+  "iso": "GT",
+  "name": "Guatemala",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Alta Verapaz",
+      "iso": "GT-AV"
+    },
+    {
+      "name": "Baja Verapaz",
+      "iso": "GT-BV"
+    },
+    {
+      "name": "Chimaltenango",
+      "iso": "GT-CM"
+    },
+    {
+      "name": "Chiquimula",
+      "iso": "GT-CQ"
+    },
+    {
+      "name": "El Progreso",
+      "iso": "GT-PR"
+    },
+    {
+      "name": "Escuintla",
+      "iso": "GT-ES"
+    },
+    {
+      "name": "Guatemala",
+      "iso": "GT-GU"
+    },
+    {
+      "name": "Huehuetenango",
+      "iso": "GT-HU"
+    },
+    {
+      "name": "Izabal",
+      "iso": "GT-IZ"
+    },
+    {
+      "name": "Jalapa",
+      "iso": "GT-JA"
+    },
+    {
+      "name": "Jutiapa",
+      "iso": "GT-JU"
+    },
+    {
+      "name": "Pet?n",
+      "iso": "GT-PE"
+    },
+    {
+      "name": "Quetzaltenango",
+      "iso": "GT-QZ"
+    },
+    {
+      "name": "Quich?",
+      "iso": "GT-QC"
+    },
+    {
+      "name": "Retalhuleu",
+      "iso": "GT-RE"
+    },
+    {
+      "name": "Sacatep?quez",
+      "iso": "GT-SA"
+    },
+    {
+      "name": "San Marcos",
+      "iso": "GT-SM"
+    },
+    {
+      "name": "Santa Rosa",
+      "iso": "GT-SR"
+    },
+    {
+      "name": "Solol?",
+      "iso": "GT-SO"
+    },
+    {
+      "name": "Suchitep?quez",
+      "iso": "GT-SU"
+    },
+    {
+      "name": "Totonicap?n",
+      "iso": "GT-TO"
+    },
+    {
+      "name": "Zacapa",
+      "iso": "GT-ZA"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

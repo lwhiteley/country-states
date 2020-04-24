@@ -1,0 +1,8 @@
+{
+  "region": "Africa",
+  "iso": "RE",
+  "name": "Réunion",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "[9]{1}[7|8][4|7|8]\\d{2}"
+}

@@ -1,0 +1,49 @@
+{
+  "region": "Africa",
+  "iso": "ZW",
+  "name": "Zimbabwe",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Bulawayo",
+      "iso": "ZW-BU"
+    },
+    {
+      "name": "Harare",
+      "iso": "ZW-HA"
+    },
+    {
+      "name": "Manicaland",
+      "iso": "ZW-MA"
+    },
+    {
+      "name": "Mashonaland Central",
+      "iso": "ZW-MC"
+    },
+    {
+      "name": "Mashonaland East",
+      "iso": "ZW-ME"
+    },
+    {
+      "name": "Mashonaland West",
+      "iso": "ZW-MW"
+    },
+    {
+      "name": "Masvingo",
+      "iso": "ZW-MV"
+    },
+    {
+      "name": "Matabeleland North",
+      "iso": "ZW-MN"
+    },
+    {
+      "name": "Matabeleland South",
+      "iso": "ZW-MS"
+    },
+    {
+      "name": "Midlands",
+      "iso": "ZW-MI"
+    }
+  ],
+  "zipRegex": ""
+}

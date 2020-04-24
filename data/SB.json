@@ -1,0 +1,49 @@
+{
+  "region": "Oceania",
+  "iso": "SB",
+  "name": "Solomon Islands",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Capital Territory",
+      "iso": "SB-CT"
+    },
+    {
+      "name": "Central",
+      "iso": "SB-CE"
+    },
+    {
+      "name": "Choiseul",
+      "iso": "SB-CH"
+    },
+    {
+      "name": "Guadalcanal",
+      "iso": "SB-GU"
+    },
+    {
+      "name": "Isabel",
+      "iso": "SB-IS"
+    },
+    {
+      "name": "Makira-Ulawa",
+      "iso": "SB-MK"
+    },
+    {
+      "name": "Malaita",
+      "iso": "SB-ML"
+    },
+    {
+      "name": "Rennell and Bellona",
+      "iso": "SB-RB"
+    },
+    {
+      "name": "Temotu",
+      "iso": "SB-TE"
+    },
+    {
+      "name": "Western",
+      "iso": "SB-WE"
+    }
+  ],
+  "zipRegex": ""
+}

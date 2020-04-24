@@ -1,0 +1,25 @@
+{
+  "region": "Asia",
+  "iso": "BN",
+  "name": "Brunei Darussalam",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Belait",
+      "iso": "BN-BE"
+    },
+    {
+      "name": "Brunei-Muara",
+      "iso": "BN-BM"
+    },
+    {
+      "name": "Temburong",
+      "iso": "BN-TE"
+    },
+    {
+      "name": "Tutong",
+      "iso": "BN-TU"
+    }
+  ],
+  "zipRegex": "^([A-Z]{2}\\d{4})$"
+}

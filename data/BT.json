@@ -1,0 +1,89 @@
+{
+  "region": "Asia",
+  "iso": "BT",
+  "name": "Bhutan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Bumthang",
+      "iso": "BT-33"
+    },
+    {
+      "name": "Chhukha",
+      "iso": "BT-12"
+    },
+    {
+      "name": "Dagana",
+      "iso": "BT-22"
+    },
+    {
+      "name": "Gasa",
+      "iso": "BT-GA"
+    },
+    {
+      "name": "Ha",
+      "iso": "BT-13"
+    },
+    {
+      "name": "Lhuentse",
+      "iso": "BT-44"
+    },
+    {
+      "name": "Monggar",
+      "iso": "BT-42"
+    },
+    {
+      "name": "Paro",
+      "iso": "BT-11"
+    },
+    {
+      "name": "Pemagatshel",
+      "iso": "BT-43"
+    },
+    {
+      "name": "Punakha",
+      "iso": "BT-23"
+    },
+    {
+      "name": "Samdrup Jongkha",
+      "iso": "BT-45"
+    },
+    {
+      "name": "Samtse",
+      "iso": "BT-14"
+    },
+    {
+      "name": "Sarpang",
+      "iso": "BT-31"
+    },
+    {
+      "name": "Thimphu",
+      "iso": "BT-15"
+    },
+    {
+      "name": "Trashi Yangtse",
+      "iso": "BT-TY"
+    },
+    {
+      "name": "Trashigang",
+      "iso": "BT-41"
+    },
+    {
+      "name": "Trongsa",
+      "iso": "BT-32"
+    },
+    {
+      "name": "Tsirang",
+      "iso": "BT-21"
+    },
+    {
+      "name": "Wangdue Phodrang",
+      "iso": "BT-24"
+    },
+    {
+      "name": "Zhemgang",
+      "iso": "BT-34"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

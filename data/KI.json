@@ -1,0 +1,21 @@
+{
+  "region": "Oceania",
+  "iso": "KI",
+  "name": "Kiribati",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Gilbert Islands",
+      "iso": "KI-G"
+    },
+    {
+      "name": "Line Islands",
+      "iso": "KI-L"
+    },
+    {
+      "name": "Phoenix Islands",
+      "iso": "KI-P"
+    }
+  ],
+  "zipRegex": ""
+}

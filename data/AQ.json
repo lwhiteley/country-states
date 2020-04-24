@@ -1,0 +1,8 @@
+{
+  "region": "Antarctica",
+  "iso": "AQ",
+  "name": "Antarctica",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(7151)$"
+}

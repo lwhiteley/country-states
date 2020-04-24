@@ -1,0 +1,201 @@
+{
+  "region": "Africa",
+  "iso": "DZ",
+  "name": "Algeria",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Adrar",
+      "iso": "DZ-01"
+    },
+    {
+      "name": "Alger",
+      "iso": "DZ-16"
+    },
+    {
+      "name": "Annaba",
+      "iso": "DZ-23"
+    },
+    {
+      "name": "A?n Defla",
+      "iso": "DZ-44"
+    },
+    {
+      "name": "A?n T?mouchent",
+      "iso": "DZ-46"
+    },
+    {
+      "name": "Batna",
+      "iso": "DZ-05"
+    },
+    {
+      "name": "Biskra",
+      "iso": "DZ-07"
+    },
+    {
+      "name": "Blida",
+      "iso": "DZ-09"
+    },
+    {
+      "name": "Bordj Bou Arr?ridj",
+      "iso": "DZ-34"
+    },
+    {
+      "name": "Bouira",
+      "iso": "DZ-10"
+    },
+    {
+      "name": "Boumerd?s",
+      "iso": "DZ-35"
+    },
+    {
+      "name": "B?char",
+      "iso": "DZ-08"
+    },
+    {
+      "name": "B?ja?a",
+      "iso": "DZ-06"
+    },
+    {
+      "name": "Chlef",
+      "iso": "DZ-02"
+    },
+    {
+      "name": "Constantine",
+      "iso": "DZ-25"
+    },
+    {
+      "name": "Djelfa",
+      "iso": "DZ-17"
+    },
+    {
+      "name": "El Bayadh",
+      "iso": "DZ-32"
+    },
+    {
+      "name": "El Oued",
+      "iso": "DZ-39"
+    },
+    {
+      "name": "El Tarf",
+      "iso": "DZ-36"
+    },
+    {
+      "name": "Gharda?a",
+      "iso": "DZ-47"
+    },
+    {
+      "name": "Guelma",
+      "iso": "DZ-24"
+    },
+    {
+      "name": "Illizi",
+      "iso": "DZ-33"
+    },
+    {
+      "name": "Jijel",
+      "iso": "DZ-18"
+    },
+    {
+      "name": "Khenchela",
+      "iso": "DZ-40"
+    },
+    {
+      "name": "Laghouat",
+      "iso": "DZ-03"
+    },
+    {
+      "name": "Mascara",
+      "iso": "DZ-29"
+    },
+    {
+      "name": "Mila",
+      "iso": "DZ-43"
+    },
+    {
+      "name": "Mostaganem",
+      "iso": "DZ-27"
+    },
+    {
+      "name": "Msila",
+      "iso": "DZ-28"
+    },
+    {
+      "name": "M?d?a",
+      "iso": "DZ-26"
+    },
+    {
+      "name": "Naama",
+      "iso": "DZ-45"
+    },
+    {
+      "name": "Oran",
+      "iso": "DZ-31"
+    },
+    {
+      "name": "Ouargla",
+      "iso": "DZ-30"
+    },
+    {
+      "name": "Oum el Bouaghi",
+      "iso": "DZ-04"
+    },
+    {
+      "name": "Relizane",
+      "iso": "DZ-48"
+    },
+    {
+      "name": "Sa?da",
+      "iso": "DZ-20"
+    },
+    {
+      "name": "Sidi Bel Abb?s",
+      "iso": "DZ-22"
+    },
+    {
+      "name": "Skikda",
+      "iso": "DZ-21"
+    },
+    {
+      "name": "Souk Ahras",
+      "iso": "DZ-41"
+    },
+    {
+      "name": "S?tif",
+      "iso": "DZ-19"
+    },
+    {
+      "name": "Tamanghasset",
+      "iso": "DZ-11"
+    },
+    {
+      "name": "Tiaret",
+      "iso": "DZ-14"
+    },
+    {
+      "name": "Tindouf",
+      "iso": "DZ-37"
+    },
+    {
+      "name": "Tipaza",
+      "iso": "DZ-42"
+    },
+    {
+      "name": "Tissemsilt",
+      "iso": "DZ-38"
+    },
+    {
+      "name": "Tizi Ouzou",
+      "iso": "DZ-15"
+    },
+    {
+      "name": "Tlemcen",
+      "iso": "DZ-13"
+    },
+    {
+      "name": "T?bessa",
+      "iso": "DZ-12"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

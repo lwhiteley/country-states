@@ -1,0 +1,13 @@
+{
+  "region": "Asia",
+  "iso": "AZ",
+  "name": "Azerbaijan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Nax??van",
+      "iso": "AZ-NX"
+    }
+  ],
+  "zipRegex": "^(AZ) (\\d{4})$"
+}

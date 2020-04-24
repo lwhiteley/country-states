@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "GF",
+  "name": "French Guiana",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^((973)\\d{2})$"
+}

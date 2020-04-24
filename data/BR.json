@@ -1,0 +1,117 @@
+{
+  "region": "Americas",
+  "iso": "BR",
+  "name": "Brazil",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Acre",
+      "iso": "BR-AC"
+    },
+    {
+      "name": "Alagoas",
+      "iso": "BR-AL"
+    },
+    {
+      "name": "Amap?",
+      "iso": "BR-AP"
+    },
+    {
+      "name": "Amazonas",
+      "iso": "BR-AM"
+    },
+    {
+      "name": "Bahia",
+      "iso": "BR-BA"
+    },
+    {
+      "name": "Cear?",
+      "iso": "BR-CE"
+    },
+    {
+      "name": "Distrito Federal",
+      "iso": "BR-DF"
+    },
+    {
+      "name": "Esp?rito Santo",
+      "iso": "BR-ES"
+    },
+    {
+      "name": "Goi?s",
+      "iso": "BR-GO"
+    },
+    {
+      "name": "Maranh?o",
+      "iso": "BR-MA"
+    },
+    {
+      "name": "Mato Grosso",
+      "iso": "BR-MT"
+    },
+    {
+      "name": "Mato Grosso do Sul",
+      "iso": "BR-MS"
+    },
+    {
+      "name": "Minas Gerais",
+      "iso": "BR-MG"
+    },
+    {
+      "name": "Paran?",
+      "iso": "BR-PR"
+    },
+    {
+      "name": "Para?ba",
+      "iso": "BR-PB"
+    },
+    {
+      "name": "Par?",
+      "iso": "BR-PA"
+    },
+    {
+      "name": "Pernambuco",
+      "iso": "BR-PE"
+    },
+    {
+      "name": "Piau?",
+      "iso": "BR-PI"
+    },
+    {
+      "name": "Rio Grande do Norte",
+      "iso": "BR-RN"
+    },
+    {
+      "name": "Rio Grande do Sul",
+      "iso": "BR-RS"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "iso": "BR-RJ"
+    },
+    {
+      "name": "Rond?nia",
+      "iso": "BR-RO"
+    },
+    {
+      "name": "Roraima",
+      "iso": "BR-RR"
+    },
+    {
+      "name": "Santa Catarina",
+      "iso": "BR-SC"
+    },
+    {
+      "name": "Sergipe",
+      "iso": "BR-SE"
+    },
+    {
+      "name": "S?o Paulo",
+      "iso": "BR-SP"
+    },
+    {
+      "name": "Tocantins",
+      "iso": "BR-TO"
+    }
+  ],
+  "zipRegex": "^[0-9]{5}-[0-9]{3}$"
+}

@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "MQ",
+  "name": "Martinique",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(\\d{5})$"
+}

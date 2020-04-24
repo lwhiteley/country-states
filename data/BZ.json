@@ -1,0 +1,33 @@
+{
+  "region": "Americas",
+  "iso": "BZ",
+  "name": "Belize",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Belize",
+      "iso": "BZ-BZ"
+    },
+    {
+      "name": "Cayo",
+      "iso": "BZ-CY"
+    },
+    {
+      "name": "Corozal",
+      "iso": "BZ-CZL"
+    },
+    {
+      "name": "Orange Walk",
+      "iso": "BZ-OW"
+    },
+    {
+      "name": "Stann Creek",
+      "iso": "BZ-SC"
+    },
+    {
+      "name": "Toledo",
+      "iso": "BZ-TOL"
+    }
+  ],
+  "zipRegex": ""
+}

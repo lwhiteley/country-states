@@ -1,0 +1,345 @@
+{
+  "region": "Europe",
+  "iso": "MK",
+  "name": "Macedonia, the Former Yugoslav Republic of",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Aerodrom",
+      "iso": "MK-01"
+    },
+    {
+      "name": "Ara?inovo",
+      "iso": "MK-02"
+    },
+    {
+      "name": "Berovo",
+      "iso": "MK-03"
+    },
+    {
+      "name": "Bitola",
+      "iso": "MK-04"
+    },
+    {
+      "name": "Bogdanci",
+      "iso": "MK-05"
+    },
+    {
+      "name": "Bogovinje",
+      "iso": "MK-06"
+    },
+    {
+      "name": "Bosilovo",
+      "iso": "MK-07"
+    },
+    {
+      "name": "Brvenica",
+      "iso": "MK-08"
+    },
+    {
+      "name": "Butel",
+      "iso": "MK-09"
+    },
+    {
+      "name": "Centar",
+      "iso": "MK-77"
+    },
+    {
+      "name": "Centar ?upa",
+      "iso": "MK-78"
+    },
+    {
+      "name": "Debar",
+      "iso": "MK-21"
+    },
+    {
+      "name": "Debarca",
+      "iso": "MK-22"
+    },
+    {
+      "name": "Del?evo",
+      "iso": "MK-23"
+    },
+    {
+      "name": "Demir Hisar",
+      "iso": "MK-25"
+    },
+    {
+      "name": "Demir Kapija",
+      "iso": "MK-24"
+    },
+    {
+      "name": "Dojran",
+      "iso": "MK-26"
+    },
+    {
+      "name": "Dolneni",
+      "iso": "MK-27"
+    },
+    {
+      "name": "Drugovo",
+      "iso": "MK-28"
+    },
+    {
+      "name": "Gazi Baba",
+      "iso": "MK-17"
+    },
+    {
+      "name": "Gevgelija",
+      "iso": "MK-18"
+    },
+    {
+      "name": "Gjor?e Petrov",
+      "iso": "MK-29"
+    },
+    {
+      "name": "Gostivar",
+      "iso": "MK-19"
+    },
+    {
+      "name": "Gradsko",
+      "iso": "MK-20"
+    },
+    {
+      "name": "Ilinden",
+      "iso": "MK-34"
+    },
+    {
+      "name": "Jegunovce",
+      "iso": "MK-35"
+    },
+    {
+      "name": "Karbinci",
+      "iso": "MK-37"
+    },
+    {
+      "name": "Karpo?",
+      "iso": "MK-38"
+    },
+    {
+      "name": "Kavadarci",
+      "iso": "MK-36"
+    },
+    {
+      "name": "Kisela Voda",
+      "iso": "MK-39"
+    },
+    {
+      "name": "Ki?evo",
+      "iso": "MK-40"
+    },
+    {
+      "name": "Kon?e",
+      "iso": "MK-41"
+    },
+    {
+      "name": "Ko?ani",
+      "iso": "MK-42"
+    },
+    {
+      "name": "Kratovo",
+      "iso": "MK-43"
+    },
+    {
+      "name": "Kriva Palanka",
+      "iso": "MK-44"
+    },
+    {
+      "name": "Krivoga?tani",
+      "iso": "MK-45"
+    },
+    {
+      "name": "Kru?evo",
+      "iso": "MK-46"
+    },
+    {
+      "name": "Kumanovo",
+      "iso": "MK-47"
+    },
+    {
+      "name": "Lipkovo",
+      "iso": "MK-48"
+    },
+    {
+      "name": "Lozovo",
+      "iso": "MK-49"
+    },
+    {
+      "name": "Makedonska Kamenica",
+      "iso": "MK-51"
+    },
+    {
+      "name": "Makedonski Brod",
+      "iso": "MK-52"
+    },
+    {
+      "name": "Mavrovo i Rostu?a",
+      "iso": "MK-50"
+    },
+    {
+      "name": "Mogila",
+      "iso": "MK-53"
+    },
+    {
+      "name": "Negotino",
+      "iso": "MK-54"
+    },
+    {
+      "name": "Novaci",
+      "iso": "MK-55"
+    },
+    {
+      "name": "Novo Selo",
+      "iso": "MK-56"
+    },
+    {
+      "name": "Ohrid",
+      "iso": "MK-58"
+    },
+    {
+      "name": "Oslomej",
+      "iso": "MK-57"
+    },
+    {
+      "name": "Peh?evo",
+      "iso": "MK-60"
+    },
+    {
+      "name": "Petrovec",
+      "iso": "MK-59"
+    },
+    {
+      "name": "Plasnica",
+      "iso": "MK-61"
+    },
+    {
+      "name": "Prilep",
+      "iso": "MK-62"
+    },
+    {
+      "name": "Probi?tip",
+      "iso": "MK-63"
+    },
+    {
+      "name": "Radovi?",
+      "iso": "MK-64"
+    },
+    {
+      "name": "Rankovce",
+      "iso": "MK-65"
+    },
+    {
+      "name": "Resen",
+      "iso": "MK-66"
+    },
+    {
+      "name": "Rosoman",
+      "iso": "MK-67"
+    },
+    {
+      "name": "Saraj",
+      "iso": "MK-68"
+    },
+    {
+      "name": "Sopi?te",
+      "iso": "MK-70"
+    },
+    {
+      "name": "Staro Nagori?ane",
+      "iso": "MK-71"
+    },
+    {
+      "name": "Struga",
+      "iso": "MK-72"
+    },
+    {
+      "name": "Strumica",
+      "iso": "MK-73"
+    },
+    {
+      "name": "Studeni?ani",
+      "iso": "MK-74"
+    },
+    {
+      "name": "Sveti Nikole",
+      "iso": "MK-69"
+    },
+    {
+      "name": "Tearce",
+      "iso": "MK-75"
+    },
+    {
+      "name": "Tetovo",
+      "iso": "MK-76"
+    },
+    {
+      "name": "Valandovo",
+      "iso": "MK-10"
+    },
+    {
+      "name": "Vasilevo",
+      "iso": "MK-11"
+    },
+    {
+      "name": "Veles",
+      "iso": "MK-13"
+    },
+    {
+      "name": "Vev?ani",
+      "iso": "MK-12"
+    },
+    {
+      "name": "Vinica",
+      "iso": "MK-14"
+    },
+    {
+      "name": "Vrane?tica",
+      "iso": "MK-15"
+    },
+    {
+      "name": "Vrap?i?te",
+      "iso": "MK-16"
+    },
+    {
+      "name": "Zajas",
+      "iso": "MK-31"
+    },
+    {
+      "name": "Zelenikovo",
+      "iso": "MK-32"
+    },
+    {
+      "name": "Zrnovci",
+      "iso": "MK-33"
+    },
+    {
+      "name": "?air",
+      "iso": "MK-79"
+    },
+    {
+      "name": "?a?ka",
+      "iso": "MK-80"
+    },
+    {
+      "name": "?e?inovo-Oble?evo",
+      "iso": "MK-81"
+    },
+    {
+      "name": "?u?er Sandevo",
+      "iso": "MK-82"
+    },
+    {
+      "name": "?tip",
+      "iso": "MK-83"
+    },
+    {
+      "name": "?uto Orizari",
+      "iso": "MK-84"
+    },
+    {
+      "name": "?elino",
+      "iso": "MK-30"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

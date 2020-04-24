@@ -1,0 +1,37 @@
+{
+  "region": "Europe",
+  "iso": "AD",
+  "name": "Andorra",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Andorra la Vella",
+      "iso": "AD-07"
+    },
+    {
+      "name": "Canillo",
+      "iso": "AD-02"
+    },
+    {
+      "name": "Encamp",
+      "iso": "AD-03"
+    },
+    {
+      "name": "Escaldes-Engordany",
+      "iso": "AD-08"
+    },
+    {
+      "name": "La Massana",
+      "iso": "AD-04"
+    },
+    {
+      "name": "Ordino",
+      "iso": "AD-05"
+    },
+    {
+      "name": "Sant Juli? de L?ria",
+      "iso": "AD-06"
+    }
+  ],
+  "zipRegex": "^(?:AD)*(\\d{3})$"
+}

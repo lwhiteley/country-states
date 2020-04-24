@@ -1,0 +1,29 @@
+{
+  "region": "Oceania",
+  "iso": "TO",
+  "name": "Tonga",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "'Eua",
+      "iso": "TO-01"
+    },
+    {
+      "name": "Ha'apai",
+      "iso": "TO-02"
+    },
+    {
+      "name": "Niuas",
+      "iso": "TO-03"
+    },
+    {
+      "name": "Tongatapu",
+      "iso": "TO-04"
+    },
+    {
+      "name": "Vava'u",
+      "iso": "TO-05"
+    }
+  ],
+  "zipRegex": ""
+}

@@ -1,0 +1,53 @@
+{
+  "region": "Americas",
+  "iso": "BB",
+  "name": "Barbados",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Christ Church",
+      "iso": "BB-01"
+    },
+    {
+      "name": "Saint Andrew",
+      "iso": "BB-02"
+    },
+    {
+      "name": "Saint George",
+      "iso": "BB-03"
+    },
+    {
+      "name": "Saint James",
+      "iso": "BB-04"
+    },
+    {
+      "name": "Saint John",
+      "iso": "BB-05"
+    },
+    {
+      "name": "Saint Joseph",
+      "iso": "BB-06"
+    },
+    {
+      "name": "Saint Lucy",
+      "iso": "BB-07"
+    },
+    {
+      "name": "Saint Michael",
+      "iso": "BB-08"
+    },
+    {
+      "name": "Saint Peter",
+      "iso": "BB-09"
+    },
+    {
+      "name": "Saint Philip",
+      "iso": "BB-10"
+    },
+    {
+      "name": "Saint Thomas",
+      "iso": "BB-11"
+    }
+  ],
+  "zipRegex": "^(?:BB)*(\\d{5})$"
+}

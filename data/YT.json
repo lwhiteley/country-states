@@ -1,0 +1,8 @@
+{
+  "region": "Africa",
+  "iso": "YT",
+  "name": "Mayotte",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(\\d{5})$"
+}

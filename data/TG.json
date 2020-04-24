@@ -1,0 +1,29 @@
+{
+  "region": "Africa",
+  "iso": "TG",
+  "name": "Togo",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Centre",
+      "iso": "TG-C"
+    },
+    {
+      "name": "Kara",
+      "iso": "TG-K"
+    },
+    {
+      "name": "Maritime",
+      "iso": "TG-M"
+    },
+    {
+      "name": "Plateaux",
+      "iso": "TG-P"
+    },
+    {
+      "name": "Savannes",
+      "iso": "TG-S"
+    }
+  ],
+  "zipRegex": ""
+}

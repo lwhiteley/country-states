@@ -1,0 +1,81 @@
+{
+  "region": "Africa",
+  "iso": "SO",
+  "name": "Somalia",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Awdal",
+      "iso": "SO-AW"
+    },
+    {
+      "name": "Bakool",
+      "iso": "SO-BK"
+    },
+    {
+      "name": "Banaadir",
+      "iso": "SO-BN"
+    },
+    {
+      "name": "Bari",
+      "iso": "SO-BR"
+    },
+    {
+      "name": "Bay",
+      "iso": "SO-BY"
+    },
+    {
+      "name": "Galguduud",
+      "iso": "SO-GA"
+    },
+    {
+      "name": "Gedo",
+      "iso": "SO-GE"
+    },
+    {
+      "name": "Hiiraan",
+      "iso": "SO-HI"
+    },
+    {
+      "name": "Jubbada Dhexe",
+      "iso": "SO-JD"
+    },
+    {
+      "name": "Jubbada Hoose",
+      "iso": "SO-JH"
+    },
+    {
+      "name": "Mudug",
+      "iso": "SO-MU"
+    },
+    {
+      "name": "Nugaal",
+      "iso": "SO-NU"
+    },
+    {
+      "name": "Sanaag",
+      "iso": "SO-SA"
+    },
+    {
+      "name": "Shabeellaha Dhexe",
+      "iso": "SO-SD"
+    },
+    {
+      "name": "Shabeellaha Hoose",
+      "iso": "SO-SH"
+    },
+    {
+      "name": "Sool",
+      "iso": "SO-SO"
+    },
+    {
+      "name": "Togdheer",
+      "iso": "SO-TO"
+    },
+    {
+      "name": "Woqooyi Galbeed",
+      "iso": "SO-WO"
+    }
+  ],
+  "zipRegex": ""
+}

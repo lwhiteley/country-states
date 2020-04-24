@@ -1,0 +1,133 @@
+{
+  "region": "Asia",
+  "iso": "IR",
+  "name": "Iran, Islamic Republic of",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Alborz",
+      "iso": "IR-32"
+    },
+    {
+      "name": "Ardab?l",
+      "iso": "IR-03"
+    },
+    {
+      "name": "B?shehr",
+      "iso": "IR-06"
+    },
+    {
+      "name": "Chah?r Ma??ll va Bakht??r?",
+      "iso": "IR-08"
+    },
+    {
+      "name": "E?fah?n",
+      "iso": "IR-04"
+    },
+    {
+      "name": "F?rs",
+      "iso": "IR-14"
+    },
+    {
+      "name": "Golest?n",
+      "iso": "IR-27"
+    },
+    {
+      "name": "G?l?n",
+      "iso": "IR-19"
+    },
+    {
+      "name": "Hamad?n",
+      "iso": "IR-24"
+    },
+    {
+      "name": "Hormozg?n",
+      "iso": "IR-23"
+    },
+    {
+      "name": "Kerm?n",
+      "iso": "IR-15"
+    },
+    {
+      "name": "Kerm?nsh?h",
+      "iso": "IR-17"
+    },
+    {
+      "name": "Khor?s?n-e Jan?b?",
+      "iso": "IR-29"
+    },
+    {
+      "name": "Khor?s?n-e Razav?",
+      "iso": "IR-30"
+    },
+    {
+      "name": "Khor?s?n-e Shem?l?",
+      "iso": "IR-31"
+    },
+    {
+      "name": "Kh?zest?n",
+      "iso": "IR-10"
+    },
+    {
+      "name": "Kohg?l?yeh va B?yer A?mad",
+      "iso": "IR-18"
+    },
+    {
+      "name": "Kordest?n",
+      "iso": "IR-16"
+    },
+    {
+      "name": "Lorest?n",
+      "iso": "IR-20"
+    },
+    {
+      "name": "Markaz?",
+      "iso": "IR-22"
+    },
+    {
+      "name": "M?zandar?n",
+      "iso": "IR-21"
+    },
+    {
+      "name": "Qazv?n",
+      "iso": "IR-28"
+    },
+    {
+      "name": "Qom",
+      "iso": "IR-26"
+    },
+    {
+      "name": "Semn?n",
+      "iso": "IR-12"
+    },
+    {
+      "name": "S?st?n va Bal?chest?n",
+      "iso": "IR-13"
+    },
+    {
+      "name": "Tehr?n",
+      "iso": "IR-07"
+    },
+    {
+      "name": "Yazd",
+      "iso": "IR-25"
+    },
+    {
+      "name": "Zanj?n",
+      "iso": "IR-11"
+    },
+    {
+      "name": "?z?arb?yj?n-e Gharb?",
+      "iso": "IR-02"
+    },
+    {
+      "name": "?z?arb?yj?n-e Sharq?",
+      "iso": "IR-01"
+    },
+    {
+      "name": "?l?m",
+      "iso": "IR-05"
+    }
+  ],
+  "zipRegex": "^\\d{5}([\\-]\\d{5})?$"
+}

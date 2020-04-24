@@ -1,0 +1,105 @@
+{
+  "region": "Americas",
+  "iso": "AR",
+  "name": "Argentina",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Buenos Aires",
+      "iso": "AR-B"
+    },
+    {
+      "name": "Catamarca",
+      "iso": "AR-K"
+    },
+    {
+      "name": "Chaco",
+      "iso": "AR-H"
+    },
+    {
+      "name": "Chubut",
+      "iso": "AR-U"
+    },
+    {
+      "name": "Ciudad Aut?noma de Buenos Aires",
+      "iso": "AR-C"
+    },
+    {
+      "name": "Corrientes",
+      "iso": "AR-W"
+    },
+    {
+      "name": "C?rdoba",
+      "iso": "AR-X"
+    },
+    {
+      "name": "Entre R?os",
+      "iso": "AR-E"
+    },
+    {
+      "name": "Formosa",
+      "iso": "AR-P"
+    },
+    {
+      "name": "Jujuy",
+      "iso": "AR-Y"
+    },
+    {
+      "name": "La Pampa",
+      "iso": "AR-L"
+    },
+    {
+      "name": "La Rioja",
+      "iso": "AR-F"
+    },
+    {
+      "name": "Mendoza",
+      "iso": "AR-M"
+    },
+    {
+      "name": "Misiones",
+      "iso": "AR-N"
+    },
+    {
+      "name": "Neuqu?n",
+      "iso": "AR-Q"
+    },
+    {
+      "name": "R?o Negro",
+      "iso": "AR-R"
+    },
+    {
+      "name": "Salta",
+      "iso": "AR-A"
+    },
+    {
+      "name": "San Juan",
+      "iso": "AR-J"
+    },
+    {
+      "name": "San Luis",
+      "iso": "AR-D"
+    },
+    {
+      "name": "Santa Cruz",
+      "iso": "AR-Z"
+    },
+    {
+      "name": "Santa Fe",
+      "iso": "AR-S"
+    },
+    {
+      "name": "Santiago del Estero",
+      "iso": "AR-G"
+    },
+    {
+      "name": "Tierra del Fuego",
+      "iso": "AR-V"
+    },
+    {
+      "name": "Tucum?n",
+      "iso": "AR-T"
+    }
+  ],
+  "zipRegex": "^([A-Z]\\d{4}[A-Z]{3})|([A-Z]\\d{4})$"
+}

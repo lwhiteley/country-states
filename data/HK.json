@@ -1,0 +1,21 @@
+{
+  "region": "Asia",
+  "iso": "HK",
+  "name": "Hong Kong",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Hong Kong Island",
+      "iso": "HONG KONG"
+    },
+    {
+      "name": "Kowloon",
+      "iso": "KOWLOON"
+    },
+    {
+      "name": "New Territories",
+      "iso": "NEW TERRITORIES"
+    }
+  ],
+  "zipRegex": "^(999077)$"
+}

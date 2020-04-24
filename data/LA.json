@@ -1,0 +1,81 @@
+{
+  "region": "Asia",
+  "iso": "LA",
+  "name": "Lao People's Democratic Republic",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Attapu",
+      "iso": "LA-AT"
+    },
+    {
+      "name": "Bok?o",
+      "iso": "LA-BK"
+    },
+    {
+      "name": "Bolikhamxai",
+      "iso": "LA-BL"
+    },
+    {
+      "name": "Champasak",
+      "iso": "LA-CH"
+    },
+    {
+      "name": "Houaphan",
+      "iso": "LA-HO"
+    },
+    {
+      "name": "Khammouan",
+      "iso": "LA-KH"
+    },
+    {
+      "name": "Louang Namtha",
+      "iso": "LA-LM"
+    },
+    {
+      "name": "Louangphabang",
+      "iso": "LA-LP"
+    },
+    {
+      "name": "Oud?mxai",
+      "iso": "LA-OU"
+    },
+    {
+      "name": "Ph?ngsali",
+      "iso": "LA-PH"
+    },
+    {
+      "name": "Salavan",
+      "iso": "LA-SL"
+    },
+    {
+      "name": "Savannakh?t",
+      "iso": "LA-SV"
+    },
+    {
+      "name": "Vientiane",
+      "iso": "LA-VT"
+    },
+    {
+      "name": "Vientiane",
+      "iso": "LA-VI"
+    },
+    {
+      "name": "Xaignabouli",
+      "iso": "LA-XA"
+    },
+    {
+      "name": "Xais?mboun",
+      "iso": "LA-XN"
+    },
+    {
+      "name": "Xiangkhoang",
+      "iso": "LA-XI"
+    },
+    {
+      "name": "X?kong",
+      "iso": "LA-XE"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

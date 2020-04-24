@@ -1,0 +1,45 @@
+{
+  "region": "Africa",
+  "iso": "GA",
+  "name": "Gabon",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Estuaire",
+      "iso": "GA-1"
+    },
+    {
+      "name": "Haut-Ogoou?",
+      "iso": "GA-2"
+    },
+    {
+      "name": "Moyen-Ogoou?",
+      "iso": "GA-3"
+    },
+    {
+      "name": "Ngouni?",
+      "iso": "GA-4"
+    },
+    {
+      "name": "Nyanga",
+      "iso": "GA-5"
+    },
+    {
+      "name": "Ogoou?-Ivindo",
+      "iso": "GA-6"
+    },
+    {
+      "name": "Ogoou?-Lolo",
+      "iso": "GA-7"
+    },
+    {
+      "name": "Ogoou?-Maritime",
+      "iso": "GA-8"
+    },
+    {
+      "name": "Woleu-Ntem",
+      "iso": "GA-9"
+    }
+  ],
+  "zipRegex": ""
+}

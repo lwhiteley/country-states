@@ -1,0 +1,1204 @@
+{
+  "region": "Europe",
+  "iso": "GB",
+  "name": "United Kingdom",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Barking and Dagenham",
+      "iso": "GB-BDG",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Barnet",
+      "iso": "GB-BNE",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Bexley",
+      "iso": "GB-BEX",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Brent",
+      "iso": "GB-BEN",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Bromley",
+      "iso": "GB-BRY",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Camden",
+      "iso": "GB-CMD",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Croydon",
+      "iso": "GB-CRY",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Ealing",
+      "iso": "GB-EAL",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Enfield",
+      "iso": "GB-ENF",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Greenwich",
+      "iso": "GB-GRE",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Hackney",
+      "iso": "GB-HCK",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Hammersmith and Fulham",
+      "iso": "GB-HMF",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Haringey",
+      "iso": "GB-HRY",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Harrow",
+      "iso": "GB-HRW",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Havering",
+      "iso": "GB-HAV",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Hillingdon",
+      "iso": "GB-HIL",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Hounslow",
+      "iso": "GB-HNS",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Islington",
+      "iso": "GB-ISL",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Kensington and Chelsea",
+      "iso": "GB-KEC",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Kingston upon Thames",
+      "iso": "GB-KTT",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Lambeth",
+      "iso": "GB-LBH",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Lewisham",
+      "iso": "GB-LEW",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Merton",
+      "iso": "GB-MRT",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Newham",
+      "iso": "GB-NWM",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Redbridge",
+      "iso": "GB-RDB",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Richmond upon Thames",
+      "iso": "GB-RIC",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Southwark",
+      "iso": "GB-SWK",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Sutton",
+      "iso": "GB-STN",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Tower Hamlets",
+      "iso": "GB-TWH",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Waltham Forest",
+      "iso": "GB-WFT",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Wandsworth",
+      "iso": "GB-WND",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "Westminster",
+      "iso": "GB-WSM",
+      "subdivision": "London borough"
+    },
+    {
+      "name": "England and Wales",
+      "iso": "GB-EAW",
+      "subdivision": "Nation"
+    },
+    {
+      "name": "Great Britain",
+      "iso": "GB-GBN",
+      "subdivision": "Nation"
+    },
+    {
+      "name": "United Kingdom",
+      "iso": "GB-UKM",
+      "subdivision": "Nation"
+    },
+    {
+      "name": "London, City of",
+      "iso": "GB-LND",
+      "subdivision": "city corporation"
+    },
+    {
+      "name": "Aberdeen City",
+      "iso": "GB-ABE",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Aberdeenshire",
+      "iso": "GB-ABD",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Angus",
+      "iso": "GB-ANS",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Argyll and Bute",
+      "iso": "GB-AGB",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Clackmannanshire",
+      "iso": "GB-CLK",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Dumfries and Galloway",
+      "iso": "GB-DGY",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Dundee City",
+      "iso": "GB-DND",
+      "subdivision": "council area"
+    },
+    {
+      "name": "East Ayrshire",
+      "iso": "GB-EAY",
+      "subdivision": "council area"
+    },
+    {
+      "name": "East Dunbartonshire",
+      "iso": "GB-EDU",
+      "subdivision": "council area"
+    },
+    {
+      "name": "East Lothian",
+      "iso": "GB-ELN",
+      "subdivision": "council area"
+    },
+    {
+      "name": "East Renfrewshire",
+      "iso": "GB-ERW",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Edinburgh, City of",
+      "iso": "GB-EDH",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Eilean Siar",
+      "iso": "GB-ELS",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Falkirk",
+      "iso": "GB-FAL",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Fife",
+      "iso": "GB-FIF",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Glasgow City",
+      "iso": "GB-GLG",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Highland",
+      "iso": "GB-HLD",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Inverclyde",
+      "iso": "GB-IVC",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Midlothian",
+      "iso": "GB-MLN",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Moray",
+      "iso": "GB-MRY",
+      "subdivision": "council area"
+    },
+    {
+      "name": "North Ayrshire",
+      "iso": "GB-NAY",
+      "subdivision": "council area"
+    },
+    {
+      "name": "North Lanarkshire",
+      "iso": "GB-NLK",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Orkney Islands",
+      "iso": "GB-ORK",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Perth and Kinross",
+      "iso": "GB-PKN",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Renfrewshire",
+      "iso": "GB-RFW",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Scottish Borders, The",
+      "iso": "GB-SCB",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Shetland Islands",
+      "iso": "GB-ZET",
+      "subdivision": "council area"
+    },
+    {
+      "name": "South Ayrshire",
+      "iso": "GB-SAY",
+      "subdivision": "council area"
+    },
+    {
+      "name": "South Lanarkshire",
+      "iso": "GB-SLK",
+      "subdivision": "council area"
+    },
+    {
+      "name": "Stirling",
+      "iso": "GB-STG",
+      "subdivision": "council area"
+    },
+    {
+      "name": "West Dunbartonshire",
+      "iso": "GB-WDU",
+      "subdivision": "council area"
+    },
+    {
+      "name": "West Lothian",
+      "iso": "GB-WLN",
+      "subdivision": "council area"
+    },
+    {
+      "name": "England",
+      "iso": "GB-ENG",
+      "subdivision": "country"
+    },
+    {
+      "name": "Scotland",
+      "iso": "GB-SCT",
+      "subdivision": "country"
+    },
+    {
+      "name": "Wales",
+      "iso": "GB-WLS",
+      "subdivision": "country"
+    },
+    {
+      "name": "Antrim",
+      "iso": "GB-ANT",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Ards",
+      "iso": "GB-ARD",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Armagh",
+      "iso": "GB-ARM",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Ballymena",
+      "iso": "GB-BLA",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Ballymoney",
+      "iso": "GB-BLY",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Banbridge",
+      "iso": "GB-BNB",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Belfast",
+      "iso": "GB-BFS",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Carrickfergus",
+      "iso": "GB-CKF",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Castlereagh",
+      "iso": "GB-CSR",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Coleraine",
+      "iso": "GB-CLR",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Cookstown",
+      "iso": "GB-CKT",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Craigavon",
+      "iso": "GB-CGV",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Derry",
+      "iso": "GB-DRY",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Down",
+      "iso": "GB-DOW",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Dungannon and South Tyrone",
+      "iso": "GB-DGN",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Fermanagh",
+      "iso": "GB-FER",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Larne",
+      "iso": "GB-LRN",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Limavady",
+      "iso": "GB-LMV",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Lisburn",
+      "iso": "GB-LSB",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Magherafelt",
+      "iso": "GB-MFT",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Moyle",
+      "iso": "GB-MYL",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Newry and Mourne District",
+      "iso": "GB-NYM",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Newtownabbey",
+      "iso": "GB-NTA",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "North Down",
+      "iso": "GB-NDN",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Omagh",
+      "iso": "GB-OMH",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Strabane",
+      "iso": "GB-STB",
+      "subdivision": "district council area"
+    },
+    {
+      "name": "Barnsley",
+      "iso": "GB-BNS",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Birmingham",
+      "iso": "GB-BIR",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Bolton",
+      "iso": "GB-BOL",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Bradford",
+      "iso": "GB-BRD",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Bury",
+      "iso": "GB-BUR",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Calderdale",
+      "iso": "GB-CLD",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Coventry",
+      "iso": "GB-COV",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Doncaster",
+      "iso": "GB-DNC",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Dudley",
+      "iso": "GB-DUD",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Gateshead",
+      "iso": "GB-GAT",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Kirklees",
+      "iso": "GB-KIR",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Knowsley",
+      "iso": "GB-KWL",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Leeds",
+      "iso": "GB-LDS",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Liverpool",
+      "iso": "GB-LIV",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Manchester",
+      "iso": "GB-MAN",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Newcastle upon Tyne",
+      "iso": "GB-NET",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "North Tyneside",
+      "iso": "GB-NTY",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Oldham",
+      "iso": "GB-OLD",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Rochdale",
+      "iso": "GB-RCH",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Rotherham",
+      "iso": "GB-ROT",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Salford",
+      "iso": "GB-SLF",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Sandwell",
+      "iso": "GB-SAW",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Sefton",
+      "iso": "GB-SFT",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Sheffield",
+      "iso": "GB-SHF",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Solihull",
+      "iso": "GB-SOL",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "South Tyneside",
+      "iso": "GB-STY",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "St. Helens",
+      "iso": "GB-SHN",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Stockport",
+      "iso": "GB-SKP",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Sunderland",
+      "iso": "GB-SND",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Tameside",
+      "iso": "GB-TAM",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Trafford",
+      "iso": "GB-TRF",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Wakefield",
+      "iso": "GB-WKF",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Walsall",
+      "iso": "GB-WLL",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Wigan",
+      "iso": "GB-WGN",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Wirral",
+      "iso": "GB-WRL",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Wolverhampton",
+      "iso": "GB-WLV",
+      "subdivision": "metropolitan district"
+    },
+    {
+      "name": "Northern Ireland",
+      "iso": "GB-NIR",
+      "subdivision": "province"
+    },
+    {
+      "name": "Buckinghamshire",
+      "iso": "GB-BKM",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Cambridgeshire",
+      "iso": "GB-CAM",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Cumbria",
+      "iso": "GB-CMA",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Derbyshire",
+      "iso": "GB-DBY",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Devon",
+      "iso": "GB-DEV",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Dorset",
+      "iso": "GB-DOR",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "East Sussex",
+      "iso": "GB-ESX",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Essex",
+      "iso": "GB-ESS",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Gloucestershire",
+      "iso": "GB-GLS",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Hampshire",
+      "iso": "GB-HAM",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Hertfordshire",
+      "iso": "GB-HRT",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Kent",
+      "iso": "GB-KEN",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Lancashire",
+      "iso": "GB-LAN",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Leicestershire",
+      "iso": "GB-LEC",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Lincolnshire",
+      "iso": "GB-LIN",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Norfolk",
+      "iso": "GB-NFK",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "North Yorkshire",
+      "iso": "GB-NYK",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Northamptonshire",
+      "iso": "GB-NTH",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Nottinghamshire",
+      "iso": "GB-NTT",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Oxfordshire",
+      "iso": "GB-OXF",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Somerset",
+      "iso": "GB-SOM",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Staffordshire",
+      "iso": "GB-STS",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Suffolk",
+      "iso": "GB-SFK",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Surrey",
+      "iso": "GB-SRY",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Warwickshire",
+      "iso": "GB-WAR",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "West Sussex",
+      "iso": "GB-WSX",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Worcestershire",
+      "iso": "GB-WOR",
+      "subdivision": "two-tier county"
+    },
+    {
+      "name": "Bath and North East Somerset",
+      "iso": "GB-BAS",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Bedford",
+      "iso": "GB-BDF",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Blackburn with Darwen",
+      "iso": "GB-BBD",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Blackpool",
+      "iso": "GB-BPL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Blaenau Gwent",
+      "iso": "GB-BGW",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Bournemouth",
+      "iso": "GB-BMH",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Bracknell Forest",
+      "iso": "GB-BRC",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Bridgend",
+      "iso": "GB-BGE",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Brighton and Hove",
+      "iso": "GB-BNH",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Bristol, City of",
+      "iso": "GB-BST",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Caerphilly",
+      "iso": "GB-CAY",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Cardiff",
+      "iso": "GB-CRF",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Carmarthenshire",
+      "iso": "GB-CMN",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Central Bedfordshire",
+      "iso": "GB-CBF",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Ceredigion",
+      "iso": "GB-CGN",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Cheshire East",
+      "iso": "GB-CHE",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Cheshire West and Chester",
+      "iso": "GB-CHW",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Conwy",
+      "iso": "GB-CWY",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Cornwall",
+      "iso": "GB-CON",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Darlington",
+      "iso": "GB-DAL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Denbighshire",
+      "iso": "GB-DEN",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Derby",
+      "iso": "GB-DER",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Durham, County",
+      "iso": "GB-DUR",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "East Riding of Yorkshire",
+      "iso": "GB-ERY",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Flintshire",
+      "iso": "GB-FLN",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Gwynedd",
+      "iso": "GB-GWN",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Halton",
+      "iso": "GB-HAL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Hartlepool",
+      "iso": "GB-HPL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Herefordshire",
+      "iso": "GB-HEF",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Isle of Anglesey",
+      "iso": "GB-AGY",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Isle of Wight",
+      "iso": "GB-IOW",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Isles of Scilly",
+      "iso": "GB-IOS",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Kingston upon Hull",
+      "iso": "GB-KHL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Leicester",
+      "iso": "GB-LCE",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Luton",
+      "iso": "GB-LUT",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Medway",
+      "iso": "GB-MDW",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Merthyr Tydfil",
+      "iso": "GB-MTY",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Middlesbrough",
+      "iso": "GB-MDB",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Milton Keynes",
+      "iso": "GB-MIK",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Monmouthshire",
+      "iso": "GB-MON",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Neath Port Talbot",
+      "iso": "GB-NTL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Newport",
+      "iso": "GB-NWP",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "North East Lincolnshire",
+      "iso": "GB-NEL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "North Lincolnshire",
+      "iso": "GB-NLN",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "North Somerset",
+      "iso": "GB-NSM",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Northumberland",
+      "iso": "GB-NBL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Nottingham",
+      "iso": "GB-NGM",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Pembrokeshire",
+      "iso": "GB-PEM",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Peterborough",
+      "iso": "GB-PTE",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Plymouth",
+      "iso": "GB-PLY",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Poole",
+      "iso": "GB-POL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Portsmouth",
+      "iso": "GB-POR",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Powys",
+      "iso": "GB-POW",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Reading",
+      "iso": "GB-RDG",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Redcar and Cleveland",
+      "iso": "GB-RCC",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Rhondda, Cynon, Taff",
+      "iso": "GB-RCT",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Rutland",
+      "iso": "GB-RUT",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Shropshire",
+      "iso": "GB-SHR",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Slough",
+      "iso": "GB-SLG",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "South Gloucestershire",
+      "iso": "GB-SGC",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Southampton",
+      "iso": "GB-STH",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Southend-on-Sea",
+      "iso": "GB-SOS",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Stockton-on-Tees",
+      "iso": "GB-STT",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Stoke-on-Trent",
+      "iso": "GB-STE",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Swansea",
+      "iso": "GB-SWA",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Swindon",
+      "iso": "GB-SWD",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Telford and Wrekin",
+      "iso": "GB-TFW",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Thurrock",
+      "iso": "GB-THR",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Torbay",
+      "iso": "GB-TOB",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Torfaen",
+      "iso": "GB-TOF",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Vale of Glamorgan, The",
+      "iso": "GB-VGL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Warrington",
+      "iso": "GB-WRT",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "West Berkshire",
+      "iso": "GB-WBK",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Wiltshire",
+      "iso": "GB-WIL",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Windsor and Maidenhead",
+      "iso": "GB-WNM",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Wokingham",
+      "iso": "GB-WOK",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "Wrexham",
+      "iso": "GB-WRX",
+      "subdivision": "unitary authority"
+    },
+    {
+      "name": "York",
+      "iso": "GB-YOR",
+      "subdivision": "unitary authority"
+    }
+  ],
+  "zipRegex": "^(((([A-PR-UWYZ][0-9][0-9A-HJKS-UW]?)|([A-PR-UWYZ][A-HK-Y][0-9][0-9ABEHMNPRV-Y]?))\\s{0,2}[0-9]([ABD-HJLNP-UW-Z]{2}))|(GIR\\s{0,2}0AA))$"
+}

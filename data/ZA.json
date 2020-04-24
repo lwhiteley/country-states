@@ -1,0 +1,45 @@
+{
+  "region": "Africa",
+  "iso": "ZA",
+  "name": "South Africa",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Eastern Cape",
+      "iso": "ZA-EC"
+    },
+    {
+      "name": "Free State",
+      "iso": "ZA-FS"
+    },
+    {
+      "name": "Gauteng",
+      "iso": "ZA-GT"
+    },
+    {
+      "name": "KwaZulu-Natal",
+      "iso": "ZA-NL"
+    },
+    {
+      "name": "Limpopo",
+      "iso": "ZA-LP"
+    },
+    {
+      "name": "Mpumalanga",
+      "iso": "ZA-MP"
+    },
+    {
+      "name": "North West",
+      "iso": "ZA-NW"
+    },
+    {
+      "name": "Northern Cape",
+      "iso": "ZA-NC"
+    },
+    {
+      "name": "Western Cape",
+      "iso": "ZA-WC"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

@@ -1,0 +1,61 @@
+{
+  "region": "Africa",
+  "iso": "BF",
+  "name": "Burkina Faso",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Boucle du Mouhoun",
+      "iso": "BF-01"
+    },
+    {
+      "name": "Cascades",
+      "iso": "BF-02"
+    },
+    {
+      "name": "Centre",
+      "iso": "BF-03"
+    },
+    {
+      "name": "Centre-Est",
+      "iso": "BF-04"
+    },
+    {
+      "name": "Centre-Nord",
+      "iso": "BF-05"
+    },
+    {
+      "name": "Centre-Ouest",
+      "iso": "BF-06"
+    },
+    {
+      "name": "Centre-Sud",
+      "iso": "BF-07"
+    },
+    {
+      "name": "Est",
+      "iso": "BF-08"
+    },
+    {
+      "name": "Hauts-Bassins",
+      "iso": "BF-09"
+    },
+    {
+      "name": "Nord",
+      "iso": "BF-10"
+    },
+    {
+      "name": "Plateau-Central",
+      "iso": "BF-11"
+    },
+    {
+      "name": "Sahel",
+      "iso": "BF-12"
+    },
+    {
+      "name": "Sud-Ouest",
+      "iso": "BF-13"
+    }
+  ],
+  "zipRegex": ""
+}

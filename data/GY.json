@@ -1,0 +1,49 @@
+{
+  "region": "Americas",
+  "iso": "GY",
+  "name": "Guyana",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Barima-Waini",
+      "iso": "GY-BA"
+    },
+    {
+      "name": "Cuyuni-Mazaruni",
+      "iso": "GY-CU"
+    },
+    {
+      "name": "Demerara-Mahaica",
+      "iso": "GY-DE"
+    },
+    {
+      "name": "East Berbice-Corentyne",
+      "iso": "GY-EB"
+    },
+    {
+      "name": "Essequibo Islands-West Demerara",
+      "iso": "GY-ES"
+    },
+    {
+      "name": "Mahaica-Berbice",
+      "iso": "GY-MA"
+    },
+    {
+      "name": "Pomeroon-Supenaam",
+      "iso": "GY-PM"
+    },
+    {
+      "name": "Potaro-Siparuni",
+      "iso": "GY-PT"
+    },
+    {
+      "name": "Upper Demerara-Berbice",
+      "iso": "GY-UD"
+    },
+    {
+      "name": "Upper Takutu-Upper Essequibo",
+      "iso": "GY-UT"
+    }
+  ],
+  "zipRegex": ""
+}

@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "AW",
+  "name": "Aruba",
+  "hasPostalCodes": false,
+  "states": [],
+  "zipRegex": "^(0000 AW)$"
+}

@@ -1,0 +1,21 @@
+{
+  "region": "Europe",
+  "iso": "BA",
+  "name": "Bosnia and Herzegovina",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Br?ko distrikt",
+      "iso": "BA-BRC"
+    },
+    {
+      "name": "Federacija Bosna i Hercegovina",
+      "iso": "BA-BIH"
+    },
+    {
+      "name": "Republika Srpska",
+      "iso": "BA-SRP"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

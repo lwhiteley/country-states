@@ -1,0 +1,25 @@
+{
+  "region": "Asia",
+  "iso": "TJ",
+  "name": "Tajikistan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Dushanbe",
+      "iso": "TJ-DU"
+    },
+    {
+      "name": "Khatlon",
+      "iso": "TJ-KT"
+    },
+    {
+      "name": "K?histoni Badakhshon",
+      "iso": "TJ-GB"
+    },
+    {
+      "name": "Sughd",
+      "iso": "TJ-SU"
+    }
+  ],
+  "zipRegex": "^(\\d{3})$"
+}

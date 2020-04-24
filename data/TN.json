@@ -1,0 +1,105 @@
+{
+  "region": "Africa",
+  "iso": "TN",
+  "name": "Tunisia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ariana",
+      "iso": "TN-12"
+    },
+    {
+      "name": "Ben Arous",
+      "iso": "TN-13"
+    },
+    {
+      "name": "Bizerte",
+      "iso": "TN-23"
+    },
+    {
+      "name": "B?ja",
+      "iso": "TN-31"
+    },
+    {
+      "name": "Gab?s",
+      "iso": "TN-81"
+    },
+    {
+      "name": "Gafsa",
+      "iso": "TN-71"
+    },
+    {
+      "name": "Jendouba",
+      "iso": "TN-32"
+    },
+    {
+      "name": "Kairouan",
+      "iso": "TN-41"
+    },
+    {
+      "name": "Kasserine",
+      "iso": "TN-42"
+    },
+    {
+      "name": "Kebili",
+      "iso": "TN-73"
+    },
+    {
+      "name": "La Manouba",
+      "iso": "TN-14"
+    },
+    {
+      "name": "Le Kef",
+      "iso": "TN-33"
+    },
+    {
+      "name": "Mahdia",
+      "iso": "TN-53"
+    },
+    {
+      "name": "Medenine",
+      "iso": "TN-82"
+    },
+    {
+      "name": "Monastir",
+      "iso": "TN-52"
+    },
+    {
+      "name": "Nabeul",
+      "iso": "TN-21"
+    },
+    {
+      "name": "Sfax",
+      "iso": "TN-61"
+    },
+    {
+      "name": "Sidi Bouzid",
+      "iso": "TN-43"
+    },
+    {
+      "name": "Siliana",
+      "iso": "TN-34"
+    },
+    {
+      "name": "Sousse",
+      "iso": "TN-51"
+    },
+    {
+      "name": "Tataouine",
+      "iso": "TN-83"
+    },
+    {
+      "name": "Tozeur",
+      "iso": "TN-72"
+    },
+    {
+      "name": "Tunis",
+      "iso": "TN-11"
+    },
+    {
+      "name": "Zaghouan",
+      "iso": "TN-22"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

@@ -1,0 +1,41 @@
+{
+  "region": "Americas",
+  "iso": "AG",
+  "name": "Antigua and Barbuda",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Barbuda",
+      "iso": "AG-10"
+    },
+    {
+      "name": "Redonda",
+      "iso": "AG-11"
+    },
+    {
+      "name": "Saint George",
+      "iso": "AG-03"
+    },
+    {
+      "name": "Saint John",
+      "iso": "AG-04"
+    },
+    {
+      "name": "Saint Mary",
+      "iso": "AG-05"
+    },
+    {
+      "name": "Saint Paul",
+      "iso": "AG-06"
+    },
+    {
+      "name": "Saint Peter",
+      "iso": "AG-07"
+    },
+    {
+      "name": "Saint Philip",
+      "iso": "AG-08"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

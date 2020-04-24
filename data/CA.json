@@ -1,0 +1,61 @@
+{
+  "region": "Americas",
+  "iso": "CA",
+  "name": "Canada",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "iso": "AB",
+      "name": "Alberta"
+    },
+    {
+      "iso": "BC",
+      "name": "British Columbia"
+    },
+    {
+      "iso": "MB",
+      "name": "Manitoba"
+    },
+    {
+      "iso": "NB",
+      "name": "New Brunswick"
+    },
+    {
+      "iso": "NL",
+      "name": "Newfoundland and Labrador"
+    },
+    {
+      "iso": "NS",
+      "name": "Nova Scotia"
+    },
+    {
+      "iso": "NT",
+      "name": "Northwest Territories"
+    },
+    {
+      "iso": "NU",
+      "name": "Nunavut"
+    },
+    {
+      "iso": "ON",
+      "name": "Ontario"
+    },
+    {
+      "iso": "PE",
+      "name": "Prince Edward Island"
+    },
+    {
+      "iso": "QC",
+      "name": "Quebec"
+    },
+    {
+      "iso": "SK",
+      "name": "Saskatchewan"
+    },
+    {
+      "iso": "YT",
+      "name": "Yukon"
+    }
+  ],
+  "zipRegex": "^(?!.*[DFIOQU])[A-VXY][0-9][A-Z] +?[0-9][A-Z][0-9]$"
+}

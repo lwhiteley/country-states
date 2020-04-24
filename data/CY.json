@@ -1,0 +1,33 @@
+{
+  "region": "Europe",
+  "iso": "CY",
+  "name": "Cyprus",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ammochostos",
+      "iso": "CY-04"
+    },
+    {
+      "name": "Keryneia",
+      "iso": "CY-06"
+    },
+    {
+      "name": "Larnaka",
+      "iso": "CY-03"
+    },
+    {
+      "name": "Lefkosia",
+      "iso": "CY-01"
+    },
+    {
+      "name": "Lemesos",
+      "iso": "CY-02"
+    },
+    {
+      "name": "Pafos",
+      "iso": "CY-05"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

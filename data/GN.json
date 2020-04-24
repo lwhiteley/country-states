@@ -1,0 +1,41 @@
+{
+  "region": "Africa",
+  "iso": "GN",
+  "name": "Guinea",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Bok?",
+      "iso": "GN-B"
+    },
+    {
+      "name": "Conakry",
+      "iso": "GN-C"
+    },
+    {
+      "name": "Faranah",
+      "iso": "GN-F"
+    },
+    {
+      "name": "Kankan",
+      "iso": "GN-K"
+    },
+    {
+      "name": "Kindia",
+      "iso": "GN-D"
+    },
+    {
+      "name": "Lab?",
+      "iso": "GN-L"
+    },
+    {
+      "name": "Mamou",
+      "iso": "GN-M"
+    },
+    {
+      "name": "Nz?r?kor?",
+      "iso": "GN-N"
+    }
+  ],
+  "zipRegex": "^(\\d{3})$"
+}

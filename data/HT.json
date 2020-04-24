@@ -1,0 +1,49 @@
+{
+  "region": "Americas",
+  "iso": "HT",
+  "name": "Haiti",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Artibonite",
+      "iso": "HT-AR"
+    },
+    {
+      "name": "Centre",
+      "iso": "HT-CE"
+    },
+    {
+      "name": "Grande-Anse",
+      "iso": "HT-GA"
+    },
+    {
+      "name": "Nippes",
+      "iso": "HT-NI"
+    },
+    {
+      "name": "Nord",
+      "iso": "HT-ND"
+    },
+    {
+      "name": "Nord-Est",
+      "iso": "HT-NE"
+    },
+    {
+      "name": "Nord-Ouest",
+      "iso": "HT-NO"
+    },
+    {
+      "name": "Ouest",
+      "iso": "HT-OU"
+    },
+    {
+      "name": "Sud",
+      "iso": "HT-SD"
+    },
+    {
+      "name": "Sud-Est",
+      "iso": "HT-SE"
+    }
+  ],
+  "zipRegex": "^(?:HT)*(\\d{4})$"
+}

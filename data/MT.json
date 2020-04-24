@@ -1,0 +1,281 @@
+{
+  "region": "Europe",
+  "iso": "MT",
+  "name": "Malta",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Attard",
+      "iso": "MT-01"
+    },
+    {
+      "name": "Balzan",
+      "iso": "MT-02"
+    },
+    {
+      "name": "Birgu",
+      "iso": "MT-03"
+    },
+    {
+      "name": "Birkirkara",
+      "iso": "MT-04"
+    },
+    {
+      "name": "Bir?ebbu?a",
+      "iso": "MT-05"
+    },
+    {
+      "name": "Bormla",
+      "iso": "MT-06"
+    },
+    {
+      "name": "Dingli",
+      "iso": "MT-07"
+    },
+    {
+      "name": "Fgura",
+      "iso": "MT-08"
+    },
+    {
+      "name": "Floriana",
+      "iso": "MT-09"
+    },
+    {
+      "name": "Fontana",
+      "iso": "MT-10"
+    },
+    {
+      "name": "Gudja",
+      "iso": "MT-11"
+    },
+    {
+      "name": "G?ajnsielem",
+      "iso": "MT-13"
+    },
+    {
+      "name": "G?arb",
+      "iso": "MT-14"
+    },
+    {
+      "name": "G?arg?ur",
+      "iso": "MT-15"
+    },
+    {
+      "name": "G?asri",
+      "iso": "MT-16"
+    },
+    {
+      "name": "G?axaq",
+      "iso": "MT-17"
+    },
+    {
+      "name": "G?ira",
+      "iso": "MT-12"
+    },
+    {
+      "name": "Iklin",
+      "iso": "MT-19"
+    },
+    {
+      "name": "Isla",
+      "iso": "MT-20"
+    },
+    {
+      "name": "Kalkara",
+      "iso": "MT-21"
+    },
+    {
+      "name": "Ker?em",
+      "iso": "MT-22"
+    },
+    {
+      "name": "Kirkop",
+      "iso": "MT-23"
+    },
+    {
+      "name": "Lija",
+      "iso": "MT-24"
+    },
+    {
+      "name": "Luqa",
+      "iso": "MT-25"
+    },
+    {
+      "name": "Marsa",
+      "iso": "MT-26"
+    },
+    {
+      "name": "Marsaskala",
+      "iso": "MT-27"
+    },
+    {
+      "name": "Marsaxlokk",
+      "iso": "MT-28"
+    },
+    {
+      "name": "Mdina",
+      "iso": "MT-29"
+    },
+    {
+      "name": "Mellie?a",
+      "iso": "MT-30"
+    },
+    {
+      "name": "Mosta",
+      "iso": "MT-32"
+    },
+    {
+      "name": "Mqabba",
+      "iso": "MT-33"
+    },
+    {
+      "name": "Msida",
+      "iso": "MT-34"
+    },
+    {
+      "name": "Mtarfa",
+      "iso": "MT-35"
+    },
+    {
+      "name": "Munxar",
+      "iso": "MT-36"
+    },
+    {
+      "name": "M?arr",
+      "iso": "MT-31"
+    },
+    {
+      "name": "Nadur",
+      "iso": "MT-37"
+    },
+    {
+      "name": "Naxxar",
+      "iso": "MT-38"
+    },
+    {
+      "name": "Paola",
+      "iso": "MT-39"
+    },
+    {
+      "name": "Pembroke",
+      "iso": "MT-40"
+    },
+    {
+      "name": "Piet?",
+      "iso": "MT-41"
+    },
+    {
+      "name": "Qala",
+      "iso": "MT-42"
+    },
+    {
+      "name": "Qormi",
+      "iso": "MT-43"
+    },
+    {
+      "name": "Qrendi",
+      "iso": "MT-44"
+    },
+    {
+      "name": "Rabat G?awdex",
+      "iso": "MT-45"
+    },
+    {
+      "name": "Rabat Malta",
+      "iso": "MT-46"
+    },
+    {
+      "name": "Safi",
+      "iso": "MT-47"
+    },
+    {
+      "name": "San Lawrenz",
+      "iso": "MT-50"
+    },
+    {
+      "name": "San Pawl il-Ba?ar",
+      "iso": "MT-51"
+    },
+    {
+      "name": "San ?iljan",
+      "iso": "MT-48"
+    },
+    {
+      "name": "San ?wann",
+      "iso": "MT-49"
+    },
+    {
+      "name": "Sannat",
+      "iso": "MT-52"
+    },
+    {
+      "name": "Santa Lu?ija",
+      "iso": "MT-53"
+    },
+    {
+      "name": "Santa Venera",
+      "iso": "MT-54"
+    },
+    {
+      "name": "Si??iewi",
+      "iso": "MT-55"
+    },
+    {
+      "name": "Sliema",
+      "iso": "MT-56"
+    },
+    {
+      "name": "Swieqi",
+      "iso": "MT-57"
+    },
+    {
+      "name": "Ta' Xbiex",
+      "iso": "MT-58"
+    },
+    {
+      "name": "Tarxien",
+      "iso": "MT-59"
+    },
+    {
+      "name": "Valletta",
+      "iso": "MT-60"
+    },
+    {
+      "name": "Xag?ra",
+      "iso": "MT-61"
+    },
+    {
+      "name": "Xewkija",
+      "iso": "MT-62"
+    },
+    {
+      "name": "Xg?ajra",
+      "iso": "MT-63"
+    },
+    {
+      "name": "?amrun",
+      "iso": "MT-18"
+    },
+    {
+      "name": "?abbar",
+      "iso": "MT-64"
+    },
+    {
+      "name": "?ebbu? G?awdex",
+      "iso": "MT-65"
+    },
+    {
+      "name": "?ebbu? Malta",
+      "iso": "MT-66"
+    },
+    {
+      "name": "?ejtun",
+      "iso": "MT-67"
+    },
+    {
+      "name": "?urrieq",
+      "iso": "MT-68"
+    }
+  ],
+  "zipRegex": "^[A-Z]{3} [0-9]{4}$"
+}

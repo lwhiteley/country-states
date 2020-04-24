@@ -1,0 +1,8 @@
+{
+  "region": "Oceania",
+  "iso": "NC",
+  "name": "New Caledonia",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(\\d{5})$"
+}

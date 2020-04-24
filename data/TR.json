@@ -1,0 +1,333 @@
+{
+  "region": "Asia",
+  "iso": "TR",
+  "name": "Turkey",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Adana",
+      "iso": "TR-01"
+    },
+    {
+      "name": "Ad?yaman",
+      "iso": "TR-02"
+    },
+    {
+      "name": "Afyonkarahisar",
+      "iso": "TR-03"
+    },
+    {
+      "name": "Aksaray",
+      "iso": "TR-68"
+    },
+    {
+      "name": "Amasya",
+      "iso": "TR-05"
+    },
+    {
+      "name": "Ankara",
+      "iso": "TR-06"
+    },
+    {
+      "name": "Antalya",
+      "iso": "TR-07"
+    },
+    {
+      "name": "Ardahan",
+      "iso": "TR-75"
+    },
+    {
+      "name": "Artvin",
+      "iso": "TR-08"
+    },
+    {
+      "name": "Ayd?n",
+      "iso": "TR-09"
+    },
+    {
+      "name": "A?r?",
+      "iso": "TR-04"
+    },
+    {
+      "name": "Bal?kesir",
+      "iso": "TR-10"
+    },
+    {
+      "name": "Bart?n",
+      "iso": "TR-74"
+    },
+    {
+      "name": "Batman",
+      "iso": "TR-72"
+    },
+    {
+      "name": "Bayburt",
+      "iso": "TR-69"
+    },
+    {
+      "name": "Bilecik",
+      "iso": "TR-11"
+    },
+    {
+      "name": "Bing?l",
+      "iso": "TR-12"
+    },
+    {
+      "name": "Bitlis",
+      "iso": "TR-13"
+    },
+    {
+      "name": "Bolu",
+      "iso": "TR-14"
+    },
+    {
+      "name": "Burdur",
+      "iso": "TR-15"
+    },
+    {
+      "name": "Bursa",
+      "iso": "TR-16"
+    },
+    {
+      "name": "Denizli",
+      "iso": "TR-20"
+    },
+    {
+      "name": "Diyarbak?r",
+      "iso": "TR-21"
+    },
+    {
+      "name": "D?zce",
+      "iso": "TR-81"
+    },
+    {
+      "name": "Edirne",
+      "iso": "TR-22"
+    },
+    {
+      "name": "Elaz??",
+      "iso": "TR-23"
+    },
+    {
+      "name": "Erzincan",
+      "iso": "TR-24"
+    },
+    {
+      "name": "Erzurum",
+      "iso": "TR-25"
+    },
+    {
+      "name": "Eski?ehir",
+      "iso": "TR-26"
+    },
+    {
+      "name": "Gaziantep",
+      "iso": "TR-27"
+    },
+    {
+      "name": "Giresun",
+      "iso": "TR-28"
+    },
+    {
+      "name": "G?m??hane",
+      "iso": "TR-29"
+    },
+    {
+      "name": "Hakk?ri",
+      "iso": "TR-30"
+    },
+    {
+      "name": "Hatay",
+      "iso": "TR-31"
+    },
+    {
+      "name": "Isparta",
+      "iso": "TR-32"
+    },
+    {
+      "name": "I?d?r",
+      "iso": "TR-76"
+    },
+    {
+      "name": "Kahramanmara?",
+      "iso": "TR-46"
+    },
+    {
+      "name": "Karab?k",
+      "iso": "TR-78"
+    },
+    {
+      "name": "Karaman",
+      "iso": "TR-70"
+    },
+    {
+      "name": "Kars",
+      "iso": "TR-36"
+    },
+    {
+      "name": "Kastamonu",
+      "iso": "TR-37"
+    },
+    {
+      "name": "Kayseri",
+      "iso": "TR-38"
+    },
+    {
+      "name": "Kilis",
+      "iso": "TR-79"
+    },
+    {
+      "name": "Kocaeli",
+      "iso": "TR-41"
+    },
+    {
+      "name": "Konya",
+      "iso": "TR-42"
+    },
+    {
+      "name": "K?tahya",
+      "iso": "TR-43"
+    },
+    {
+      "name": "K?rklareli",
+      "iso": "TR-39"
+    },
+    {
+      "name": "K?r?kkale",
+      "iso": "TR-71"
+    },
+    {
+      "name": "K?r?ehir",
+      "iso": "TR-40"
+    },
+    {
+      "name": "Malatya",
+      "iso": "TR-44"
+    },
+    {
+      "name": "Manisa",
+      "iso": "TR-45"
+    },
+    {
+      "name": "Mardin",
+      "iso": "TR-47"
+    },
+    {
+      "name": "Mersin",
+      "iso": "TR-33"
+    },
+    {
+      "name": "Mu?la",
+      "iso": "TR-48"
+    },
+    {
+      "name": "Mu?",
+      "iso": "TR-49"
+    },
+    {
+      "name": "Nev?ehir",
+      "iso": "TR-50"
+    },
+    {
+      "name": "Ni?de",
+      "iso": "TR-51"
+    },
+    {
+      "name": "Ordu",
+      "iso": "TR-52"
+    },
+    {
+      "name": "Osmaniye",
+      "iso": "TR-80"
+    },
+    {
+      "name": "Rize",
+      "iso": "TR-53"
+    },
+    {
+      "name": "Sakarya",
+      "iso": "TR-54"
+    },
+    {
+      "name": "Samsun",
+      "iso": "TR-55"
+    },
+    {
+      "name": "Siirt",
+      "iso": "TR-56"
+    },
+    {
+      "name": "Sinop",
+      "iso": "TR-57"
+    },
+    {
+      "name": "Sivas",
+      "iso": "TR-58"
+    },
+    {
+      "name": "Tekirda?",
+      "iso": "TR-59"
+    },
+    {
+      "name": "Tokat",
+      "iso": "TR-60"
+    },
+    {
+      "name": "Trabzon",
+      "iso": "TR-61"
+    },
+    {
+      "name": "Tunceli",
+      "iso": "TR-62"
+    },
+    {
+      "name": "U?ak",
+      "iso": "TR-64"
+    },
+    {
+      "name": "Van",
+      "iso": "TR-65"
+    },
+    {
+      "name": "Yalova",
+      "iso": "TR-77"
+    },
+    {
+      "name": "Yozgat",
+      "iso": "TR-66"
+    },
+    {
+      "name": "Zonguldak",
+      "iso": "TR-67"
+    },
+    {
+      "name": "?anakkale",
+      "iso": "TR-17"
+    },
+    {
+      "name": "?ank?r?",
+      "iso": "TR-18"
+    },
+    {
+      "name": "?orum",
+      "iso": "TR-19"
+    },
+    {
+      "name": "?stanbul",
+      "iso": "TR-34"
+    },
+    {
+      "name": "?zmir",
+      "iso": "TR-35"
+    },
+    {
+      "name": "?anl?urfa",
+      "iso": "TR-63"
+    },
+    {
+      "name": "??rnak",
+      "iso": "TR-73"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

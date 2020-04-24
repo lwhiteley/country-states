@@ -1,0 +1,141 @@
+{
+  "region": "Europe",
+  "iso": "FR",
+  "name": "France",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Alsace",
+      "iso": "FR-A",
+      "subdivision": "Metropolitan region",
+      "native": "Alsace"
+    },
+    {
+      "name": "Aquitaine",
+      "iso": "FR-B",
+      "subdivision": "Metropolitan region",
+      "native": "Aquitaine"
+    },
+    {
+      "name": "Auvergne",
+      "iso": "FR-C",
+      "subdivision": "Metropolitan region",
+      "native": "Auvergne"
+    },
+    {
+      "name": "Brittany",
+      "iso": "FR-E",
+      "subdivision": "Metropolitan region",
+      "native": "Bretagne"
+    },
+    {
+      "name": "Burgundy",
+      "iso": "FR-D",
+      "subdivision": "Metropolitan region",
+      "native": "Bourgogne"
+    },
+    {
+      "name": "Centre-Val de Loire",
+      "iso": "FR-F",
+      "subdivision": "Metropolitan region",
+      "native": "Centre"
+    },
+    {
+      "name": "Champagne-Ardenne",
+      "iso": "FR-G",
+      "subdivision": "Metropolitan region",
+      "native": "Champagne-Ardenne"
+    },
+    {
+      "name": "Corsica",
+      "iso": "FR-H",
+      "subdivision": "Metropolitan region",
+      "native": "Corse"
+    },
+    {
+      "name": "Franche-Comt?",
+      "iso": "FR-I",
+      "subdivision": "Metropolitan region",
+      "native": "Franche-Comt?"
+    },
+    {
+      "name": "Languedoc-Roussillon",
+      "iso": "FR-K",
+      "subdivision": "Metropolitan region",
+      "native": "Languedoc-Roussillon"
+    },
+    {
+      "name": "Limousin",
+      "iso": "FR-L",
+      "subdivision": "Metropolitan region",
+      "native": "Limousin"
+    },
+    {
+      "name": "Lorraine",
+      "iso": "FR-M",
+      "subdivision": "Metropolitan region",
+      "native": "Lorraine"
+    },
+    {
+      "name": "Lower Normandy",
+      "iso": "FR-P",
+      "subdivision": "Metropolitan region",
+      "native": "Basse-Normandie"
+    },
+    {
+      "name": "Midi-Pyr?n?es",
+      "iso": "FR-N",
+      "subdivision": "Metropolitan region",
+      "native": "Midi-Pyr?n?es"
+    },
+    {
+      "name": "Nord-Pas-de-Calais",
+      "iso": "FR-O",
+      "subdivision": "Metropolitan region",
+      "native": "Nord-Pas-de-Calais"
+    },
+    {
+      "name": "Pays de la Loire",
+      "iso": "FR-R",
+      "subdivision": "Metropolitan region",
+      "native": "Pays de la Loire"
+    },
+    {
+      "name": "Picardy",
+      "iso": "FR-S",
+      "subdivision": "Metropolitan region",
+      "native": "Picardie"
+    },
+    {
+      "name": "Poitou-Charentes",
+      "iso": "FR-T",
+      "subdivision": "Metropolitan region",
+      "native": "Poitou-Charentes"
+    },
+    {
+      "name": "Provence-Alpes-C?te d'Azur",
+      "iso": "FR-U",
+      "subdivision": "Metropolitan region",
+      "native": "Provence-Alpes-C?te d'Azur"
+    },
+    {
+      "name": "Rh?ne-Alpes",
+      "iso": "FR-V",
+      "subdivision": "Metropolitan region",
+      "native": "Rh?ne-Alpes"
+    },
+    {
+      "name": "Upper Normandy",
+      "iso": "FR-Q",
+      "subdivision": "Metropolitan region",
+      "native": "Haute-Normandie"
+    },
+    {
+      "name": "?le-de-France",
+      "iso": "FR-J",
+      "subdivision": "Metropolitan region",
+      "native": "?le-de-France"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

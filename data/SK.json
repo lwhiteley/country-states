@@ -1,0 +1,41 @@
+{
+  "region": "Europe",
+  "iso": "SK",
+  "name": "Slovakia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Banskobystrick? kraj",
+      "iso": "SK-BC"
+    },
+    {
+      "name": "Bratislavsk? kraj",
+      "iso": "SK-BL"
+    },
+    {
+      "name": "Ko?ick? kraj",
+      "iso": "SK-KI"
+    },
+    {
+      "name": "Nitriansky kraj",
+      "iso": "SK-NI"
+    },
+    {
+      "name": "Pre?ovsk? kraj",
+      "iso": "SK-PV"
+    },
+    {
+      "name": "Tren?iansky kraj",
+      "iso": "SK-TC"
+    },
+    {
+      "name": "Trnavsk? kraj",
+      "iso": "SK-TA"
+    },
+    {
+      "name": "?ilinsk? kraj",
+      "iso": "SK-ZI"
+    }
+  ],
+  "zipRegex": "^(\\d{3} \\d{2})$"
+}

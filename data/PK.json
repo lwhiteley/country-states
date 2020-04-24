@@ -1,0 +1,41 @@
+{
+  "region": "Asia",
+  "iso": "PK",
+  "name": "Pakistan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Azad Kashmir",
+      "iso": "PK-JK"
+    },
+    {
+      "name": "Balochistan",
+      "iso": "PK-BA"
+    },
+    {
+      "name": "Federally Administered Tribal Areas",
+      "iso": "PK-TA"
+    },
+    {
+      "name": "Gilgit-Baltistan",
+      "iso": "PK-GB"
+    },
+    {
+      "name": "Islamabad",
+      "iso": "PK-IS"
+    },
+    {
+      "name": "Khyber Pakhtunkhwa",
+      "iso": "PK-KP"
+    },
+    {
+      "name": "Punjab",
+      "iso": "PK-PB"
+    },
+    {
+      "name": "Sindh",
+      "iso": "PK-SD"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

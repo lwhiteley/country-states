@@ -1,0 +1,41 @@
+{
+  "region": "Oceania",
+  "iso": "TV",
+  "name": "Tuvalu",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Funafuti",
+      "iso": "TV-FUN"
+    },
+    {
+      "name": "Nanumanga",
+      "iso": "TV-NMG"
+    },
+    {
+      "name": "Nanumea",
+      "iso": "TV-NMA"
+    },
+    {
+      "name": "Niutao",
+      "iso": "TV-NIT"
+    },
+    {
+      "name": "Nui",
+      "iso": "TV-NUI"
+    },
+    {
+      "name": "Nukufetau",
+      "iso": "TV-NKF"
+    },
+    {
+      "name": "Nukulaelae",
+      "iso": "TV-NKL"
+    },
+    {
+      "name": "Vaitupu",
+      "iso": "TV-VAI"
+    }
+  ],
+  "zipRegex": ""
+}

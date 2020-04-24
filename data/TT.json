@@ -1,0 +1,73 @@
+{
+  "region": "Americas",
+  "iso": "TT",
+  "name": "Trinidad and Tobago",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Arima",
+      "iso": "TT-ARI"
+    },
+    {
+      "name": "Chaguanas",
+      "iso": "TT-CHA"
+    },
+    {
+      "name": "Couva-Tabaquite-Talparo",
+      "iso": "TT-CTT"
+    },
+    {
+      "name": "Diego Martin",
+      "iso": "TT-DMN"
+    },
+    {
+      "name": "Eastern Tobago",
+      "iso": "TT-ETO"
+    },
+    {
+      "name": "Penal-Debe",
+      "iso": "TT-PED"
+    },
+    {
+      "name": "Point Fortin",
+      "iso": "TT-PTF"
+    },
+    {
+      "name": "Port of Spain",
+      "iso": "TT-POS"
+    },
+    {
+      "name": "Princes Town",
+      "iso": "TT-PRT"
+    },
+    {
+      "name": "Rio Claro-Mayaro",
+      "iso": "TT-RCM"
+    },
+    {
+      "name": "San Fernando",
+      "iso": "TT-SFO"
+    },
+    {
+      "name": "San Juan-Laventille",
+      "iso": "TT-SJL"
+    },
+    {
+      "name": "Sangre Grande",
+      "iso": "TT-SGE"
+    },
+    {
+      "name": "Siparia",
+      "iso": "TT-SIP"
+    },
+    {
+      "name": "Tunapuna-Piarco",
+      "iso": "TT-TUP"
+    },
+    {
+      "name": "Western Tobago",
+      "iso": "TT-WTO"
+    }
+  ],
+  "zipRegex": ""
+}

@@ -1,0 +1,77 @@
+{
+  "region": "Asia",
+  "iso": "KR",
+  "name": "Korea, Republic of",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Busan-gwangyeoksi",
+      "iso": "KR-26"
+    },
+    {
+      "name": "Chungcheongbuk-do",
+      "iso": "KR-43"
+    },
+    {
+      "name": "Chungcheongnam-do",
+      "iso": "KR-44"
+    },
+    {
+      "name": "Daegu-gwangyeoksi",
+      "iso": "KR-27"
+    },
+    {
+      "name": "Daejeon-gwangyeoksi",
+      "iso": "KR-30"
+    },
+    {
+      "name": "Gangwon-do",
+      "iso": "KR-42"
+    },
+    {
+      "name": "Gwangju-gwangyeoksi",
+      "iso": "KR-29"
+    },
+    {
+      "name": "Gyeonggi-do",
+      "iso": "KR-41"
+    },
+    {
+      "name": "Gyeongsangbuk-do",
+      "iso": "KR-47"
+    },
+    {
+      "name": "Gyeongsangnam-do",
+      "iso": "KR-48"
+    },
+    {
+      "name": "Incheon-gwangyeoksi",
+      "iso": "KR-28"
+    },
+    {
+      "name": "Jeju-teukbyeoljachido",
+      "iso": "KR-49"
+    },
+    {
+      "name": "Jeollabuk-do",
+      "iso": "KR-45"
+    },
+    {
+      "name": "Jeollanam-do",
+      "iso": "KR-46"
+    },
+    {
+      "name": "Sejong",
+      "iso": "KR-50"
+    },
+    {
+      "name": "Seoul-teukbyeolsi",
+      "iso": "KR-11"
+    },
+    {
+      "name": "Ulsan-gwangyeoksi",
+      "iso": "KR-31"
+    }
+  ],
+  "zipRegex": "^(\\d{3}[-]\\d{3})$"
+}

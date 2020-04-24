@@ -1,0 +1,49 @@
+{
+  "region": "Europe",
+  "iso": "LT",
+  "name": "Lithuania",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Alytaus Apskritis",
+      "iso": "LT-AL"
+    },
+    {
+      "name": "Kauno Apskritis",
+      "iso": "LT-KU"
+    },
+    {
+      "name": "Klaip?dos Apskritis",
+      "iso": "LT-KL"
+    },
+    {
+      "name": "Marijampol?s Apskritis",
+      "iso": "LT-MR"
+    },
+    {
+      "name": "Panev??io Apskritis",
+      "iso": "LT-PN"
+    },
+    {
+      "name": "Taurag?s Apskritis",
+      "iso": "LT-TA"
+    },
+    {
+      "name": "Tel?i? Apskritis",
+      "iso": "LT-TE"
+    },
+    {
+      "name": "Utenos Apskritis",
+      "iso": "LT-UT"
+    },
+    {
+      "name": "Vilniaus Apskritis",
+      "iso": "LT-VL"
+    },
+    {
+      "name": "?iauli? Apskritis",
+      "iso": "LT-SA"
+    }
+  ],
+  "zipRegex": "^(?:LT)*(\\d{5})$"
+}

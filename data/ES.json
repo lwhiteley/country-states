@@ -1,0 +1,354 @@
+{
+  "region": "Europe",
+  "iso": "ES",
+  "name": "Spain",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "A Coru?a",
+      "iso": "ES-C",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Albacete",
+      "iso": "ES-AB",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Alicante",
+      "iso": "ES-A",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Almer?a",
+      "iso": "ES-AL",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Asturias",
+      "iso": "ES-O",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Badajoz",
+      "iso": "ES-BA",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Balears",
+      "iso": "ES-PM",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Barcelona",
+      "iso": "ES-B",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Burgos",
+      "iso": "ES-BU",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Cantabria",
+      "iso": "ES-S",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Castell?n",
+      "iso": "ES-CS",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Ciudad Real",
+      "iso": "ES-CR",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Cuenca",
+      "iso": "ES-CU",
+      "subdivision": "Province"
+    },
+    {
+      "name": "C?ceres",
+      "iso": "ES-CC",
+      "subdivision": "Province"
+    },
+    {
+      "name": "C?diz",
+      "iso": "ES-CA",
+      "subdivision": "Province"
+    },
+    {
+      "name": "C?rdoba",
+      "iso": "ES-CO",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Girona",
+      "iso": "ES-GI",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Granada",
+      "iso": "ES-GR",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Guadalajara",
+      "iso": "ES-GU",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Guip?zcoa",
+      "iso": "ES-SS",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Huelva",
+      "iso": "ES-H",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Huesca",
+      "iso": "ES-HU",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Ja?n",
+      "iso": "ES-J",
+      "subdivision": "Province"
+    },
+    {
+      "name": "La Rioja",
+      "iso": "ES-LO",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Las Palmas",
+      "iso": "ES-GC",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Le?n",
+      "iso": "ES-LE",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Lleida",
+      "iso": "ES-L",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Lugo",
+      "iso": "ES-LU",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Madrid",
+      "iso": "ES-M",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Murcia",
+      "iso": "ES-MU",
+      "subdivision": "Province"
+    },
+    {
+      "name": "M?laga",
+      "iso": "ES-MA",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Navarra",
+      "iso": "ES-NA",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Ourense",
+      "iso": "ES-OR",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Palencia",
+      "iso": "ES-P",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Pontevedra",
+      "iso": "ES-PO",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Salamanca",
+      "iso": "ES-SA",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Santa Cruz de Tenerife",
+      "iso": "ES-TF",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Segovia",
+      "iso": "ES-SG",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Sevilla",
+      "iso": "ES-SE",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Soria",
+      "iso": "ES-SO",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Tarragona",
+      "iso": "ES-T",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Teruel",
+      "iso": "ES-TE",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Toledo",
+      "iso": "ES-TO",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Valencia",
+      "iso": "ES-V",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Valladolid",
+      "iso": "ES-VA",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Vizcaya",
+      "iso": "ES-BI",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Zamora",
+      "iso": "ES-ZA",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Zaragoza",
+      "iso": "ES-Z",
+      "subdivision": "Province"
+    },
+    {
+      "name": "?lava",
+      "iso": "ES-VI",
+      "subdivision": "Province"
+    },
+    {
+      "name": "?vila",
+      "iso": "ES-AV",
+      "subdivision": "Province"
+    },
+    {
+      "name": "Ceuta",
+      "iso": "ES-CE",
+      "subdivision": "autonomous city in North Africa"
+    },
+    {
+      "name": "Melilla",
+      "iso": "ES-ML",
+      "subdivision": "autonomous city in North Africa"
+    },
+    {
+      "name": "Andaluc?a",
+      "iso": "ES-AN",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Arag?n",
+      "iso": "ES-AR",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Asturias, Principado de",
+      "iso": "ES-AS",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Canarias",
+      "iso": "ES-CN",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Cantabria",
+      "iso": "ES-CB",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Castilla y Le?n",
+      "iso": "ES-CL",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Castilla-La Mancha",
+      "iso": "ES-CM",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Catalunya",
+      "iso": "ES-CT",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Extremadura",
+      "iso": "ES-EX",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Galicia",
+      "iso": "ES-GA",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Illes Balears",
+      "iso": "ES-IB",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "La Rioja",
+      "iso": "ES-RI",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Madrid, Comunidad de",
+      "iso": "ES-MD",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Murcia, Regi?n de",
+      "iso": "ES-MC",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Navarra, Comunidad Foral de",
+      "iso": "ES-NC",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Pa?s Vasco",
+      "iso": "ES-PV",
+      "subdivision": "autonomous community"
+    },
+    {
+      "name": "Valenciana, Comunidad",
+      "iso": "ES-VC",
+      "subdivision": "autonomous community"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

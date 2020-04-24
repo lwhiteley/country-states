@@ -1,0 +1,33 @@
+{
+  "region": "Africa",
+  "iso": "GM",
+  "name": "Gambia",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Banjul",
+      "iso": "GM-B"
+    },
+    {
+      "name": "Central River",
+      "iso": "GM-M"
+    },
+    {
+      "name": "Lower River",
+      "iso": "GM-L"
+    },
+    {
+      "name": "North Bank",
+      "iso": "GM-N"
+    },
+    {
+      "name": "Upper River",
+      "iso": "GM-U"
+    },
+    {
+      "name": "Western",
+      "iso": "GM-W"
+    }
+  ],
+  "zipRegex": ""
+}

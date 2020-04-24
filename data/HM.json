@@ -1,0 +1,8 @@
+{
+  "region": "Antarctica",
+  "iso": "HM",
+  "name": "Heard Island and McDonald Islands",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(7151)$"
+}

@@ -1,0 +1,49 @@
+{
+  "region": "Americas",
+  "iso": "DM",
+  "name": "Dominica",
+  "hasPostalCodes": false,
+  "states": [
+    {
+      "name": "Saint Andrew",
+      "iso": "DM-02"
+    },
+    {
+      "name": "Saint David",
+      "iso": "DM-03"
+    },
+    {
+      "name": "Saint George",
+      "iso": "DM-04"
+    },
+    {
+      "name": "Saint John",
+      "iso": "DM-05"
+    },
+    {
+      "name": "Saint Joseph",
+      "iso": "DM-06"
+    },
+    {
+      "name": "Saint Luke",
+      "iso": "DM-07"
+    },
+    {
+      "name": "Saint Mark",
+      "iso": "DM-08"
+    },
+    {
+      "name": "Saint Patrick",
+      "iso": "DM-09"
+    },
+    {
+      "name": "Saint Paul",
+      "iso": "DM-10"
+    },
+    {
+      "name": "Saint Peter",
+      "iso": "DM-11"
+    }
+  ],
+  "zipRegex": ""
+}

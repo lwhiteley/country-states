@@ -1,0 +1,113 @@
+{
+  "region": "Americas",
+  "iso": "PE",
+  "name": "Peru",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Amazonas",
+      "iso": "PE-AMA"
+    },
+    {
+      "name": "Ancash",
+      "iso": "PE-ANC"
+    },
+    {
+      "name": "Apur?mac",
+      "iso": "PE-APU"
+    },
+    {
+      "name": "Arequipa",
+      "iso": "PE-ARE"
+    },
+    {
+      "name": "Ayacucho",
+      "iso": "PE-AYA"
+    },
+    {
+      "name": "Cajamarca",
+      "iso": "PE-CAJ"
+    },
+    {
+      "name": "Cusco",
+      "iso": "PE-CUS"
+    },
+    {
+      "name": "El Callao",
+      "iso": "PE-CAL"
+    },
+    {
+      "name": "Huancavelica",
+      "iso": "PE-HUV"
+    },
+    {
+      "name": "Hu?nuco",
+      "iso": "PE-HUC"
+    },
+    {
+      "name": "Ica",
+      "iso": "PE-ICA"
+    },
+    {
+      "name": "Jun?n",
+      "iso": "PE-JUN"
+    },
+    {
+      "name": "La Libertad",
+      "iso": "PE-LAL"
+    },
+    {
+      "name": "Lambayeque",
+      "iso": "PE-LAM"
+    },
+    {
+      "name": "Lima",
+      "iso": "PE-LIM"
+    },
+    {
+      "name": "Loreto",
+      "iso": "PE-LOR"
+    },
+    {
+      "name": "Madre de Dios",
+      "iso": "PE-MDD"
+    },
+    {
+      "name": "Moquegua",
+      "iso": "PE-MOQ"
+    },
+    {
+      "name": "Municipalidad Metropolitana de Lima",
+      "iso": "PE-LMA"
+    },
+    {
+      "name": "Pasco",
+      "iso": "PE-PAS"
+    },
+    {
+      "name": "Piura",
+      "iso": "PE-PIU"
+    },
+    {
+      "name": "Puno",
+      "iso": "PE-PUN"
+    },
+    {
+      "name": "San Mart?n",
+      "iso": "PE-SAM"
+    },
+    {
+      "name": "Tacna",
+      "iso": "PE-TAC"
+    },
+    {
+      "name": "Tumbes",
+      "iso": "PE-TUM"
+    },
+    {
+      "name": "Ucayali",
+      "iso": "PE-UCA"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}

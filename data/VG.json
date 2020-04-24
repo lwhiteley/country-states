@@ -1,0 +1,8 @@
+{
+  "region": "Americas",
+  "iso": "VG",
+  "name": "Virgin Islands, British",
+  "hasPostalCodes": true,
+  "states": [],
+  "zipRegex": "^(VG11)[0-6][0]$"
+}

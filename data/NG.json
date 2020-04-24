@@ -1,0 +1,157 @@
+{
+  "region": "Africa",
+  "iso": "NG",
+  "name": "Nigeria",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Abia",
+      "iso": "NG-AB"
+    },
+    {
+      "name": "Abuja Federal Capital Territory",
+      "iso": "NG-FC"
+    },
+    {
+      "name": "Adamawa",
+      "iso": "NG-AD"
+    },
+    {
+      "name": "Akwa Ibom",
+      "iso": "NG-AK"
+    },
+    {
+      "name": "Anambra",
+      "iso": "NG-AN"
+    },
+    {
+      "name": "Bauchi",
+      "iso": "NG-BA"
+    },
+    {
+      "name": "Bayelsa",
+      "iso": "NG-BY"
+    },
+    {
+      "name": "Benue",
+      "iso": "NG-BE"
+    },
+    {
+      "name": "Borno",
+      "iso": "NG-BO"
+    },
+    {
+      "name": "Cross River",
+      "iso": "NG-CR"
+    },
+    {
+      "name": "Delta",
+      "iso": "NG-DE"
+    },
+    {
+      "name": "Ebonyi",
+      "iso": "NG-EB"
+    },
+    {
+      "name": "Edo",
+      "iso": "NG-ED"
+    },
+    {
+      "name": "Ekiti",
+      "iso": "NG-EK"
+    },
+    {
+      "name": "Enugu",
+      "iso": "NG-EN"
+    },
+    {
+      "name": "Gombe",
+      "iso": "NG-GO"
+    },
+    {
+      "name": "Imo",
+      "iso": "NG-IM"
+    },
+    {
+      "name": "Jigawa",
+      "iso": "NG-JI"
+    },
+    {
+      "name": "Kaduna",
+      "iso": "NG-KD"
+    },
+    {
+      "name": "Kano",
+      "iso": "NG-KN"
+    },
+    {
+      "name": "Katsina",
+      "iso": "NG-KT"
+    },
+    {
+      "name": "Kebbi",
+      "iso": "NG-KE"
+    },
+    {
+      "name": "Kogi",
+      "iso": "NG-KO"
+    },
+    {
+      "name": "Kwara",
+      "iso": "NG-KW"
+    },
+    {
+      "name": "Lagos",
+      "iso": "NG-LA"
+    },
+    {
+      "name": "Nassarawa",
+      "iso": "NG-NA"
+    },
+    {
+      "name": "Niger",
+      "iso": "NG-NI"
+    },
+    {
+      "name": "Ogun",
+      "iso": "NG-OG"
+    },
+    {
+      "name": "Ondo",
+      "iso": "NG-ON"
+    },
+    {
+      "name": "Osun",
+      "iso": "NG-OS"
+    },
+    {
+      "name": "Oyo",
+      "iso": "NG-OY"
+    },
+    {
+      "name": "Plateau",
+      "iso": "NG-PL"
+    },
+    {
+      "name": "Rivers",
+      "iso": "NG-RI"
+    },
+    {
+      "name": "Sokoto",
+      "iso": "NG-SO"
+    },
+    {
+      "name": "Taraba",
+      "iso": "NG-TA"
+    },
+    {
+      "name": "Yobe",
+      "iso": "NG-YO"
+    },
+    {
+      "name": "Zamfara",
+      "iso": "NG-ZA"
+    }
+  ],
+  "zipRegex": "^(\\d{6})$"
+}

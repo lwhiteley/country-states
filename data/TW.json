@@ -1,0 +1,101 @@
+{
+  "region": "Asia",
+  "iso": "TW",
+  "name": "Taiwan, Province of China",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Changhua",
+      "iso": "TW-CHA"
+    },
+    {
+      "name": "Chiayi",
+      "iso": "TW-CYQ"
+    },
+    {
+      "name": "Chiayi",
+      "iso": "TW-CYI"
+    },
+    {
+      "name": "Hsinchu",
+      "iso": "TW-HSZ"
+    },
+    {
+      "name": "Hsinchu",
+      "iso": "TW-HSQ"
+    },
+    {
+      "name": "Hualien",
+      "iso": "TW-HUA"
+    },
+    {
+      "name": "Ilan",
+      "iso": "TW-ILA"
+    },
+    {
+      "name": "Kaohsiung",
+      "iso": "TW-KHQ"
+    },
+    {
+      "name": "Kaohsiung",
+      "iso": "TW-KHH"
+    },
+    {
+      "name": "Keelung",
+      "iso": "TW-KEE"
+    },
+    {
+      "name": "Miaoli",
+      "iso": "TW-MIA"
+    },
+    {
+      "name": "Nantou",
+      "iso": "TW-NAN"
+    },
+    {
+      "name": "Penghu",
+      "iso": "TW-PEN"
+    },
+    {
+      "name": "Pingtung",
+      "iso": "TW-PIF"
+    },
+    {
+      "name": "Taichung",
+      "iso": "TW-TXG"
+    },
+    {
+      "name": "Taichung",
+      "iso": "TW-TXQ"
+    },
+    {
+      "name": "Tainan",
+      "iso": "TW-TNN"
+    },
+    {
+      "name": "Tainan",
+      "iso": "TW-TNQ"
+    },
+    {
+      "name": "Taipei",
+      "iso": "TW-TPE"
+    },
+    {
+      "name": "Taipei",
+      "iso": "TW-TPQ"
+    },
+    {
+      "name": "Taitung",
+      "iso": "TW-TTT"
+    },
+    {
+      "name": "Taoyuan",
+      "iso": "TW-TAO"
+    },
+    {
+      "name": "Yunlin",
+      "iso": "TW-YUN"
+    }
+  ],
+  "zipRegex": "^(\\d{3} \\d{2})|(\\d{3})$"
+}

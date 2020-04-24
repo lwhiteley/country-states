@@ -1,0 +1,849 @@
+{
+  "region": "Europe",
+  "iso": "SI",
+  "name": "Slovenia",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Ajdov??ina",
+      "iso": "SI-001"
+    },
+    {
+      "name": "Apa?e",
+      "iso": "SI-195"
+    },
+    {
+      "name": "Beltinci",
+      "iso": "SI-002"
+    },
+    {
+      "name": "Benedikt",
+      "iso": "SI-148"
+    },
+    {
+      "name": "Bistrica ob Sotli",
+      "iso": "SI-149"
+    },
+    {
+      "name": "Bled",
+      "iso": "SI-003"
+    },
+    {
+      "name": "Bloke",
+      "iso": "SI-150"
+    },
+    {
+      "name": "Bohinj",
+      "iso": "SI-004"
+    },
+    {
+      "name": "Borovnica",
+      "iso": "SI-005"
+    },
+    {
+      "name": "Bovec",
+      "iso": "SI-006"
+    },
+    {
+      "name": "Braslov?e",
+      "iso": "SI-151"
+    },
+    {
+      "name": "Brda",
+      "iso": "SI-007"
+    },
+    {
+      "name": "Brezovica",
+      "iso": "SI-008"
+    },
+    {
+      "name": "Bre?ice",
+      "iso": "SI-009"
+    },
+    {
+      "name": "Cankova",
+      "iso": "SI-152"
+    },
+    {
+      "name": "Celje",
+      "iso": "SI-011"
+    },
+    {
+      "name": "Cerklje na Gorenjskem",
+      "iso": "SI-012"
+    },
+    {
+      "name": "Cerknica",
+      "iso": "SI-013"
+    },
+    {
+      "name": "Cerkno",
+      "iso": "SI-014"
+    },
+    {
+      "name": "Cerkvenjak",
+      "iso": "SI-153"
+    },
+    {
+      "name": "Cirkulane",
+      "iso": "SI-196"
+    },
+    {
+      "name": "Destrnik",
+      "iso": "SI-018"
+    },
+    {
+      "name": "Diva?a",
+      "iso": "SI-019"
+    },
+    {
+      "name": "Dobje",
+      "iso": "SI-154"
+    },
+    {
+      "name": "Dobrepolje",
+      "iso": "SI-020"
+    },
+    {
+      "name": "Dobrna",
+      "iso": "SI-155"
+    },
+    {
+      "name": "Dobrova�Polhov Gradec",
+      "iso": "SI-021"
+    },
+    {
+      "name": "Dobrovnik",
+      "iso": "SI-156"
+    },
+    {
+      "name": "Dol pri Ljubljani",
+      "iso": "SI-022"
+    },
+    {
+      "name": "Dolenjske Toplice",
+      "iso": "SI-157"
+    },
+    {
+      "name": "Dom?ale",
+      "iso": "SI-023"
+    },
+    {
+      "name": "Dornava",
+      "iso": "SI-024"
+    },
+    {
+      "name": "Dravograd",
+      "iso": "SI-025"
+    },
+    {
+      "name": "Duplek",
+      "iso": "SI-026"
+    },
+    {
+      "name": "Gorenja vas�Poljane",
+      "iso": "SI-027"
+    },
+    {
+      "name": "Gori?nica",
+      "iso": "SI-028"
+    },
+    {
+      "name": "Gorje",
+      "iso": "SI-207"
+    },
+    {
+      "name": "Gornja Radgona",
+      "iso": "SI-029"
+    },
+    {
+      "name": "Gornji Grad",
+      "iso": "SI-030"
+    },
+    {
+      "name": "Gornji Petrovci",
+      "iso": "SI-031"
+    },
+    {
+      "name": "Grad",
+      "iso": "SI-158"
+    },
+    {
+      "name": "Grosuplje",
+      "iso": "SI-032"
+    },
+    {
+      "name": "Hajdina",
+      "iso": "SI-159"
+    },
+    {
+      "name": "Hodo?",
+      "iso": "SI-161"
+    },
+    {
+      "name": "Horjul",
+      "iso": "SI-162"
+    },
+    {
+      "name": "Ho?e�Slivnica",
+      "iso": "SI-160"
+    },
+    {
+      "name": "Hrastnik",
+      "iso": "SI-034"
+    },
+    {
+      "name": "Hrpelje-Kozina",
+      "iso": "SI-035"
+    },
+    {
+      "name": "Idrija",
+      "iso": "SI-036"
+    },
+    {
+      "name": "Ig",
+      "iso": "SI-037"
+    },
+    {
+      "name": "Ilirska Bistrica",
+      "iso": "SI-038"
+    },
+    {
+      "name": "Ivan?na Gorica",
+      "iso": "SI-039"
+    },
+    {
+      "name": "Izola",
+      "iso": "SI-040"
+    },
+    {
+      "name": "Jesenice",
+      "iso": "SI-041"
+    },
+    {
+      "name": "Jezersko",
+      "iso": "SI-163"
+    },
+    {
+      "name": "Jur?inci",
+      "iso": "SI-042"
+    },
+    {
+      "name": "Kamnik",
+      "iso": "SI-043"
+    },
+    {
+      "name": "Kanal",
+      "iso": "SI-044"
+    },
+    {
+      "name": "Kidri?evo",
+      "iso": "SI-045"
+    },
+    {
+      "name": "Kobarid",
+      "iso": "SI-046"
+    },
+    {
+      "name": "Kobilje",
+      "iso": "SI-047"
+    },
+    {
+      "name": "Komen",
+      "iso": "SI-049"
+    },
+    {
+      "name": "Komenda",
+      "iso": "SI-164"
+    },
+    {
+      "name": "Koper",
+      "iso": "SI-050"
+    },
+    {
+      "name": "Kosanjevica na Krki",
+      "iso": "SI-197"
+    },
+    {
+      "name": "Kostel",
+      "iso": "SI-165"
+    },
+    {
+      "name": "Kozje",
+      "iso": "SI-051"
+    },
+    {
+      "name": "Ko?evje",
+      "iso": "SI-048"
+    },
+    {
+      "name": "Kranj",
+      "iso": "SI-052"
+    },
+    {
+      "name": "Kranjska Gora",
+      "iso": "SI-053"
+    },
+    {
+      "name": "Kri?evci",
+      "iso": "SI-166"
+    },
+    {
+      "name": "Kr?ko",
+      "iso": "SI-054"
+    },
+    {
+      "name": "Kungota",
+      "iso": "SI-055"
+    },
+    {
+      "name": "Kuzma",
+      "iso": "SI-056"
+    },
+    {
+      "name": "La?ko",
+      "iso": "SI-057"
+    },
+    {
+      "name": "Lenart",
+      "iso": "SI-058"
+    },
+    {
+      "name": "Lendava",
+      "iso": "SI-059"
+    },
+    {
+      "name": "Litija",
+      "iso": "SI-060"
+    },
+    {
+      "name": "Ljubljana",
+      "iso": "SI-061"
+    },
+    {
+      "name": "Ljubno",
+      "iso": "SI-062"
+    },
+    {
+      "name": "Ljutomer",
+      "iso": "SI-063"
+    },
+    {
+      "name": "Log-Dragomer",
+      "iso": "SI-208"
+    },
+    {
+      "name": "Logatec",
+      "iso": "SI-064"
+    },
+    {
+      "name": "Lovrenc na Pohorju",
+      "iso": "SI-167"
+    },
+    {
+      "name": "Lo?ka Dolina",
+      "iso": "SI-065"
+    },
+    {
+      "name": "Lo?ki Potok",
+      "iso": "SI-066"
+    },
+    {
+      "name": "Lukovica",
+      "iso": "SI-068"
+    },
+    {
+      "name": "Lu?e",
+      "iso": "SI-067"
+    },
+    {
+      "name": "Maj?perk",
+      "iso": "SI-069"
+    },
+    {
+      "name": "Makole",
+      "iso": "SI-198"
+    },
+    {
+      "name": "Maribor",
+      "iso": "SI-070"
+    },
+    {
+      "name": "Markovci",
+      "iso": "SI-168"
+    },
+    {
+      "name": "Medvode",
+      "iso": "SI-071"
+    },
+    {
+      "name": "Menge?",
+      "iso": "SI-072"
+    },
+    {
+      "name": "Metlika",
+      "iso": "SI-073"
+    },
+    {
+      "name": "Me?ica",
+      "iso": "SI-074"
+    },
+    {
+      "name": "Miklav? na Dravskem Polju",
+      "iso": "SI-169"
+    },
+    {
+      "name": "Miren�Kostanjevica",
+      "iso": "SI-075"
+    },
+    {
+      "name": "Mirna Pe?",
+      "iso": "SI-170"
+    },
+    {
+      "name": "Mislinja",
+      "iso": "SI-076"
+    },
+    {
+      "name": "Mokronog�Trebelno",
+      "iso": "SI-199"
+    },
+    {
+      "name": "Moravske Toplice",
+      "iso": "SI-078"
+    },
+    {
+      "name": "Morav?e",
+      "iso": "SI-077"
+    },
+    {
+      "name": "Mozirje",
+      "iso": "SI-079"
+    },
+    {
+      "name": "Murska Sobota",
+      "iso": "SI-080"
+    },
+    {
+      "name": "Muta",
+      "iso": "SI-081"
+    },
+    {
+      "name": "Naklo",
+      "iso": "SI-082"
+    },
+    {
+      "name": "Nazarje",
+      "iso": "SI-083"
+    },
+    {
+      "name": "Nova Gorica",
+      "iso": "SI-084"
+    },
+    {
+      "name": "Novo Mesto",
+      "iso": "SI-085"
+    },
+    {
+      "name": "Odranci",
+      "iso": "SI-086"
+    },
+    {
+      "name": "Oplotnica",
+      "iso": "SI-171"
+    },
+    {
+      "name": "Ormo?",
+      "iso": "SI-087"
+    },
+    {
+      "name": "Osilnica",
+      "iso": "SI-088"
+    },
+    {
+      "name": "Pesnica",
+      "iso": "SI-089"
+    },
+    {
+      "name": "Piran",
+      "iso": "SI-090"
+    },
+    {
+      "name": "Pivka",
+      "iso": "SI-091"
+    },
+    {
+      "name": "Podlehnik",
+      "iso": "SI-172"
+    },
+    {
+      "name": "Podvelka",
+      "iso": "SI-093"
+    },
+    {
+      "name": "Pod?etrtek",
+      "iso": "SI-092"
+    },
+    {
+      "name": "Polj?ane",
+      "iso": "SI-200"
+    },
+    {
+      "name": "Polzela",
+      "iso": "SI-173"
+    },
+    {
+      "name": "Postojna",
+      "iso": "SI-094"
+    },
+    {
+      "name": "Prebold",
+      "iso": "SI-174"
+    },
+    {
+      "name": "Preddvor",
+      "iso": "SI-095"
+    },
+    {
+      "name": "Prevalje",
+      "iso": "SI-175"
+    },
+    {
+      "name": "Ptuj",
+      "iso": "SI-096"
+    },
+    {
+      "name": "Puconci",
+      "iso": "SI-097"
+    },
+    {
+      "name": "Radenci",
+      "iso": "SI-100"
+    },
+    {
+      "name": "Rade?e",
+      "iso": "SI-099"
+    },
+    {
+      "name": "Radlje ob Dravi",
+      "iso": "SI-101"
+    },
+    {
+      "name": "Radovljica",
+      "iso": "SI-102"
+    },
+    {
+      "name": "Ravne na Koro?kem",
+      "iso": "SI-103"
+    },
+    {
+      "name": "Razkri?je",
+      "iso": "SI-176"
+    },
+    {
+      "name": "Ra?e�Fram",
+      "iso": "SI-098"
+    },
+    {
+      "name": "Ren?e-Vogrsko",
+      "iso": "SI-201"
+    },
+    {
+      "name": "Re?ica ob Savinji",
+      "iso": "SI-209"
+    },
+    {
+      "name": "Ribnica",
+      "iso": "SI-104"
+    },
+    {
+      "name": "Ribnica na Pohorju",
+      "iso": "SI-177"
+    },
+    {
+      "name": "Rogatec",
+      "iso": "SI-107"
+    },
+    {
+      "name": "Roga?ka Slatina",
+      "iso": "SI-106"
+    },
+    {
+      "name": "Roga?ovci",
+      "iso": "SI-105"
+    },
+    {
+      "name": "Ru?e",
+      "iso": "SI-108"
+    },
+    {
+      "name": "Selnica ob Dravi",
+      "iso": "SI-178"
+    },
+    {
+      "name": "Semi?",
+      "iso": "SI-109"
+    },
+    {
+      "name": "Sevnica",
+      "iso": "SI-110"
+    },
+    {
+      "name": "Se?ana",
+      "iso": "SI-111"
+    },
+    {
+      "name": "Slovenj Gradec",
+      "iso": "SI-112"
+    },
+    {
+      "name": "Slovenska Bistrica",
+      "iso": "SI-113"
+    },
+    {
+      "name": "Slovenske Konjice",
+      "iso": "SI-114"
+    },
+    {
+      "name": "Sodra?ica",
+      "iso": "SI-179"
+    },
+    {
+      "name": "Sol?ava",
+      "iso": "SI-180"
+    },
+    {
+      "name": "Sredi??e ob Dravi",
+      "iso": "SI-202"
+    },
+    {
+      "name": "Star?e",
+      "iso": "SI-115"
+    },
+    {
+      "name": "Stra?a",
+      "iso": "SI-203"
+    },
+    {
+      "name": "Sveta Ana",
+      "iso": "SI-181"
+    },
+    {
+      "name": "Sveta Trojica v Slovenskih Goricah",
+      "iso": "SI-204"
+    },
+    {
+      "name": "Sveti Andra? v Slovenskih Goricah",
+      "iso": "SI-182"
+    },
+    {
+      "name": "Sveti Jurij",
+      "iso": "SI-116"
+    },
+    {
+      "name": "Sveti Jurij v Slovenskih Goricah",
+      "iso": "SI-210"
+    },
+    {
+      "name": "Sveti Toma?",
+      "iso": "SI-205"
+    },
+    {
+      "name": "Tabor",
+      "iso": "SI-184"
+    },
+    {
+      "name": "Ti?ina",
+      "iso": "SI-010"
+    },
+    {
+      "name": "Tolmin",
+      "iso": "SI-128"
+    },
+    {
+      "name": "Trbovlje",
+      "iso": "SI-129"
+    },
+    {
+      "name": "Trebnje",
+      "iso": "SI-130"
+    },
+    {
+      "name": "Trnovska Vas",
+      "iso": "SI-185"
+    },
+    {
+      "name": "Trzin",
+      "iso": "SI-186"
+    },
+    {
+      "name": "Tr?i?",
+      "iso": "SI-131"
+    },
+    {
+      "name": "Turni??e",
+      "iso": "SI-132"
+    },
+    {
+      "name": "Velenje",
+      "iso": "SI-133"
+    },
+    {
+      "name": "Velika Polana",
+      "iso": "SI-187"
+    },
+    {
+      "name": "Velike La??e",
+      "iso": "SI-134"
+    },
+    {
+      "name": "Ver?ej",
+      "iso": "SI-188"
+    },
+    {
+      "name": "Videm",
+      "iso": "SI-135"
+    },
+    {
+      "name": "Vipava",
+      "iso": "SI-136"
+    },
+    {
+      "name": "Vitanje",
+      "iso": "SI-137"
+    },
+    {
+      "name": "Vodice",
+      "iso": "SI-138"
+    },
+    {
+      "name": "Vojnik",
+      "iso": "SI-139"
+    },
+    {
+      "name": "Vransko",
+      "iso": "SI-189"
+    },
+    {
+      "name": "Vrhnika",
+      "iso": "SI-140"
+    },
+    {
+      "name": "Vuzenica",
+      "iso": "SI-141"
+    },
+    {
+      "name": "Zagorje ob Savi",
+      "iso": "SI-142"
+    },
+    {
+      "name": "Zavr?",
+      "iso": "SI-143"
+    },
+    {
+      "name": "Zre?e",
+      "iso": "SI-144"
+    },
+    {
+      "name": "?ren?ovci",
+      "iso": "SI-015"
+    },
+    {
+      "name": "?rna na Koro?kem",
+      "iso": "SI-016"
+    },
+    {
+      "name": "?rnomelj",
+      "iso": "SI-017"
+    },
+    {
+      "name": "?alovci",
+      "iso": "SI-033"
+    },
+    {
+      "name": "?empeter�Vrtojba",
+      "iso": "SI-183"
+    },
+    {
+      "name": "?entilj",
+      "iso": "SI-118"
+    },
+    {
+      "name": "?entjernej",
+      "iso": "SI-119"
+    },
+    {
+      "name": "?entjur",
+      "iso": "SI-120"
+    },
+    {
+      "name": "?entrupert",
+      "iso": "SI-211"
+    },
+    {
+      "name": "?en?ur",
+      "iso": "SI-117"
+    },
+    {
+      "name": "?kocjan",
+      "iso": "SI-121"
+    },
+    {
+      "name": "?kofja Loka",
+      "iso": "SI-122"
+    },
+    {
+      "name": "?kofljica",
+      "iso": "SI-123"
+    },
+    {
+      "name": "?marje pri Jel?ah",
+      "iso": "SI-124"
+    },
+    {
+      "name": "?marje?ke Toplice",
+      "iso": "SI-206"
+    },
+    {
+      "name": "?martno ob Paki",
+      "iso": "SI-125"
+    },
+    {
+      "name": "?martno pri Litiji",
+      "iso": "SI-194"
+    },
+    {
+      "name": "?o?tanj",
+      "iso": "SI-126"
+    },
+    {
+      "name": "?tore",
+      "iso": "SI-127"
+    },
+    {
+      "name": "?alec",
+      "iso": "SI-190"
+    },
+    {
+      "name": "?elezniki",
+      "iso": "SI-146"
+    },
+    {
+      "name": "?etale",
+      "iso": "SI-191"
+    },
+    {
+      "name": "?iri",
+      "iso": "SI-147"
+    },
+    {
+      "name": "?irovnica",
+      "iso": "SI-192"
+    },
+    {
+      "name": "?u?emberk",
+      "iso": "SI-193"
+    }
+  ],
+  "zipRegex": "^(\\d{4})$"
+}

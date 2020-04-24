@@ -1,0 +1,73 @@
+{
+  "region": "Americas",
+  "iso": "CU",
+  "name": "Cuba",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Artemisa",
+      "iso": "CU-15"
+    },
+    {
+      "name": "Camag?ey",
+      "iso": "CU-09"
+    },
+    {
+      "name": "Ciego de ?vila",
+      "iso": "CU-08"
+    },
+    {
+      "name": "Cienfuegos",
+      "iso": "CU-06"
+    },
+    {
+      "name": "Granma",
+      "iso": "CU-12"
+    },
+    {
+      "name": "Guant?namo",
+      "iso": "CU-14"
+    },
+    {
+      "name": "Holgu?n",
+      "iso": "CU-11"
+    },
+    {
+      "name": "Isla de la Juventud",
+      "iso": "CU-99"
+    },
+    {
+      "name": "La Habana",
+      "iso": "CU-03"
+    },
+    {
+      "name": "Las Tunas",
+      "iso": "CU-10"
+    },
+    {
+      "name": "Matanzas",
+      "iso": "CU-04"
+    },
+    {
+      "name": "Mayabeque",
+      "iso": "CU-16"
+    },
+    {
+      "name": "Pinar del R?o",
+      "iso": "CU-01"
+    },
+    {
+      "name": "Sancti Sp?ritus",
+      "iso": "CU-07"
+    },
+    {
+      "name": "Santiago de Cuba",
+      "iso": "CU-13"
+    },
+    {
+      "name": "Villa Clara",
+      "iso": "CU-05"
+    }
+  ],
+  "zipRegex": "^(?:CP)*(\\d{5})$"
+}

@@ -1,0 +1,77 @@
+{
+  "region": "Africa",
+  "iso": "SD",
+  "name": "Sudan",
+  "hasPostalCodes": true,
+  "states": [
+    {
+      "name": "Al Ba?r al A?mar",
+      "iso": "SD-RS"
+    },
+    {
+      "name": "Al Jaz?rah",
+      "iso": "SD-GZ"
+    },
+    {
+      "name": "Al Khar??m",
+      "iso": "SD-KH"
+    },
+    {
+      "name": "Al Qa??rif",
+      "iso": "SD-GD"
+    },
+    {
+      "name": "An N?l",
+      "iso": "SD-NR"
+    },
+    {
+      "name": "An N?l al Abya?",
+      "iso": "SD-NW"
+    },
+    {
+      "name": "An N?l al Azraq",
+      "iso": "SD-NB"
+    },
+    {
+      "name": "Ash Sham?l?yah",
+      "iso": "SD-NO"
+    },
+    {
+      "name": "Gharb D?rf?r",
+      "iso": "SD-DW"
+    },
+    {
+      "name": "Jan?b D?rf?r",
+      "iso": "SD-DS"
+    },
+    {
+      "name": "Jan?b Kurduf?n",
+      "iso": "SD-KS"
+    },
+    {
+      "name": "Kassal?",
+      "iso": "SD-KA"
+    },
+    {
+      "name": "Sham?l D?rf?r",
+      "iso": "SD-DN"
+    },
+    {
+      "name": "Sham?l Kurduf?n",
+      "iso": "SD-KN"
+    },
+    {
+      "name": "Sharq D?rf?r",
+      "iso": "SD-DE"
+    },
+    {
+      "name": "Sinn?r",
+      "iso": "SD-SI"
+    },
+    {
+      "name": "Zalingei",
+      "iso": "SD-DC"
+    }
+  ],
+  "zipRegex": "^(\\d{5})$"
+}
