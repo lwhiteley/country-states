@@ -3,11 +3,9 @@ let db = {};
 function compile(countryCodes) {
   countryCodes.forEach((code) => {
     try {
-      const data = require(`../data/${code}.json`);
+      const data = require(`../data/${code.toUpperCase()}.json`);
       db = { ...db, [data.iso]: data };
-    } catch (e) {
-      console.log(e);
-    }
+    } catch (e) {}
   });
 }
 
@@ -17,7 +15,6 @@ const states = (code) => {
   if (!data) {
     return [];
   }
-
   return data.states;
 };
 

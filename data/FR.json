@@ -53,10 +53,10 @@
       "native": "Corse"
     },
     {
-      "name": "Franche-Comt?",
+      "name": "Franche-Comté",
       "iso": "FR-I",
       "subdivision": "Metropolitan region",
-      "native": "Franche-Comt?"
+      "native": "Franche-Comté"
     },
     {
       "name": "Languedoc-Roussillon",
@@ -83,10 +83,10 @@
       "native": "Basse-Normandie"
     },
     {
-      "name": "Midi-Pyr?n?es",
+      "name": "Midi-Pyrénées",
       "iso": "FR-N",
       "subdivision": "Metropolitan region",
-      "native": "Midi-Pyr?n?es"
+      "native": "Midi-Pyrénées"
     },
     {
       "name": "Nord-Pas-de-Calais",
@@ -113,16 +113,16 @@
       "native": "Poitou-Charentes"
     },
     {
-      "name": "Provence-Alpes-C?te d'Azur",
+      "name": "Provence-Alpes-Côte d'Azur",
       "iso": "FR-U",
       "subdivision": "Metropolitan region",
-      "native": "Provence-Alpes-C?te d'Azur"
+      "native": "Provence-Alpes-Côte d'Azur"
     },
     {
-      "name": "Rh?ne-Alpes",
+      "name": "Rhône-Alpes",
       "iso": "FR-V",
       "subdivision": "Metropolitan region",
-      "native": "Rh?ne-Alpes"
+      "native": "Rhône-Alpes"
     },
     {
       "name": "Upper Normandy",
@@ -131,10 +131,10 @@
       "native": "Haute-Normandie"
     },
     {
-      "name": "?le-de-France",
+      "name": "Île-de-France",
       "iso": "FR-J",
       "subdivision": "Metropolitan region",
-      "native": "?le-de-France"
+      "native": "Île-de-France"
     }
   ],
   "zipRegex": "^(\\d{5})$"
