@@ -33,7 +33,7 @@
       "iso": "CH-FR"
     },
     {
-      "name": "Gen?ve",
+      "name": "Geneva",
       "iso": "CH-GE"
     },
     {
@@ -41,7 +41,7 @@
       "iso": "CH-GL"
     },
     {
-      "name": "Graub?nden",
+      "name": "Graubünden",
       "iso": "CH-GR"
     },
     {
@@ -53,7 +53,7 @@
       "iso": "CH-LU"
     },
     {
-      "name": "Neuch?tel",
+      "name": "Neuchâtel",
       "iso": "CH-NE"
     },
     {
@@ -105,7 +105,7 @@
       "iso": "CH-ZG"
     },
     {
-      "name": "Z?rich",
+      "name": "Zürich",
       "iso": "CH-ZH"
     }
   ],
