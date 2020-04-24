@@ -1,2 +1,4 @@
 rollup.config.js
 tsconfig.json
+*.tgz
+tmp
