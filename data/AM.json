@@ -5,7 +5,7 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Aragac?otn",
+      "name": "Aragac̣otn",
       "iso": "AM-AG"
     },
     {
@@ -21,7 +21,7 @@
       "iso": "AM-ER"
     },
     {
-      "name": "Ge?ark'unik'",
+      "name": "Geġark'unik'",
       "iso": "AM-GR"
     },
     {
@@ -29,7 +29,7 @@
       "iso": "AM-KT"
     },
     {
-      "name": "Lo?i",
+      "name": "Loṙi",
       "iso": "AM-LO"
     },
     {
@@ -37,15 +37,15 @@
       "iso": "AM-SU"
     },
     {
-      "name": "Tavu?",
+      "name": "Tavuš",
       "iso": "AM-TV"
     },
     {
-      "name": "Vayo? Jor",
+      "name": "Vayoć Jor",
       "iso": "AM-VD"
     },
     {
-      "name": "?irak",
+      "name": "Širak",
       "iso": "AM-SH"
     }
   ],
