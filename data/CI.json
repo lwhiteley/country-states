@@ -5,80 +5,60 @@
   "hasPostalCodes": false,
   "states": [
     {
-      "name": "18 Montagnes",
-      "iso": "CI-06"
-    },
-    {
-      "name": "Agn?bi",
-      "iso": "CI-16"
-    },
-    {
-      "name": "Bafing",
-      "iso": "CI-17"
+      "name": "Abidjan",
+      "iso": "CI-AB"
     },
     {
       "name": "Bas-Sassandra",
-      "iso": "CI-09"
+      "iso": "CI-BS"
     },
     {
-      "name": "Dengu?l?",
-      "iso": "CI-10"
+      "name": "Comoé",
+      "iso": "CI-CM"
     },
     {
-      "name": "Fromager",
-      "iso": "CI-18"
+      "name": "Denguélé",
+      "iso": "CI-DN"
     },
     {
-      "name": "Haut-Sassandra",
-      "iso": "CI-02"
+      "name": "Gôh-Djiboua",
+      "iso": "CI-GD"
     },
     {
       "name": "Lacs",
-      "iso": "CI-07"
+      "iso": "CI-LC"
     },
     {
       "name": "Lagunes",
-      "iso": "CI-01"
+      "iso": "CI-LG"
     },
     {
-      "name": "Marahou?",
-      "iso": "CI-12"
+      "name": "Montagnes",
+      "iso": "CI-MG"
     },
     {
-      "name": "Moyen-Cavally",
-      "iso": "CI-19"
-    },
-    {
-      "name": "Moyen-Como?",
-      "iso": "CI-05"
-    },
-    {
-      "name": "Nzi-Como?",
-      "iso": "CI-11"
+      "name": "Sassandra-Marahoué",
+      "iso": "CI-SM"
     },
     {
       "name": "Savanes",
-      "iso": "CI-03"
+      "iso": "CI-SV"
     },
     {
-      "name": "Sud-Bandama",
-      "iso": "CI-15"
+      "name": "Vallée du Bandama",
+      "iso": "CI-VB"
     },
     {
-      "name": "Sud-Como?",
-      "iso": "CI-13"
+      "name": "Woroba",
+      "iso": "CI-WR"
     },
     {
-      "name": "Vall?e du Bandama",
-      "iso": "CI-04"
-    },
-    {
-      "name": "Worodougou",
-      "iso": "CI-14"
+      "name": "Yamoussoukro",
+      "iso": "CI-YM"
     },
     {
       "name": "Zanzan",
-      "iso": "CI-08"
+      "iso": "CI-ZZ"
     }
   ],
   "zipRegex": ""
