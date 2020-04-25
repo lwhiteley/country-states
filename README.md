@@ -2,6 +2,8 @@
 
 database with countries and states
 
+ISO 3166-2
+
 ```
 const { compile, states } = require('country-states');
 

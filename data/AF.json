@@ -5,11 +5,11 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Badakhsh?n",
+      "name": "Badakhshān",
       "iso": "AF-BDS"
     },
     {
-      "name": "Baghl?n",
+      "name": "Baghlān",
       "iso": "AF-BGL"
     },
     {
@@ -17,31 +17,31 @@
       "iso": "AF-BAL"
     },
     {
-      "name": "B?dgh?s",
+      "name": "Bādghīs",
       "iso": "AF-BDG"
     },
     {
-      "name": "B?my?n",
+      "name": "Bāmyān",
       "iso": "AF-BAM"
     },
     {
-      "name": "D?ykund?",
+      "name": "Dāykundī",
       "iso": "AF-DAY"
     },
     {
-      "name": "Far?h",
+      "name": "Farāh",
       "iso": "AF-FRA"
     },
     {
-      "name": "F?ry?b",
+      "name": "Fāryāb",
       "iso": "AF-FYB"
     },
     {
-      "name": "Ghazn?",
+      "name": "Ghaznī",
       "iso": "AF-GHA"
     },
     {
-      "name": "Gh?r",
+      "name": "Ghōr",
       "iso": "AF-GHO"
     },
     {
@@ -49,19 +49,19 @@
       "iso": "AF-HEL"
     },
     {
-      "name": "Her?t",
+      "name": "Herāt",
       "iso": "AF-HER"
     },
     {
-      "name": "Jowzj?n",
+      "name": "Jowzjān",
       "iso": "AF-JOW"
     },
     {
-      "name": "Kandah?r",
+      "name": "Kandahār",
       "iso": "AF-KAN"
     },
     {
-      "name": "Kh?st",
+      "name": "Khōst",
       "iso": "AF-KHO"
     },
     {
@@ -73,39 +73,39 @@
       "iso": "AF-KDZ"
     },
     {
-      "name": "K?bul",
+      "name": "Kābul",
       "iso": "AF-KAB"
     },
     {
-      "name": "K?p?s?",
+      "name": "Kāpīsā",
       "iso": "AF-KAP"
     },
     {
-      "name": "Laghm?n",
+      "name": "Laghmān",
       "iso": "AF-LAG"
     },
     {
-      "name": "L?gar",
+      "name": "Lōgar",
       "iso": "AF-LOG"
     },
     {
-      "name": "Nangarh?r",
+      "name": "Nangarhār",
       "iso": "AF-NAN"
     },
     {
-      "name": "N?mr?z",
+      "name": "Nīmrōz",
       "iso": "AF-NIM"
     },
     {
-      "name": "N?rist?n",
+      "name": "Nūristān",
       "iso": "AF-NUR"
     },
     {
-      "name": "Paktiy?",
+      "name": "Paktiyā",
       "iso": "AF-PIA"
     },
     {
-      "name": "Pakt?k?",
+      "name": "Paktīkā",
       "iso": "AF-PKA"
     },
     {
@@ -113,11 +113,11 @@
       "iso": "AF-PAN"
     },
     {
-      "name": "Parw?n",
+      "name": "Parwān",
       "iso": "AF-PAR"
     },
     {
-      "name": "Samang?n",
+      "name": "Samangān",
       "iso": "AF-SAM"
     },
     {
@@ -125,11 +125,11 @@
       "iso": "AF-SAR"
     },
     {
-      "name": "Takh?r",
+      "name": "Takhār",
       "iso": "AF-TAK"
     },
     {
-      "name": "Uruzg?n",
+      "name": "Uruzgān",
       "iso": "AF-URU"
     },
     {
@@ -137,7 +137,7 @@
       "iso": "AF-WAR"
     },
     {
-      "name": "Z?bul",
+      "name": "Zābul",
       "iso": "AF-ZAB"
     }
   ],
