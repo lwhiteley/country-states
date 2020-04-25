@@ -5,23 +5,19 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Al Jan?b?yah",
+      "name": "Al Janūbīyah",
       "iso": "BH-14"
     },
     {
-      "name": "Al Man?mah",
+      "name": "Al Manāmah",
       "iso": "BH-13"
     },
     {
-      "name": "Al Mu?arraq",
+      "name": "Al Muḩarraq",
       "iso": "BH-15"
     },
     {
-      "name": "Al Wus??",
-      "iso": "BH-16"
-    },
-    {
-      "name": "Ash Sham?l?yah",
+      "name": "Ash Shamālīyah",
       "iso": "BH-17"
     }
   ],
