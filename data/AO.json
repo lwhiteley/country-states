@@ -13,7 +13,7 @@
       "iso": "AO-BGU"
     },
     {
-      "name": "Bi?",
+      "name": "Bié",
       "iso": "AO-BIE"
     },
     {
@@ -29,7 +29,8 @@
       "iso": "AO-HUA"
     },
     {
-      "name": "Hu?la",
+      "name": "Huíla",
+      "ascii": "Hu?la",
       "iso": "AO-HUI"
     },
     {
@@ -69,7 +70,7 @@
       "iso": "AO-NAM"
     },
     {
-      "name": "U?ge",
+      "name": "Uíge",
       "iso": "AO-UIG"
     },
     {
