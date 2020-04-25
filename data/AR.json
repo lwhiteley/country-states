@@ -21,7 +21,7 @@
       "iso": "AR-U"
     },
     {
-      "name": "Ciudad Aut?noma de Buenos Aires",
+      "name": "Ciudad Autónoma de Buenos Aires",
       "iso": "AR-C"
     },
     {
@@ -29,11 +29,11 @@
       "iso": "AR-W"
     },
     {
-      "name": "C?rdoba",
+      "name": "Córdoba",
       "iso": "AR-X"
     },
     {
-      "name": "Entre R?os",
+      "name": "Entre Ríos",
       "iso": "AR-E"
     },
     {
@@ -61,11 +61,11 @@
       "iso": "AR-N"
     },
     {
-      "name": "Neuqu?n",
+      "name": "Neuquén",
       "iso": "AR-Q"
     },
     {
-      "name": "R?o Negro",
+      "name": "Río Negro",
       "iso": "AR-R"
     },
     {
@@ -97,7 +97,7 @@
       "iso": "AR-V"
     },
     {
-      "name": "Tucum?n",
+      "name": "Tucumán",
       "iso": "AR-T"
     }
   ],
