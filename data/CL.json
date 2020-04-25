@@ -5,7 +5,7 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Ais?n del General Carlos Iba?ez del Campo",
+      "name": "Aisén del General Carlos Ibañez del Campo",
       "iso": "CL-AI"
     },
     {
@@ -13,7 +13,7 @@
       "iso": "CL-AN"
     },
     {
-      "name": "Araucan?a",
+      "name": "La Araucanía",
       "iso": "CL-AR"
     },
     {
@@ -25,7 +25,7 @@
       "iso": "CL-AT"
     },
     {
-      "name": "B?o-B?o",
+      "name": "Biobío",
       "iso": "CL-BI"
     },
     {
@@ -41,7 +41,7 @@
       "iso": "CL-LL"
     },
     {
-      "name": "Los R?os",
+      "name": "Los Ríos",
       "iso": "CL-LR"
     },
     {
@@ -53,15 +53,15 @@
       "iso": "CL-ML"
     },
     {
-      "name": "Regi?n Metropolitana de Santiago",
+      "name": "Región Metropolitana de Santiago",
       "iso": "CL-RM"
     },
     {
-      "name": "Tarapac?",
+      "name": "Tarapacá",
       "iso": "CL-TA"
     },
     {
-      "name": "Valpara?so",
+      "name": "Valparaíso",
       "iso": "CL-VS"
     }
   ],
