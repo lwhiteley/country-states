@@ -5,11 +5,12 @@
   "hasPostalCodes": false,
   "states": [
     {
-      "name": "'Ajm?n",
+      "name": "'Ajmān",
       "iso": "AE-AJ"
     },
     {
-      "name": "Ab? Z?aby",
+      "name": "Abū Z̧aby",
+      "ascii": "Ab? Z?aby",
       "iso": "AE-AZ"
     },
     {
@@ -17,7 +18,7 @@
       "iso": "AE-FU"
     },
     {
-      "name": "Ash Sh?riqah",
+      "name": "Ash Shāriqah",
       "iso": "AE-SH"
     },
     {
