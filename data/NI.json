@@ -5,72 +5,89 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Atl?ntico Norte",
-      "iso": "NI-AN"
-    },
-    {
-      "name": "Atl?ntico Sur",
-      "iso": "NI-AS"
-    },
-    {
       "name": "Boaco",
-      "iso": "NI-BO"
+      "iso": "NI-BO",
+      "category": "department"
     },
     {
       "name": "Carazo",
-      "iso": "NI-CA"
+      "iso": "NI-CA",
+      "category": "department"
     },
     {
       "name": "Chinandega",
-      "iso": "NI-CI"
+      "iso": "NI-CI",
+      "category": "department"
     },
     {
       "name": "Chontales",
-      "iso": "NI-CO"
+      "iso": "NI-CO",
+      "category": "department"
     },
     {
-      "name": "Estel?",
-      "iso": "NI-ES"
+      "name": "Costa Caribe Norte",
+      "iso": "NI-AN",
+      "category": "autonomous region"
+    },
+    {
+      "name": "Costa Caribe Sur",
+      "iso": "NI-AS",
+      "category": "autonomous region"
+    },
+    {
+      "name": "Estelí",
+      "iso": "NI-ES",
+      "category": "department"
     },
     {
       "name": "Granada",
-      "iso": "NI-GR"
+      "iso": "NI-GR",
+      "category": "department"
     },
     {
       "name": "Jinotega",
-      "iso": "NI-JI"
+      "iso": "NI-JI",
+      "category": "department"
     },
     {
-      "name": "Le?n",
-      "iso": "NI-LE"
+      "name": "León",
+      "iso": "NI-LE",
+      "category": "department"
     },
     {
       "name": "Madriz",
-      "iso": "NI-MD"
+      "iso": "NI-MD",
+      "category": "department"
     },
     {
       "name": "Managua",
-      "iso": "NI-MN"
+      "iso": "NI-MN",
+      "category": "department"
     },
     {
       "name": "Masaya",
-      "iso": "NI-MS"
+      "iso": "NI-MS",
+      "category": "department"
     },
     {
       "name": "Matagalpa",
-      "iso": "NI-MT"
+      "iso": "NI-MT",
+      "category": "department"
     },
     {
       "name": "Nueva Segovia",
-      "iso": "NI-NS"
+      "iso": "NI-NS",
+      "category": "department"
     },
     {
       "name": "Rivas",
-      "iso": "NI-RI"
+      "iso": "NI-RI",
+      "category": "department"
     },
     {
-      "name": "R?o San Juan",
-      "iso": "NI-SJ"
+      "name": "Río San Juan",
+      "iso": "NI-SJ",
+      "category": "department"
     }
   ],
   "zipRegex": "^(\\d{5})$"
