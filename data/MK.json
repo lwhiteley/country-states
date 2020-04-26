@@ -1,344 +1,408 @@
 {
   "region": "Europe",
   "iso": "MK",
-  "name": "Macedonia, the Former Yugoslav Republic of",
+  "name": "North Macedonia, the Republic of",
   "hasPostalCodes": true,
   "states": [
     {
       "name": "Aerodrom",
-      "iso": "MK-01"
+      "iso": "MK-801",
+      "category": "municipality"
     },
     {
-      "name": "Ara?inovo",
-      "iso": "MK-02"
+      "name": "Aračinovo",
+      "iso": "MK-802",
+      "category": "municipality"
     },
     {
       "name": "Berovo",
-      "iso": "MK-03"
+      "iso": "MK-201",
+      "category": "municipality"
     },
     {
       "name": "Bitola",
-      "iso": "MK-04"
+      "iso": "MK-501",
+      "category": "municipality"
     },
     {
       "name": "Bogdanci",
-      "iso": "MK-05"
+      "iso": "MK-401",
+      "category": "municipality"
     },
     {
       "name": "Bogovinje",
-      "iso": "MK-06"
+      "iso": "MK-601",
+      "category": "municipality"
     },
     {
       "name": "Bosilovo",
-      "iso": "MK-07"
+      "iso": "MK-402",
+      "category": "municipality"
     },
     {
       "name": "Brvenica",
-      "iso": "MK-08"
+      "iso": "MK-602",
+      "category": "municipality"
     },
     {
       "name": "Butel",
-      "iso": "MK-09"
+      "iso": "MK-803",
+      "category": "municipality"
+    },
+    {
+      "name": "Centar Župa",
+      "iso": "MK-313",
+      "category": "municipality"
     },
     {
       "name": "Centar",
-      "iso": "MK-77"
-    },
-    {
-      "name": "Centar ?upa",
-      "iso": "MK-78"
+      "iso": "MK-814",
+      "category": "municipality"
     },
     {
       "name": "Debar",
-      "iso": "MK-21"
+      "iso": "MK-303",
+      "category": "municipality"
     },
     {
-      "name": "Debarca",
-      "iso": "MK-22"
+      "name": "Debrca",
+      "iso": "MK-304",
+      "category": "municipality"
     },
     {
-      "name": "Del?evo",
-      "iso": "MK-23"
+      "name": "Delčevo",
+      "iso": "MK-203",
+      "category": "municipality"
     },
     {
       "name": "Demir Hisar",
-      "iso": "MK-25"
+      "iso": "MK-502",
+      "category": "municipality"
     },
     {
       "name": "Demir Kapija",
-      "iso": "MK-24"
+      "iso": "MK-103",
+      "category": "municipality"
     },
     {
       "name": "Dojran",
-      "iso": "MK-26"
+      "iso": "MK-406",
+      "category": "municipality"
     },
     {
       "name": "Dolneni",
-      "iso": "MK-27"
-    },
-    {
-      "name": "Drugovo",
-      "iso": "MK-28"
+      "iso": "MK-503",
+      "category": "municipality"
     },
     {
       "name": "Gazi Baba",
-      "iso": "MK-17"
+      "iso": "MK-804",
+      "category": "municipality"
     },
     {
       "name": "Gevgelija",
-      "iso": "MK-18"
+      "iso": "MK-405",
+      "category": "municipality"
     },
     {
-      "name": "Gjor?e Petrov",
-      "iso": "MK-29"
+      "name": "Gjorče Petrov",
+      "iso": "MK-805",
+      "category": "municipality"
     },
     {
       "name": "Gostivar",
-      "iso": "MK-19"
+      "iso": "MK-604",
+      "category": "municipality"
     },
     {
       "name": "Gradsko",
-      "iso": "MK-20"
+      "iso": "MK-102",
+      "category": "municipality"
     },
     {
       "name": "Ilinden",
-      "iso": "MK-34"
+      "iso": "MK-807",
+      "category": "municipality"
     },
     {
       "name": "Jegunovce",
-      "iso": "MK-35"
+      "iso": "MK-606",
+      "category": "municipality"
     },
     {
       "name": "Karbinci",
-      "iso": "MK-37"
+      "iso": "MK-205",
+      "category": "municipality"
     },
     {
-      "name": "Karpo?",
-      "iso": "MK-38"
+      "name": "Karpoš",
+      "iso": "MK-808",
+      "category": "municipality"
     },
     {
       "name": "Kavadarci",
-      "iso": "MK-36"
+      "iso": "MK-104",
+      "category": "municipality"
     },
     {
       "name": "Kisela Voda",
-      "iso": "MK-39"
+      "iso": "MK-809",
+      "category": "municipality"
     },
     {
-      "name": "Ki?evo",
-      "iso": "MK-40"
+      "name": "Kičevo",
+      "iso": "MK-307",
+      "category": "municipality"
     },
     {
-      "name": "Kon?e",
-      "iso": "MK-41"
+      "name": "Konče",
+      "iso": "MK-407",
+      "category": "municipality"
     },
     {
-      "name": "Ko?ani",
-      "iso": "MK-42"
+      "name": "Kočani",
+      "iso": "MK-206",
+      "category": "municipality"
     },
     {
       "name": "Kratovo",
-      "iso": "MK-43"
+      "iso": "MK-701",
+      "category": "municipality"
     },
     {
       "name": "Kriva Palanka",
-      "iso": "MK-44"
+      "iso": "MK-702",
+      "category": "municipality"
     },
     {
-      "name": "Krivoga?tani",
-      "iso": "MK-45"
+      "name": "Krivogaštani",
+      "iso": "MK-504",
+      "category": "municipality"
     },
     {
-      "name": "Kru?evo",
-      "iso": "MK-46"
+      "name": "Kruševo",
+      "iso": "MK-505",
+      "category": "municipality"
     },
     {
       "name": "Kumanovo",
-      "iso": "MK-47"
+      "iso": "MK-703",
+      "category": "municipality"
     },
     {
       "name": "Lipkovo",
-      "iso": "MK-48"
+      "iso": "MK-704",
+      "category": "municipality"
     },
     {
       "name": "Lozovo",
-      "iso": "MK-49"
+      "iso": "MK-105",
+      "category": "municipality"
     },
     {
       "name": "Makedonska Kamenica",
-      "iso": "MK-51"
+      "iso": "MK-207",
+      "category": "municipality"
     },
     {
       "name": "Makedonski Brod",
-      "iso": "MK-52"
+      "iso": "MK-308",
+      "category": "municipality"
     },
     {
-      "name": "Mavrovo i Rostu?a",
-      "iso": "MK-50"
+      "name": "Mavrovo i Rostuše",
+      "iso": "MK-607",
+      "category": "municipality"
     },
     {
       "name": "Mogila",
-      "iso": "MK-53"
+      "iso": "MK-506",
+      "category": "municipality"
     },
     {
       "name": "Negotino",
-      "iso": "MK-54"
+      "iso": "MK-106",
+      "category": "municipality"
     },
     {
       "name": "Novaci",
-      "iso": "MK-55"
+      "iso": "MK-507",
+      "category": "municipality"
     },
     {
       "name": "Novo Selo",
-      "iso": "MK-56"
+      "iso": "MK-408",
+      "category": "municipality"
     },
     {
       "name": "Ohrid",
-      "iso": "MK-58"
+      "iso": "MK-310",
+      "category": "municipality"
     },
     {
-      "name": "Oslomej",
-      "iso": "MK-57"
-    },
-    {
-      "name": "Peh?evo",
-      "iso": "MK-60"
+      "name": "Pehčevo",
+      "iso": "MK-208",
+      "category": "municipality"
     },
     {
       "name": "Petrovec",
-      "iso": "MK-59"
+      "iso": "MK-810",
+      "category": "municipality"
     },
     {
       "name": "Plasnica",
-      "iso": "MK-61"
+      "iso": "MK-311",
+      "category": "municipality"
     },
     {
       "name": "Prilep",
-      "iso": "MK-62"
+      "iso": "MK-508",
+      "category": "municipality"
     },
     {
-      "name": "Probi?tip",
-      "iso": "MK-63"
+      "name": "Probištip",
+      "iso": "MK-209",
+      "category": "municipality"
     },
     {
-      "name": "Radovi?",
-      "iso": "MK-64"
+      "name": "Radoviš",
+      "iso": "MK-409",
+      "category": "municipality"
     },
     {
       "name": "Rankovce",
-      "iso": "MK-65"
+      "iso": "MK-705",
+      "category": "municipality"
     },
     {
       "name": "Resen",
-      "iso": "MK-66"
+      "iso": "MK-509",
+      "category": "municipality"
     },
     {
       "name": "Rosoman",
-      "iso": "MK-67"
+      "iso": "MK-107",
+      "category": "municipality"
     },
     {
       "name": "Saraj",
-      "iso": "MK-68"
+      "iso": "MK-811",
+      "category": "municipality"
     },
     {
-      "name": "Sopi?te",
-      "iso": "MK-70"
+      "name": "Sopište",
+      "iso": "MK-812",
+      "category": "municipality"
     },
     {
-      "name": "Staro Nagori?ane",
-      "iso": "MK-71"
+      "name": "Staro Nagoričane",
+      "iso": "MK-706",
+      "category": "municipality"
     },
     {
       "name": "Struga",
-      "iso": "MK-72"
+      "iso": "MK-312",
+      "category": "municipality"
     },
     {
       "name": "Strumica",
-      "iso": "MK-73"
+      "iso": "MK-410",
+      "category": "municipality"
     },
     {
-      "name": "Studeni?ani",
-      "iso": "MK-74"
+      "name": "Studeničani",
+      "iso": "MK-813",
+      "category": "municipality"
     },
     {
       "name": "Sveti Nikole",
-      "iso": "MK-69"
+      "iso": "MK-108",
+      "category": "municipality"
     },
     {
       "name": "Tearce",
-      "iso": "MK-75"
+      "iso": "MK-608",
+      "category": "municipality"
     },
     {
       "name": "Tetovo",
-      "iso": "MK-76"
+      "iso": "MK-609",
+      "category": "municipality"
     },
     {
       "name": "Valandovo",
-      "iso": "MK-10"
+      "iso": "MK-403",
+      "category": "municipality"
     },
     {
       "name": "Vasilevo",
-      "iso": "MK-11"
+      "iso": "MK-404",
+      "category": "municipality"
     },
     {
       "name": "Veles",
-      "iso": "MK-13"
+      "iso": "MK-101",
+      "category": "municipality"
     },
     {
-      "name": "Vev?ani",
-      "iso": "MK-12"
+      "name": "Vevčani",
+      "iso": "MK-301",
+      "category": "municipality"
     },
     {
       "name": "Vinica",
-      "iso": "MK-14"
+      "iso": "MK-202",
+      "category": "municipality"
     },
     {
-      "name": "Vrane?tica",
-      "iso": "MK-15"
-    },
-    {
-      "name": "Vrap?i?te",
-      "iso": "MK-16"
-    },
-    {
-      "name": "Zajas",
-      "iso": "MK-31"
+      "name": "Vrapčište",
+      "iso": "MK-603",
+      "category": "municipality"
     },
     {
       "name": "Zelenikovo",
-      "iso": "MK-32"
+      "iso": "MK-806",
+      "category": "municipality"
     },
     {
       "name": "Zrnovci",
-      "iso": "MK-33"
+      "iso": "MK-204",
+      "category": "municipality"
     },
     {
-      "name": "?air",
-      "iso": "MK-79"
+      "name": "Čair",
+      "iso": "MK-815",
+      "category": "municipality"
     },
     {
-      "name": "?a?ka",
-      "iso": "MK-80"
+      "name": "Čaška",
+      "iso": "MK-109",
+      "category": "municipality"
     },
     {
-      "name": "?e?inovo-Oble?evo",
-      "iso": "MK-81"
+      "name": "Češinovo-Obleševo",
+      "iso": "MK-210",
+      "category": "municipality"
     },
     {
-      "name": "?u?er Sandevo",
-      "iso": "MK-82"
+      "name": "Čučer-Sandevo",
+      "iso": "MK-816",
+      "category": "municipality"
     },
     {
-      "name": "?tip",
-      "iso": "MK-83"
+      "name": "Štip",
+      "iso": "MK-211",
+      "category": "municipality"
     },
     {
-      "name": "?uto Orizari",
-      "iso": "MK-84"
+      "name": "Šuto Orizari",
+      "iso": "MK-817",
+      "category": "municipality"
     },
     {
-      "name": "?elino",
-      "iso": "MK-30"
+      "name": "Želino",
+      "iso": "MK-605",
+      "category": "municipality"
     }
   ],
   "zipRegex": "^(\\d{4})$"
