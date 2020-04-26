@@ -5,164 +5,164 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Distrito Federal",
-      "iso": "MX-DIF",
-      "subdivision": "federal district"
-    },
-    {
       "name": "Aguascalientes",
       "iso": "MX-AGU",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Baja California",
       "iso": "MX-BCN",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Baja California Sur",
       "iso": "MX-BCS",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Campeche",
       "iso": "MX-CAM",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Chiapas",
       "iso": "MX-CHP",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Chihuahua",
       "iso": "MX-CHH",
-      "subdivision": "state"
+      "category": "state"
     },
     {
-      "name": "Coahuila",
+      "name": "Ciudad de México",
+      "iso": "MX-CMX",
+      "category": "federal district"
+    },
+    {
+      "name": "Coahuila de Zaragoza",
       "iso": "MX-COA",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Colima",
       "iso": "MX-COL",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Durango",
       "iso": "MX-DUR",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Guanajuato",
       "iso": "MX-GUA",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Guerrero",
       "iso": "MX-GRO",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Hidalgo",
       "iso": "MX-HID",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Jalisco",
       "iso": "MX-JAL",
-      "subdivision": "state"
+      "category": "state"
     },
     {
-      "name": "Michoac?n",
+      "name": "Michoacán de Ocampo",
       "iso": "MX-MIC",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Morelos",
       "iso": "MX-MOR",
-      "subdivision": "state"
+      "category": "state"
     },
     {
-      "name": "M?xico",
+      "name": "México",
       "iso": "MX-MEX",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Nayarit",
       "iso": "MX-NAY",
-      "subdivision": "state"
+      "category": "state"
     },
     {
-      "name": "Nuevo Le?n",
+      "name": "Nuevo León",
       "iso": "MX-NLE",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Oaxaca",
       "iso": "MX-OAX",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Puebla",
       "iso": "MX-PUE",
-      "subdivision": "state"
+      "category": "state"
     },
     {
-      "name": "Quer?taro",
+      "name": "Querétaro",
       "iso": "MX-QUE",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Quintana Roo",
       "iso": "MX-ROO",
-      "subdivision": "state"
+      "category": "state"
     },
     {
-      "name": "San Luis Potos?",
+      "name": "San Luis Potosí",
       "iso": "MX-SLP",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Sinaloa",
       "iso": "MX-SIN",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Sonora",
       "iso": "MX-SON",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Tabasco",
       "iso": "MX-TAB",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Tamaulipas",
       "iso": "MX-TAM",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Tlaxcala",
       "iso": "MX-TLA",
-      "subdivision": "state"
+      "category": "state"
     },
     {
-      "name": "Veracruz",
+      "name": "Veracruz de Ignacio de la Llave",
       "iso": "MX-VER",
-      "subdivision": "state"
+      "category": "state"
     },
     {
-      "name": "Yucat?n",
+      "name": "Yucatán",
       "iso": "MX-YUC",
-      "subdivision": "state"
+      "category": "state"
     },
     {
       "name": "Zacatecas",
       "iso": "MX-ZAC",
-      "subdivision": "state"
+      "category": "state"
     }
   ],
   "zipRegex": "^(\\d{5})$"
