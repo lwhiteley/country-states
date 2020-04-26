@@ -6,275 +6,343 @@
   "states": [
     {
       "name": "Attard",
-      "iso": "MT-01"
+      "iso": "MT-01",
+      "category": "local council"
     },
     {
       "name": "Balzan",
-      "iso": "MT-02"
+      "iso": "MT-02",
+      "category": "local council"
     },
     {
       "name": "Birgu",
-      "iso": "MT-03"
+      "iso": "MT-03",
+      "category": "local council"
     },
     {
       "name": "Birkirkara",
-      "iso": "MT-04"
+      "iso": "MT-04",
+      "category": "local council"
     },
     {
-      "name": "Bir?ebbu?a",
-      "iso": "MT-05"
+      "name": "Birżebbuġa",
+      "iso": "MT-05",
+      "category": "local council"
     },
     {
       "name": "Bormla",
-      "iso": "MT-06"
+      "iso": "MT-06",
+      "category": "local council"
     },
     {
       "name": "Dingli",
-      "iso": "MT-07"
+      "iso": "MT-07",
+      "category": "local council"
     },
     {
       "name": "Fgura",
-      "iso": "MT-08"
+      "iso": "MT-08",
+      "category": "local council"
     },
     {
       "name": "Floriana",
-      "iso": "MT-09"
+      "iso": "MT-09",
+      "category": "local council"
     },
     {
       "name": "Fontana",
-      "iso": "MT-10"
+      "iso": "MT-10",
+      "category": "local council"
     },
     {
       "name": "Gudja",
-      "iso": "MT-11"
+      "iso": "MT-11",
+      "category": "local council"
     },
     {
-      "name": "G?ajnsielem",
-      "iso": "MT-13"
+      "name": "Għajnsielem",
+      "iso": "MT-13",
+      "category": "local council"
     },
     {
-      "name": "G?arb",
-      "iso": "MT-14"
+      "name": "Għarb",
+      "iso": "MT-14",
+      "category": "local council"
     },
     {
-      "name": "G?arg?ur",
-      "iso": "MT-15"
+      "name": "Għargħur",
+      "iso": "MT-15",
+      "category": "local council"
     },
     {
-      "name": "G?asri",
-      "iso": "MT-16"
+      "name": "Għasri",
+      "iso": "MT-16",
+      "category": "local council"
     },
     {
-      "name": "G?axaq",
-      "iso": "MT-17"
+      "name": "Għaxaq",
+      "iso": "MT-17",
+      "category": "local council"
     },
     {
-      "name": "G?ira",
-      "iso": "MT-12"
+      "name": "Gżira",
+      "iso": "MT-12",
+      "category": "local council"
     },
     {
       "name": "Iklin",
-      "iso": "MT-19"
+      "iso": "MT-19",
+      "category": "local council"
     },
     {
       "name": "Isla",
-      "iso": "MT-20"
+      "iso": "MT-20",
+      "category": "local council"
     },
     {
       "name": "Kalkara",
-      "iso": "MT-21"
+      "iso": "MT-21",
+      "category": "local council"
     },
     {
-      "name": "Ker?em",
-      "iso": "MT-22"
+      "name": "Kerċem",
+      "iso": "MT-22",
+      "category": "local council"
     },
     {
       "name": "Kirkop",
-      "iso": "MT-23"
+      "iso": "MT-23",
+      "category": "local council"
     },
     {
       "name": "Lija",
-      "iso": "MT-24"
+      "iso": "MT-24",
+      "category": "local council"
     },
     {
       "name": "Luqa",
-      "iso": "MT-25"
+      "iso": "MT-25",
+      "category": "local council"
     },
     {
       "name": "Marsa",
-      "iso": "MT-26"
+      "iso": "MT-26",
+      "category": "local council"
     },
     {
       "name": "Marsaskala",
-      "iso": "MT-27"
+      "iso": "MT-27",
+      "category": "local council"
     },
     {
       "name": "Marsaxlokk",
-      "iso": "MT-28"
+      "iso": "MT-28",
+      "category": "local council"
     },
     {
       "name": "Mdina",
-      "iso": "MT-29"
+      "iso": "MT-29",
+      "category": "local council"
     },
     {
-      "name": "Mellie?a",
-      "iso": "MT-30"
+      "name": "Mellieħa",
+      "iso": "MT-30",
+      "category": "local council"
     },
     {
       "name": "Mosta",
-      "iso": "MT-32"
+      "iso": "MT-32",
+      "category": "local council"
     },
     {
       "name": "Mqabba",
-      "iso": "MT-33"
+      "iso": "MT-33",
+      "category": "local council"
     },
     {
       "name": "Msida",
-      "iso": "MT-34"
+      "iso": "MT-34",
+      "category": "local council"
     },
     {
       "name": "Mtarfa",
-      "iso": "MT-35"
+      "iso": "MT-35",
+      "category": "local council"
     },
     {
       "name": "Munxar",
-      "iso": "MT-36"
+      "iso": "MT-36",
+      "category": "local council"
     },
     {
-      "name": "M?arr",
-      "iso": "MT-31"
+      "name": "Mġarr",
+      "iso": "MT-31",
+      "category": "local council"
     },
     {
       "name": "Nadur",
-      "iso": "MT-37"
+      "iso": "MT-37",
+      "category": "local council"
     },
     {
       "name": "Naxxar",
-      "iso": "MT-38"
+      "iso": "MT-38",
+      "category": "local council"
     },
     {
       "name": "Paola",
-      "iso": "MT-39"
+      "iso": "MT-39",
+      "category": "local council"
     },
     {
       "name": "Pembroke",
-      "iso": "MT-40"
+      "iso": "MT-40",
+      "category": "local council"
     },
     {
-      "name": "Piet?",
-      "iso": "MT-41"
+      "name": "Pietà",
+      "iso": "MT-41",
+      "category": "local council"
     },
     {
       "name": "Qala",
-      "iso": "MT-42"
+      "iso": "MT-42",
+      "category": "local council"
     },
     {
       "name": "Qormi",
-      "iso": "MT-43"
+      "iso": "MT-43",
+      "category": "local council"
     },
     {
       "name": "Qrendi",
-      "iso": "MT-44"
+      "iso": "MT-44",
+      "category": "local council"
     },
     {
-      "name": "Rabat G?awdex",
-      "iso": "MT-45"
+      "name": "Rabat Għawdex",
+      "iso": "MT-45",
+      "category": "local council"
     },
     {
       "name": "Rabat Malta",
-      "iso": "MT-46"
+      "iso": "MT-46",
+      "category": "local council"
     },
     {
       "name": "Safi",
-      "iso": "MT-47"
+      "iso": "MT-47",
+      "category": "local council"
     },
     {
       "name": "San Lawrenz",
-      "iso": "MT-50"
+      "iso": "MT-50",
+      "category": "local council"
     },
     {
-      "name": "San Pawl il-Ba?ar",
-      "iso": "MT-51"
+      "name": "San Pawl il-Baħar",
+      "iso": "MT-51",
+      "category": "local council"
     },
     {
-      "name": "San ?iljan",
-      "iso": "MT-48"
+      "name": "San Ġiljan",
+      "iso": "MT-48",
+      "category": "local council"
     },
     {
-      "name": "San ?wann",
-      "iso": "MT-49"
+      "name": "San Ġwann",
+      "iso": "MT-49",
+      "category": "local council"
     },
     {
       "name": "Sannat",
-      "iso": "MT-52"
+      "iso": "MT-52",
+      "category": "local council"
     },
     {
-      "name": "Santa Lu?ija",
-      "iso": "MT-53"
+      "name": "Santa Luċija",
+      "iso": "MT-53",
+      "category": "local council"
     },
     {
       "name": "Santa Venera",
-      "iso": "MT-54"
+      "iso": "MT-54",
+      "category": "local council"
     },
     {
-      "name": "Si??iewi",
-      "iso": "MT-55"
+      "name": "Siġġiewi",
+      "iso": "MT-55",
+      "category": "local council"
     },
     {
       "name": "Sliema",
-      "iso": "MT-56"
+      "iso": "MT-56",
+      "category": "local council"
     },
     {
       "name": "Swieqi",
-      "iso": "MT-57"
+      "iso": "MT-57",
+      "category": "local council"
     },
     {
       "name": "Ta' Xbiex",
-      "iso": "MT-58"
+      "iso": "MT-58",
+      "category": "local council"
     },
     {
       "name": "Tarxien",
-      "iso": "MT-59"
+      "iso": "MT-59",
+      "category": "local council"
     },
     {
       "name": "Valletta",
-      "iso": "MT-60"
+      "iso": "MT-60",
+      "category": "local council"
     },
     {
-      "name": "Xag?ra",
-      "iso": "MT-61"
+      "name": "Xagħra",
+      "iso": "MT-61",
+      "category": "local council"
     },
     {
       "name": "Xewkija",
-      "iso": "MT-62"
+      "iso": "MT-62",
+      "category": "local council"
     },
     {
-      "name": "Xg?ajra",
-      "iso": "MT-63"
+      "name": "Xgħajra",
+      "iso": "MT-63",
+      "category": "local council"
     },
     {
-      "name": "?amrun",
-      "iso": "MT-18"
+      "name": "Ħamrun",
+      "iso": "MT-18",
+      "category": "local council"
     },
     {
-      "name": "?abbar",
-      "iso": "MT-64"
+      "name": "Żabbar",
+      "iso": "MT-64",
+      "category": "local council"
     },
     {
-      "name": "?ebbu? G?awdex",
-      "iso": "MT-65"
+      "name": "Żebbuġ Għawdex",
+      "iso": "MT-65",
+      "category": "local council"
     },
     {
-      "name": "?ebbu? Malta",
-      "iso": "MT-66"
+      "name": "Żebbuġ Malta",
+      "iso": "MT-66",
+      "category": "local council"
     },
     {
-      "name": "?ejtun",
-      "iso": "MT-67"
+      "name": "Żejtun",
+      "iso": "MT-67",
+      "category": "local council"
     },
     {
-      "name": "?urrieq",
-      "iso": "MT-68"
+      "name": "Żurrieq",
+      "iso": "MT-68",
+      "category": "local council"
     }
   ],
   "zipRegex": "^[A-Z]{3} [0-9]{4}$"
