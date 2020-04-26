@@ -5,59 +5,59 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Ad Daqahl?yah",
+      "name": "Ad Daqahlīyah",
       "iso": "EG-DK"
     },
     {
-      "name": "Al Ba?r al A?mar",
+      "name": "Al Baḩr al Aḩmar",
       "iso": "EG-BA"
     },
     {
-      "name": "Al Bu?ayrah",
+      "name": "Al Buḩayrah",
       "iso": "EG-BH"
     },
     {
-      "name": "Al Fayy?m",
+      "name": "Al Fayyūm",
       "iso": "EG-FYM"
     },
     {
-      "name": "Al Gharb?yah",
+      "name": "Al Gharbīyah",
       "iso": "EG-GH"
     },
     {
-      "name": "Al Iskandar?yah",
+      "name": "Al Iskandarīyah",
       "iso": "EG-ALX"
     },
     {
-      "name": "Al Ism???l?yah",
+      "name": "Al Ismā'īlīyah",
       "iso": "EG-IS"
     },
     {
-      "name": "Al J?zah",
+      "name": "Al Jīzah",
       "iso": "EG-GZ"
     },
     {
-      "name": "Al Miny?",
+      "name": "Al Minyā",
       "iso": "EG-MN"
     },
     {
-      "name": "Al Min?f?yah",
+      "name": "Al Minūfīyah",
       "iso": "EG-MNF"
     },
     {
-      "name": "Al Qaly?b?yah",
+      "name": "Al Qalyūbīyah",
       "iso": "EG-KB"
     },
     {
-      "name": "Al Q?hirah",
+      "name": "Al Qāhirah",
       "iso": "EG-C"
     },
     {
-      "name": "Al Uq?ur",
+      "name": "Al Uqşur",
       "iso": "EG-LX"
     },
     {
-      "name": "Al W?d? al Jad?d",
+      "name": "Al Wādī al Jadīd",
       "iso": "EG-WAD"
     },
     {
@@ -65,35 +65,35 @@
       "iso": "EG-SUZ"
     },
     {
-      "name": "As S?dis min Ukt?bar",
+      "name": "As Sādis min Uktūbar",
       "iso": "EG-SU"
     },
     {
-      "name": "Ash Sharq?yah",
+      "name": "Ash Sharqīyah",
       "iso": "EG-SHR"
     },
     {
-      "name": "Asw?n",
+      "name": "Aswān",
       "iso": "EG-ASN"
     },
     {
-      "name": "Asy??",
+      "name": "Asyūţ",
       "iso": "EG-AST"
     },
     {
-      "name": "Ban? Suwayf",
+      "name": "Banī Suwayf",
       "iso": "EG-BNS"
     },
     {
-      "name": "B?r Sa??d",
+      "name": "Būr Sa‘īd",
       "iso": "EG-PTS"
     },
     {
-      "name": "Dumy??",
+      "name": "Dumyāţ",
       "iso": "EG-DT"
     },
     {
-      "name": "Jan?b S?n?'",
+      "name": "Janūb Sīnā'",
       "iso": "EG-JS"
     },
     {
@@ -101,23 +101,23 @@
       "iso": "EG-KFS"
     },
     {
-      "name": "Ma?r??",
+      "name": "Maţrūḩ",
       "iso": "EG-MT"
     },
     {
-      "name": "Qin?",
+      "name": "Qinā",
       "iso": "EG-KN"
     },
     {
-      "name": "Sham?l S?n?'",
+      "name": "Shamāl Sīnā'",
       "iso": "EG-SIN"
     },
     {
-      "name": "S?h?j",
+      "name": "Sūhāj",
       "iso": "EG-SHG"
     },
     {
-      "name": "?ulw?n",
+      "name": "Ḩulwān",
       "iso": "EG-HU"
     }
   ],
