@@ -5,40 +5,59 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Ad D?khil?yah",
-      "iso": "OM-DA"
+      "name": "Ad Dākhilīyah",
+      "iso": "OM-DA",
+      "category": "governorate"
     },
     {
-      "name": "Al Buraym?",
-      "iso": "OM-BU"
+      "name": "Al Buraymī",
+      "iso": "OM-BU",
+      "category": "governorate"
     },
     {
-      "name": "Al B??inah",
-      "iso": "OM-BA"
+      "name": "Al Wusţá",
+      "iso": "OM-WU",
+      "category": "governorate"
     },
     {
-      "name": "Al Wus??",
-      "iso": "OM-WU"
+      "name": "Az̧ Z̧āhirah",
+      "iso": "OM-ZA",
+      "category": "governorate"
     },
     {
-      "name": "Ash Sharq?yah",
-      "iso": "OM-SH"
+      "name": "Janūb al Bāţinah",
+      "iso": "OM-BJ",
+      "category": "governorate"
     },
     {
-      "name": "Az? Z??hirah",
-      "iso": "OM-ZA"
+      "name": "Janūb ash Sharqīyah",
+      "iso": "OM-SJ",
+      "category": "governorate"
     },
     {
-      "name": "Masqa?",
-      "iso": "OM-MA"
+      "name": "Masqaţ",
+      "iso": "OM-MA",
+      "category": "governorate"
     },
     {
       "name": "Musandam",
-      "iso": "OM-MU"
+      "iso": "OM-MU",
+      "category": "governorate"
     },
     {
-      "name": "Z?uf?r",
-      "iso": "OM-ZU"
+      "name": "Shamāl al Bāţinah",
+      "iso": "OM-BS",
+      "category": "governorate"
+    },
+    {
+      "name": "Shamāl ash Sharqīyah",
+      "iso": "OM-SS",
+      "category": "governorate"
+    },
+    {
+      "name": "Z̧ufār",
+      "iso": "OM-ZU",
+      "category": "governorate"
     }
   ],
   "zipRegex": "^(\\d{3})$"
