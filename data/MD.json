@@ -5,152 +5,189 @@
   "hasPostalCodes": true,
   "states": [
     {
+      "name": "Găgăuzia, Unitatea teritorială autonomă (UTAG)",
+      "iso": "MD-GA",
+      "category": "autonomous territorial unit"
+    },
+    {
+      "name": "Bender [Tighina]",
+      "iso": "MD-BD",
+      "category": "city"
+    },
+    {
+      "name": "Bălți",
+      "iso": "MD-BA",
+      "category": "city"
+    },
+    {
+      "name": "Chișinău",
+      "iso": "MD-CU",
+      "category": "city"
+    },
+    {
       "name": "Anenii Noi",
-      "iso": "MD-AN"
+      "iso": "MD-AN",
+      "category": "district"
     },
     {
       "name": "Basarabeasca",
-      "iso": "MD-BS"
+      "iso": "MD-BS",
+      "category": "district"
     },
     {
       "name": "Briceni",
-      "iso": "MD-BR"
-    },
-    {
-      "name": "B?l?i",
-      "iso": "MD-BA"
+      "iso": "MD-BR",
+      "category": "district"
     },
     {
       "name": "Cahul",
-      "iso": "MD-CA"
+      "iso": "MD-CA",
+      "category": "district"
     },
     {
       "name": "Cantemir",
-      "iso": "MD-CT"
+      "iso": "MD-CT",
+      "category": "district"
     },
     {
-      "name": "Chi?in?u",
-      "iso": "MD-CU"
-    },
-    {
-      "name": "Cimi?lia",
-      "iso": "MD-CM"
+      "name": "Cimișlia",
+      "iso": "MD-CM",
+      "category": "district"
     },
     {
       "name": "Criuleni",
-      "iso": "MD-CR"
+      "iso": "MD-CR",
+      "category": "district"
     },
     {
-      "name": "C?l?ra?i",
-      "iso": "MD-CL"
+      "name": "Călărași",
+      "iso": "MD-CL",
+      "category": "district"
     },
     {
-      "name": "C?u?eni",
-      "iso": "MD-CS"
+      "name": "Căușeni",
+      "iso": "MD-CS",
+      "category": "district"
     },
     {
-      "name": "Dondu?eni",
-      "iso": "MD-DO"
+      "name": "Dondușeni",
+      "iso": "MD-DO",
+      "category": "district"
     },
     {
       "name": "Drochia",
-      "iso": "MD-DR"
+      "iso": "MD-DR",
+      "category": "district"
     },
     {
-      "name": "Dub?sari",
-      "iso": "MD-DU"
+      "name": "Dubăsari",
+      "iso": "MD-DU",
+      "category": "district"
     },
     {
-      "name": "Edine?",
-      "iso": "MD-ED"
+      "name": "Edineț",
+      "iso": "MD-ED",
+      "category": "district"
     },
     {
-      "name": "Flore?ti",
-      "iso": "MD-FL"
+      "name": "Florești",
+      "iso": "MD-FL",
+      "category": "district"
     },
     {
-      "name": "F?le?ti",
-      "iso": "MD-FA"
+      "name": "Fălești",
+      "iso": "MD-FA",
+      "category": "district"
     },
     {
       "name": "Glodeni",
-      "iso": "MD-GL"
+      "iso": "MD-GL",
+      "category": "district"
     },
     {
-      "name": "G?g?uzia, Unitatea teritorial? autonom?",
-      "iso": "MD-GA"
-    },
-    {
-      "name": "H?nce?ti",
-      "iso": "MD-HI"
+      "name": "Hîncești",
+      "iso": "MD-HI",
+      "category": "district"
     },
     {
       "name": "Ialoveni",
-      "iso": "MD-IA"
+      "iso": "MD-IA",
+      "category": "district"
     },
     {
       "name": "Leova",
-      "iso": "MD-LE"
+      "iso": "MD-LE",
+      "category": "district"
     },
     {
       "name": "Nisporeni",
-      "iso": "MD-NI"
+      "iso": "MD-NI",
+      "category": "district"
     },
     {
-      "name": "Ocni?a",
-      "iso": "MD-OC"
+      "name": "Ocnița",
+      "iso": "MD-OC",
+      "category": "district"
     },
     {
       "name": "Orhei",
-      "iso": "MD-OR"
+      "iso": "MD-OR",
+      "category": "district"
     },
     {
       "name": "Rezina",
-      "iso": "MD-RE"
+      "iso": "MD-RE",
+      "category": "district"
     },
     {
-      "name": "R??cani",
-      "iso": "MD-RI"
+      "name": "Rîșcani",
+      "iso": "MD-RI",
+      "category": "district"
     },
     {
       "name": "Soroca",
-      "iso": "MD-SO"
+      "iso": "MD-SO",
+      "category": "district"
     },
     {
-      "name": "Str??eni",
-      "iso": "MD-ST"
+      "name": "Strășeni",
+      "iso": "MD-ST",
+      "category": "district"
     },
     {
-      "name": "St?nga Nistrului, unitatea teritorial? din",
-      "iso": "MD-SN"
-    },
-    {
-      "name": "S?ngerei",
-      "iso": "MD-SI"
+      "name": "Sîngerei",
+      "iso": "MD-SI",
+      "category": "district"
     },
     {
       "name": "Taraclia",
-      "iso": "MD-TA"
+      "iso": "MD-TA",
+      "category": "district"
     },
     {
-      "name": "Telene?ti",
-      "iso": "MD-TE"
-    },
-    {
-      "name": "Tighina",
-      "iso": "MD-BD"
+      "name": "Telenești",
+      "iso": "MD-TE",
+      "category": "district"
     },
     {
       "name": "Ungheni",
-      "iso": "MD-UN"
+      "iso": "MD-UN",
+      "category": "district"
     },
     {
-      "name": "?old?ne?ti",
-      "iso": "MD-SD"
+      "name": "Șoldănești",
+      "iso": "MD-SD",
+      "category": "district"
     },
     {
-      "name": "?tefan Vod?",
-      "iso": "MD-SV"
+      "name": "Ștefan Vodă",
+      "iso": "MD-SV",
+      "category": "district"
+    },
+    {
+      "name": "Stînga Nistrului, unitatea teritorială din",
+      "iso": "MD-SN",
+      "category": "territorial unit"
     }
   ],
   "zipRegex": "^(?:MD)*(\\d{4})$"
