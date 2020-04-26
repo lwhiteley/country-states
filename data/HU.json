@@ -5,176 +5,219 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Baranya",
-      "iso": "HU-BA"
-    },
-    {
-      "name": "Borsod-Aba?j-Zempl?n",
-      "iso": "HU-BZ"
-    },
-    {
       "name": "Budapest",
-      "iso": "HU-BU"
+      "iso": "HU-BU",
+      "subdivision": "capital city"
     },
     {
-      "name": "B?cs-Kiskun",
-      "iso": "HU-BK"
+      "name": "Bács-Kiskun",
+      "iso": "HU-BK",
+      "subdivision": "county"
     },
     {
-      "name": "B?k?s",
-      "iso": "HU-BE"
+      "name": "Baranya",
+      "iso": "HU-BA",
+      "subdivision": "county"
     },
     {
-      "name": "B?k?scsaba",
-      "iso": "HU-BC"
+      "name": "Békés",
+      "iso": "HU-BE",
+      "subdivision": "county"
     },
     {
-      "name": "Csongr?d",
-      "iso": "HU-CS"
+      "name": "Borsod-Abaúj-Zemplén",
+      "iso": "HU-BZ",
+      "subdivision": "county"
     },
     {
-      "name": "Debrecen",
-      "iso": "HU-DE"
+      "name": "Csongrád",
+      "iso": "HU-CS",
+      "subdivision": "county"
     },
     {
-      "name": "Duna?jv?ros",
-      "iso": "HU-DU"
+      "name": "Fejér",
+      "iso": "HU-FE",
+      "subdivision": "county"
     },
     {
-      "name": "Eger",
-      "iso": "HU-EG"
+      "name": "Győr-Moson-Sopron",
+      "iso": "HU-GS",
+      "subdivision": "county"
     },
     {
-      "name": "Fej?r",
-      "iso": "HU-FE"
-    },
-    {
-      "name": "Gy?r",
-      "iso": "HU-GY"
-    },
-    {
-      "name": "Gy?r-Moson-Sopron",
-      "iso": "HU-GS"
-    },
-    {
-      "name": "Hajd?-Bihar",
-      "iso": "HU-HB"
+      "name": "Hajdú-Bihar",
+      "iso": "HU-HB",
+      "subdivision": "county"
     },
     {
       "name": "Heves",
-      "iso": "HU-HE"
+      "iso": "HU-HE",
+      "subdivision": "county"
     },
     {
-      "name": "H?dmez?v?s?rhely",
-      "iso": "HU-HV"
+      "name": "Jász-Nagykun-Szolnok",
+      "iso": "HU-JN",
+      "subdivision": "county"
     },
     {
-      "name": "J?sz-Nagykun-Szolnok",
-      "iso": "HU-JN"
+      "name": "Komárom-Esztergom",
+      "iso": "HU-KE",
+      "subdivision": "county"
     },
     {
-      "name": "Kaposv?r",
-      "iso": "HU-KV"
-    },
-    {
-      "name": "Kecskem?t",
-      "iso": "HU-KM"
-    },
-    {
-      "name": "Kom?rom-Esztergom",
-      "iso": "HU-KE"
-    },
-    {
-      "name": "Miskolc",
-      "iso": "HU-MI"
-    },
-    {
-      "name": "Nagykanizsa",
-      "iso": "HU-NK"
-    },
-    {
-      "name": "Ny?regyh?za",
-      "iso": "HU-NY"
-    },
-    {
-      "name": "N?gr?d",
-      "iso": "HU-NO"
+      "name": "Nógrád",
+      "iso": "HU-NO",
+      "subdivision": "county"
     },
     {
       "name": "Pest",
-      "iso": "HU-PE"
-    },
-    {
-      "name": "P?cs",
-      "iso": "HU-PS"
-    },
-    {
-      "name": "Salg?tarj?n",
-      "iso": "HU-ST"
+      "iso": "HU-PE",
+      "subdivision": "county"
     },
     {
       "name": "Somogy",
-      "iso": "HU-SO"
+      "iso": "HU-SO",
+      "subdivision": "county"
     },
     {
-      "name": "Sopron",
-      "iso": "HU-SN"
-    },
-    {
-      "name": "Szabolcs-Szatm?r-Bereg",
-      "iso": "HU-SZ"
-    },
-    {
-      "name": "Szeged",
-      "iso": "HU-SD"
-    },
-    {
-      "name": "Szeksz?rd",
-      "iso": "HU-SS"
-    },
-    {
-      "name": "Szolnok",
-      "iso": "HU-SK"
-    },
-    {
-      "name": "Szombathely",
-      "iso": "HU-SH"
-    },
-    {
-      "name": "Sz?kesfeh?rv?r",
-      "iso": "HU-SF"
-    },
-    {
-      "name": "Tatab?nya",
-      "iso": "HU-TB"
+      "name": "Szabolcs-Szatmár-Bereg",
+      "iso": "HU-SZ",
+      "subdivision": "county"
     },
     {
       "name": "Tolna",
-      "iso": "HU-TO"
+      "iso": "HU-TO",
+      "subdivision": "county"
     },
     {
       "name": "Vas",
-      "iso": "HU-VA"
+      "iso": "HU-VA",
+      "subdivision": "county"
     },
     {
-      "name": "Veszpr?m",
-      "iso": "HU-VE"
-    },
-    {
-      "name": "Veszpr?m",
-      "iso": "HU-VM"
+      "name": "Veszprém",
+      "iso": "HU-VE",
+      "subdivision": "county"
     },
     {
       "name": "Zala",
-      "iso": "HU-ZA"
+      "iso": "HU-ZA",
+      "subdivision": "county"
+    },
+    {
+      "name": "Békéscsaba",
+      "iso": "HU-BC",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Debrecen",
+      "iso": "HU-DE",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Dunaújváros",
+      "iso": "HU-DU",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Eger",
+      "iso": "HU-EG",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Érd",
+      "iso": "HU-ER",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Győr",
+      "iso": "HU-GY",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Hódmezővásárhely",
+      "iso": "HU-HV",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Kaposvár",
+      "iso": "HU-KV",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Kecskemét",
+      "iso": "HU-KM",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Miskolc",
+      "iso": "HU-MI",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Nagykanizsa",
+      "iso": "HU-NK",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Nyíregyháza",
+      "iso": "HU-NY",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Pécs",
+      "iso": "HU-PS",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Salgótarján",
+      "iso": "HU-ST",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Sopron",
+      "iso": "HU-SN",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Szeged",
+      "iso": "HU-SD",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Székesfehérvár",
+      "iso": "HU-SF",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Szekszárd",
+      "iso": "HU-SS",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Szolnok",
+      "iso": "HU-SK",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Szombathely",
+      "iso": "HU-SH",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Tatabánya",
+      "iso": "HU-TB",
+      "subdivision": "city with county rights"
+    },
+    {
+      "name": "Veszprém",
+      "iso": "HU-VM",
+      "subdivision": "city with county rights"
     },
     {
       "name": "Zalaegerszeg",
-      "iso": "HU-ZE"
-    },
-    {
-      "name": "?rd",
-      "iso": "HU-ER"
+      "iso": "HU-ZE",
+      "subdivision": "city with county rights"
     }
   ],
   "zipRegex": "^(\\d{4})$"
