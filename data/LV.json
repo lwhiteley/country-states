@@ -6,479 +6,598 @@
   "states": [
     {
       "name": "Aglonas novads",
-      "iso": "LV-001"
+      "iso": "LV-001",
+      "category": "municipality"
     },
     {
       "name": "Aizkraukles novads",
-      "iso": "LV-002"
+      "iso": "LV-002",
+      "category": "municipality"
     },
     {
       "name": "Aizputes novads",
-      "iso": "LV-003"
+      "iso": "LV-003",
+      "category": "municipality"
     },
     {
-      "name": "Akn?stes novads",
-      "iso": "LV-004"
+      "name": "Aknīstes novads",
+      "iso": "LV-004",
+      "category": "municipality"
     },
     {
       "name": "Alojas novads",
-      "iso": "LV-005"
+      "iso": "LV-005",
+      "category": "municipality"
     },
     {
       "name": "Alsungas novads",
-      "iso": "LV-006"
+      "iso": "LV-006",
+      "category": "municipality"
     },
     {
-      "name": "Al?ksnes novads",
-      "iso": "LV-007"
+      "name": "Alūksnes novads",
+      "iso": "LV-007",
+      "category": "municipality"
     },
     {
       "name": "Amatas novads",
-      "iso": "LV-008"
+      "iso": "LV-008",
+      "category": "municipality"
     },
     {
       "name": "Apes novads",
-      "iso": "LV-009"
+      "iso": "LV-009",
+      "category": "municipality"
     },
     {
       "name": "Auces novads",
-      "iso": "LV-010"
+      "iso": "LV-010",
+      "category": "municipality"
     },
     {
-      "name": "Bab?tes novads",
-      "iso": "LV-012"
+      "name": "Ādažu novads",
+      "iso": "LV-011",
+      "category": "municipality"
+    },
+    {
+      "name": "Babītes novads",
+      "iso": "LV-012",
+      "category": "municipality"
     },
     {
       "name": "Baldones novads",
-      "iso": "LV-013"
+      "iso": "LV-013",
+      "category": "municipality"
     },
     {
       "name": "Baltinavas novads",
-      "iso": "LV-014"
+      "iso": "LV-014",
+      "category": "municipality"
     },
     {
       "name": "Balvu novads",
-      "iso": "LV-015"
+      "iso": "LV-015",
+      "category": "municipality"
     },
     {
       "name": "Bauskas novads",
-      "iso": "LV-016"
+      "iso": "LV-016",
+      "category": "municipality"
     },
     {
-      "name": "Bever?nas novads",
-      "iso": "LV-017"
+      "name": "Beverīnas novads",
+      "iso": "LV-017",
+      "category": "municipality"
     },
     {
-      "name": "Broc?nu novads",
-      "iso": "LV-018"
+      "name": "Brocēnu novads",
+      "iso": "LV-018",
+      "category": "municipality"
     },
     {
       "name": "Burtnieku novads",
-      "iso": "LV-019"
+      "iso": "LV-019",
+      "category": "municipality"
     },
     {
       "name": "Carnikavas novads",
-      "iso": "LV-020"
+      "iso": "LV-020",
+      "category": "municipality"
     },
     {
       "name": "Cesvaines novads",
-      "iso": "LV-021"
+      "iso": "LV-021",
+      "category": "municipality"
+    },
+    {
+      "name": "Cēsu novads",
+      "iso": "LV-022",
+      "category": "municipality"
     },
     {
       "name": "Ciblas novads",
-      "iso": "LV-023"
-    },
-    {
-      "name": "C?su novads",
-      "iso": "LV-022"
+      "iso": "LV-023",
+      "category": "municipality"
     },
     {
       "name": "Dagdas novads",
-      "iso": "LV-024"
-    },
-    {
-      "name": "Daugavpils",
-      "iso": "LV-DGV"
+      "iso": "LV-024",
+      "category": "municipality"
     },
     {
       "name": "Daugavpils novads",
-      "iso": "LV-025"
+      "iso": "LV-025",
+      "category": "municipality"
     },
     {
       "name": "Dobeles novads",
-      "iso": "LV-026"
+      "iso": "LV-026",
+      "category": "municipality"
     },
     {
       "name": "Dundagas novads",
-      "iso": "LV-027"
+      "iso": "LV-027",
+      "category": "municipality"
     },
     {
       "name": "Durbes novads",
-      "iso": "LV-028"
+      "iso": "LV-028",
+      "category": "municipality"
     },
     {
       "name": "Engures novads",
-      "iso": "LV-029"
+      "iso": "LV-029",
+      "category": "municipality"
+    },
+    {
+      "name": "Ērgļu novads",
+      "iso": "LV-030",
+      "category": "municipality"
     },
     {
       "name": "Garkalnes novads",
-      "iso": "LV-031"
+      "iso": "LV-031",
+      "category": "municipality"
     },
     {
-      "name": "Grobi?as novads",
-      "iso": "LV-032"
+      "name": "Grobiņas novads",
+      "iso": "LV-032",
+      "category": "municipality"
     },
     {
       "name": "Gulbenes novads",
-      "iso": "LV-033"
+      "iso": "LV-033",
+      "category": "municipality"
     },
     {
       "name": "Iecavas novads",
-      "iso": "LV-034"
+      "iso": "LV-034",
+      "category": "municipality"
     },
     {
-      "name": "Ik??iles novads",
-      "iso": "LV-035"
+      "name": "Ikšķiles novads",
+      "iso": "LV-035",
+      "category": "municipality"
     },
     {
-      "name": "Il?kstes novads",
-      "iso": "LV-036"
+      "name": "Ilūkstes novads",
+      "iso": "LV-036",
+      "category": "municipality"
     },
     {
-      "name": "In?ukalna novads",
-      "iso": "LV-037"
+      "name": "Inčukalna novads",
+      "iso": "LV-037",
+      "category": "municipality"
     },
     {
       "name": "Jaunjelgavas novads",
-      "iso": "LV-038"
+      "iso": "LV-038",
+      "category": "municipality"
     },
     {
       "name": "Jaunpiebalgas novads",
-      "iso": "LV-039"
+      "iso": "LV-039",
+      "category": "municipality"
     },
     {
       "name": "Jaunpils novads",
-      "iso": "LV-040"
-    },
-    {
-      "name": "Jelgava",
-      "iso": "LV-JEL"
+      "iso": "LV-040",
+      "category": "municipality"
     },
     {
       "name": "Jelgavas novads",
-      "iso": "LV-041"
+      "iso": "LV-041",
+      "category": "municipality"
     },
     {
-      "name": "J?kabpils",
-      "iso": "LV-JKB"
-    },
-    {
-      "name": "J?kabpils novads",
-      "iso": "LV-042"
-    },
-    {
-      "name": "J?rmala",
-      "iso": "LV-JUR"
+      "name": "Jēkabpils novads",
+      "iso": "LV-042",
+      "category": "municipality"
     },
     {
       "name": "Kandavas novads",
-      "iso": "LV-043"
+      "iso": "LV-043",
+      "category": "municipality"
     },
     {
-      "name": "Koc?nu novads",
-      "iso": "LV-045"
+      "name": "Kārsavas novads",
+      "iso": "LV-044",
+      "category": "municipality"
+    },
+    {
+      "name": "Kocēnu novads",
+      "iso": "LV-045",
+      "category": "municipality"
     },
     {
       "name": "Kokneses novads",
-      "iso": "LV-046"
+      "iso": "LV-046",
+      "category": "municipality"
+    },
+    {
+      "name": "Krāslavas novads",
+      "iso": "LV-047",
+      "category": "municipality"
     },
     {
       "name": "Krimuldas novads",
-      "iso": "LV-048"
+      "iso": "LV-048",
+      "category": "municipality"
     },
     {
       "name": "Krustpils novads",
-      "iso": "LV-049"
+      "iso": "LV-049",
+      "category": "municipality"
     },
     {
-      "name": "Kr?slavas novads",
-      "iso": "LV-047"
+      "name": "Kuldīgas novads",
+      "iso": "LV-050",
+      "category": "municipality"
     },
     {
-      "name": "Kuld?gas novads",
-      "iso": "LV-050"
+      "name": "Ķeguma novads",
+      "iso": "LV-051",
+      "category": "municipality"
     },
     {
-      "name": "K?rsavas novads",
-      "iso": "LV-044"
+      "name": "Ķekavas novads",
+      "iso": "LV-052",
+      "category": "municipality"
     },
     {
-      "name": "Lielv?rdes novads",
-      "iso": "LV-053"
+      "name": "Lielvārdes novads",
+      "iso": "LV-053",
+      "category": "municipality"
     },
     {
-      "name": "Liep?ja",
-      "iso": "LV-LPX"
+      "name": "Limbažu novads",
+      "iso": "LV-054",
+      "category": "municipality"
     },
     {
-      "name": "Limba?u novads",
-      "iso": "LV-054"
+      "name": "Līgatnes novads",
+      "iso": "LV-055",
+      "category": "municipality"
     },
     {
-      "name": "Lub?nas novads",
-      "iso": "LV-057"
+      "name": "Līvānu novads",
+      "iso": "LV-056",
+      "category": "municipality"
+    },
+    {
+      "name": "Lubānas novads",
+      "iso": "LV-057",
+      "category": "municipality"
     },
     {
       "name": "Ludzas novads",
-      "iso": "LV-058"
-    },
-    {
-      "name": "L?gatnes novads",
-      "iso": "LV-055"
-    },
-    {
-      "name": "L?v?nu novads",
-      "iso": "LV-056"
+      "iso": "LV-058",
+      "category": "municipality"
     },
     {
       "name": "Madonas novads",
-      "iso": "LV-059"
+      "iso": "LV-059",
+      "category": "municipality"
     },
     {
       "name": "Mazsalacas novads",
-      "iso": "LV-060"
+      "iso": "LV-060",
+      "category": "municipality"
     },
     {
-      "name": "M?lpils novads",
-      "iso": "LV-061"
+      "name": "Mālpils novads",
+      "iso": "LV-061",
+      "category": "municipality"
     },
     {
-      "name": "M?rupes novads",
-      "iso": "LV-062"
+      "name": "Mārupes novads",
+      "iso": "LV-062",
+      "category": "municipality"
     },
     {
-      "name": "M?rsraga novads",
-      "iso": "LV-063"
+      "name": "Mērsraga novads",
+      "iso": "LV-063",
+      "category": "municipality"
     },
     {
-      "name": "Nauk??nu novads",
-      "iso": "LV-064"
+      "name": "Naukšēnu novads",
+      "iso": "LV-064",
+      "category": "municipality"
     },
     {
       "name": "Neretas novads",
-      "iso": "LV-065"
+      "iso": "LV-065",
+      "category": "municipality"
     },
     {
-      "name": "N?cas novads",
-      "iso": "LV-066"
+      "name": "Nīcas novads",
+      "iso": "LV-066",
+      "category": "municipality"
     },
     {
       "name": "Ogres novads",
-      "iso": "LV-067"
+      "iso": "LV-067",
+      "category": "municipality"
     },
     {
       "name": "Olaines novads",
-      "iso": "LV-068"
+      "iso": "LV-068",
+      "category": "municipality"
     },
     {
       "name": "Ozolnieku novads",
-      "iso": "LV-069"
+      "iso": "LV-069",
+      "category": "municipality"
     },
     {
-      "name": "Prei?u novads",
-      "iso": "LV-073"
+      "name": "Pārgaujas novads",
+      "iso": "LV-070",
+      "category": "municipality"
+    },
+    {
+      "name": "Pāvilostas novads",
+      "iso": "LV-071",
+      "category": "municipality"
+    },
+    {
+      "name": "Pļaviņu novads",
+      "iso": "LV-072",
+      "category": "municipality"
+    },
+    {
+      "name": "Preiļu novads",
+      "iso": "LV-073",
+      "category": "municipality"
     },
     {
       "name": "Priekules novads",
-      "iso": "LV-074"
+      "iso": "LV-074",
+      "category": "municipality"
     },
     {
-      "name": "Prieku?u novads",
-      "iso": "LV-075"
-    },
-    {
-      "name": "P?rgaujas novads",
-      "iso": "LV-070"
-    },
-    {
-      "name": "P?vilostas novads",
-      "iso": "LV-071"
-    },
-    {
-      "name": "P?avi?u novads",
-      "iso": "LV-072"
+      "name": "Priekuļu novads",
+      "iso": "LV-075",
+      "category": "municipality"
     },
     {
       "name": "Raunas novads",
-      "iso": "LV-076"
+      "iso": "LV-076",
+      "category": "municipality"
     },
     {
-      "name": "Riebi?u novads",
-      "iso": "LV-078"
+      "name": "Rēzeknes novads",
+      "iso": "LV-077",
+      "category": "municipality"
+    },
+    {
+      "name": "Riebiņu novads",
+      "iso": "LV-078",
+      "category": "municipality"
     },
     {
       "name": "Rojas novads",
-      "iso": "LV-079"
+      "iso": "LV-079",
+      "category": "municipality"
     },
     {
-      "name": "Ropa?u novads",
-      "iso": "LV-080"
+      "name": "Ropažu novads",
+      "iso": "LV-080",
+      "category": "municipality"
     },
     {
       "name": "Rucavas novads",
-      "iso": "LV-081"
+      "iso": "LV-081",
+      "category": "municipality"
     },
     {
-      "name": "Rug?ju novads",
-      "iso": "LV-082"
+      "name": "Rugāju novads",
+      "iso": "LV-082",
+      "category": "municipality"
     },
     {
-      "name": "Rund?les novads",
-      "iso": "LV-083"
+      "name": "Rundāles novads",
+      "iso": "LV-083",
+      "category": "municipality"
     },
     {
-      "name": "R?zekne",
-      "iso": "LV-REZ"
-    },
-    {
-      "name": "R?zeknes novads",
-      "iso": "LV-077"
-    },
-    {
-      "name": "R?ga",
-      "iso": "LV-RIX"
-    },
-    {
-      "name": "R?jienas novads",
-      "iso": "LV-084"
-    },
-    {
-      "name": "Salacgr?vas novads",
-      "iso": "LV-086"
+      "name": "Rūjienas novads",
+      "iso": "LV-084",
+      "category": "municipality"
     },
     {
       "name": "Salas novads",
-      "iso": "LV-085"
+      "iso": "LV-085",
+      "category": "municipality"
+    },
+    {
+      "name": "Salacgrīvas novads",
+      "iso": "LV-086",
+      "category": "municipality"
     },
     {
       "name": "Salaspils novads",
-      "iso": "LV-087"
+      "iso": "LV-087",
+      "category": "municipality"
     },
     {
       "name": "Saldus novads",
-      "iso": "LV-088"
+      "iso": "LV-088",
+      "category": "municipality"
     },
     {
       "name": "Saulkrastu novads",
-      "iso": "LV-089"
+      "iso": "LV-089",
+      "category": "municipality"
+    },
+    {
+      "name": "Sējas novads",
+      "iso": "LV-090",
+      "category": "municipality"
     },
     {
       "name": "Siguldas novads",
-      "iso": "LV-091"
+      "iso": "LV-091",
+      "category": "municipality"
+    },
+    {
+      "name": "Skrīveru novads",
+      "iso": "LV-092",
+      "category": "municipality"
     },
     {
       "name": "Skrundas novads",
-      "iso": "LV-093"
-    },
-    {
-      "name": "Skr?veru novads",
-      "iso": "LV-092"
+      "iso": "LV-093",
+      "category": "municipality"
     },
     {
       "name": "Smiltenes novads",
-      "iso": "LV-094"
+      "iso": "LV-094",
+      "category": "municipality"
     },
     {
-      "name": "Stopi?u novads",
-      "iso": "LV-095"
+      "name": "Stopiņu novads",
+      "iso": "LV-095",
+      "category": "municipality"
     },
     {
-      "name": "Stren?u novads",
-      "iso": "LV-096"
-    },
-    {
-      "name": "S?jas novads",
-      "iso": "LV-090"
+      "name": "Strenču novads",
+      "iso": "LV-096",
+      "category": "municipality"
     },
     {
       "name": "Talsu novads",
-      "iso": "LV-097"
+      "iso": "LV-097",
+      "category": "municipality"
+    },
+    {
+      "name": "Tērvetes novads",
+      "iso": "LV-098",
+      "category": "municipality"
     },
     {
       "name": "Tukuma novads",
-      "iso": "LV-099"
+      "iso": "LV-099",
+      "category": "municipality"
     },
     {
-      "name": "T?rvetes novads",
-      "iso": "LV-098"
-    },
-    {
-      "name": "Vai?odes novads",
-      "iso": "LV-100"
+      "name": "Vaiņodes novads",
+      "iso": "LV-100",
+      "category": "municipality"
     },
     {
       "name": "Valkas novads",
-      "iso": "LV-101"
+      "iso": "LV-101",
+      "category": "municipality"
     },
     {
-      "name": "Valmiera",
-      "iso": "LV-VMR"
+      "name": "Varakļānu novads",
+      "iso": "LV-102",
+      "category": "municipality"
     },
     {
-      "name": "Varak??nu novads",
-      "iso": "LV-102"
+      "name": "Vārkavas novads",
+      "iso": "LV-103",
+      "category": "municipality"
     },
     {
       "name": "Vecpiebalgas novads",
-      "iso": "LV-104"
+      "iso": "LV-104",
+      "category": "municipality"
     },
     {
       "name": "Vecumnieku novads",
-      "iso": "LV-105"
-    },
-    {
-      "name": "Ventspils",
-      "iso": "LV-VEN"
+      "iso": "LV-105",
+      "category": "municipality"
     },
     {
       "name": "Ventspils novads",
-      "iso": "LV-106"
+      "iso": "LV-106",
+      "category": "municipality"
     },
     {
-      "name": "Vies?tes novads",
-      "iso": "LV-107"
+      "name": "Viesītes novads",
+      "iso": "LV-107",
+      "category": "municipality"
     },
     {
-      "name": "Vi?akas novads",
-      "iso": "LV-108"
+      "name": "Viļakas novads",
+      "iso": "LV-108",
+      "category": "municipality"
     },
     {
-      "name": "Vi??nu novads",
-      "iso": "LV-109"
-    },
-    {
-      "name": "V?rkavas novads",
-      "iso": "LV-103"
+      "name": "Viļānu novads",
+      "iso": "LV-109",
+      "category": "municipality"
     },
     {
       "name": "Zilupes novads",
-      "iso": "LV-110"
+      "iso": "LV-110",
+      "category": "municipality"
     },
     {
-      "name": "?da?u novads",
-      "iso": "LV-011"
+      "name": "Daugavpils",
+      "iso": "LV-DGV",
+      "category": "republican city"
     },
     {
-      "name": "?rg?u novads",
-      "iso": "LV-030"
+      "name": "Jelgava",
+      "iso": "LV-JEL",
+      "category": "republican city"
     },
     {
-      "name": "?eguma novads",
-      "iso": "LV-051"
+      "name": "Jēkabpils",
+      "iso": "LV-JKB",
+      "category": "republican city"
     },
     {
-      "name": "?ekavas novads",
-      "iso": "LV-052"
+      "name": "Jūrmala",
+      "iso": "LV-JUR",
+      "category": "republican city"
+    },
+    {
+      "name": "Liepāja",
+      "iso": "LV-LPX",
+      "category": "republican city"
+    },
+    {
+      "name": "Rēzekne",
+      "iso": "LV-REZ",
+      "category": "republican city"
+    },
+    {
+      "name": "Rīga",
+      "iso": "LV-RIX",
+      "category": "republican city"
+    },
+    {
+      "name": "Valmiera",
+      "iso": "LV-VMR",
+      "category": "republican city"
+    },
+    {
+      "name": "Ventspils",
+      "iso": "LV-VEN",
+      "category": "republican city"
     }
   ],
   "zipRegex": "^[L]{1}[V]{1}[-]([0-9]){4}$"
