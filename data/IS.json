@@ -5,40 +5,36 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Austurland",
-      "iso": "IS-7"
-    },
-    {
-      "name": "H?fu?borgarsv??i utan Reykjav?kur",
+      "name": "Höfuðborgarsvæðið",
       "iso": "IS-1"
     },
     {
-      "name": "Nor?urland eystra",
-      "iso": "IS-6"
-    },
-    {
-      "name": "Nor?urland vestra",
-      "iso": "IS-5"
-    },
-    {
-      "name": "Reykjav?k",
-      "iso": "IS-0"
-    },
-    {
-      "name": "Su?urland",
-      "iso": "IS-8"
-    },
-    {
-      "name": "Su?urnes",
+      "name": "Suðurnes",
       "iso": "IS-2"
-    },
-    {
-      "name": "Vestfir?ir",
-      "iso": "IS-4"
     },
     {
       "name": "Vesturland",
       "iso": "IS-3"
+    },
+    {
+      "name": "Vestfirðir",
+      "iso": "IS-4"
+    },
+    {
+      "name": "Norðurland vestra",
+      "iso": "IS-5"
+    },
+    {
+      "name": "Norðurland eystra",
+      "iso": "IS-6"
+    },
+    {
+      "name": "Austurland",
+      "iso": "IS-7"
+    },
+    {
+      "name": "Suðurland",
+      "iso": "IS-8"
     }
   ],
   "zipRegex": "^(\\d{3})$"
