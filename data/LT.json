@@ -5,44 +5,44 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Alytaus Apskritis",
+      "name": "Alytaus apskritis",
       "iso": "LT-AL"
     },
     {
-      "name": "Kauno Apskritis",
+      "name": "Kauno apskritis",
       "iso": "LT-KU"
     },
     {
-      "name": "Klaip?dos Apskritis",
+      "name": "Klaipėdos apskritis",
       "iso": "LT-KL"
     },
     {
-      "name": "Marijampol?s Apskritis",
+      "name": "Marijampolės apskritis",
       "iso": "LT-MR"
     },
     {
-      "name": "Panev??io Apskritis",
+      "name": "Panevėžio apskritis",
       "iso": "LT-PN"
     },
     {
-      "name": "Taurag?s Apskritis",
+      "name": "Šiaulių apskritis",
+      "iso": "LT-SA"
+    },
+    {
+      "name": "Tauragės apskritis",
       "iso": "LT-TA"
     },
     {
-      "name": "Tel?i? Apskritis",
+      "name": "Telšių apskritis",
       "iso": "LT-TE"
     },
     {
-      "name": "Utenos Apskritis",
+      "name": "Utenos apskritis",
       "iso": "LT-UT"
     },
     {
-      "name": "Vilniaus Apskritis",
+      "name": "Vilniaus apskritis",
       "iso": "LT-VL"
-    },
-    {
-      "name": "?iauli? Apskritis",
-      "iso": "LT-SA"
     }
   ],
   "zipRegex": "^(?:LT)*(\\d{5})$"
