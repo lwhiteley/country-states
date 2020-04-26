@@ -6,95 +6,123 @@
   "states": [
     {
       "name": "Andrijevica",
-      "iso": "ME-01"
+      "iso": "ME-01",
+      "category": "municipality"
     },
     {
       "name": "Bar",
-      "iso": "ME-02"
+      "iso": "ME-02",
+      "category": "municipality"
     },
     {
       "name": "Berane",
-      "iso": "ME-03"
+      "iso": "ME-03",
+      "category": "municipality"
     },
     {
       "name": "Bijelo Polje",
-      "iso": "ME-04"
+      "iso": "ME-04",
+      "category": "municipality"
     },
     {
       "name": "Budva",
-      "iso": "ME-05"
+      "iso": "ME-05",
+      "category": "municipality"
     },
     {
       "name": "Cetinje",
-      "iso": "ME-06"
+      "iso": "ME-06",
+      "category": "municipality"
     },
     {
       "name": "Danilovgrad",
-      "iso": "ME-07"
-    },
-    {
-      "name": "Gusinje",
-      "iso": "ME-22"
+      "iso": "ME-07",
+      "category": "municipality"
     },
     {
       "name": "Herceg-Novi",
-      "iso": "ME-08"
+      "iso": "ME-08",
+      "category": "municipality"
     },
     {
-      "name": "Kola?in",
-      "iso": "ME-09"
+      "name": "Kolašin",
+      "iso": "ME-09",
+      "category": "municipality"
     },
     {
       "name": "Kotor",
-      "iso": "ME-10"
+      "iso": "ME-10",
+      "category": "municipality"
     },
     {
       "name": "Mojkovac",
-      "iso": "ME-11"
+      "iso": "ME-11",
+      "category": "municipality"
     },
     {
-      "name": "Nik?i?",
-      "iso": "ME-12"
-    },
-    {
-      "name": "Petnjica",
-      "iso": "ME-23"
+      "name": "Nikšić",
+      "iso": "ME-12",
+      "category": "municipality"
     },
     {
       "name": "Plav",
-      "iso": "ME-13"
+      "iso": "ME-13",
+      "category": "municipality"
     },
     {
       "name": "Pljevlja",
-      "iso": "ME-14"
+      "iso": "ME-14",
+      "category": "municipality"
     },
     {
-      "name": "Plu?ine",
-      "iso": "ME-15"
+      "name": "Plužine",
+      "iso": "ME-15",
+      "category": "municipality"
     },
     {
       "name": "Podgorica",
-      "iso": "ME-16"
+      "iso": "ME-16",
+      "category": "municipality"
     },
     {
-      "name": "Ro?aje",
-      "iso": "ME-17"
+      "name": "Rožaje",
+      "iso": "ME-17",
+      "category": "municipality"
+    },
+    {
+      "name": "Šavnik",
+      "iso": "ME-18",
+      "category": "municipality"
     },
     {
       "name": "Tivat",
-      "iso": "ME-19"
+      "iso": "ME-19",
+      "category": "municipality"
     },
     {
       "name": "Ulcinj",
-      "iso": "ME-20"
+      "iso": "ME-20",
+      "category": "municipality"
     },
     {
-      "name": "?avnik",
-      "iso": "ME-18"
+      "name": "Žabljak",
+      "iso": "ME-21",
+      "category": "municipality"
     },
     {
-      "name": "?abljak",
-      "iso": "ME-21"
+      "name": "Gusinje",
+      "iso": "ME-22",
+      "category": "municipality"
+    },
+    {
+      "name": "Petnjica",
+      "iso": "ME-23",
+      "category": "municipality"
+    },
+    {
+      "name": "Tuzi",
+      "iso": "ME-24",
+      "category": "municipality"
     }
   ],
   "zipRegex": "^(\\d{5})$"
