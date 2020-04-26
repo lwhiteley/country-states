@@ -5,19 +5,19 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Al Bu?n?n",
+      "name": "Al Buţnān",
       "iso": "LY-BU"
     },
     {
-      "name": "Al Jabal al Akh?ar",
+      "name": "Al Jabal al Akhḑar",
       "iso": "LY-JA"
     },
     {
-      "name": "Al Jabal al Gharb?",
+      "name": "Al Jabal al Gharbī",
       "iso": "LY-JG"
     },
     {
-      "name": "Al Jif?rah",
+      "name": "Al Jafārah",
       "iso": "LY-JI"
     },
     {
@@ -37,19 +37,19 @@
       "iso": "LY-MB"
     },
     {
-      "name": "Al W???t",
+      "name": "Al Wāḩāt",
       "iso": "LY-WA"
     },
     {
-      "name": "An Nuqa? al Khams",
+      "name": "An Nuqāţ al Khams",
       "iso": "LY-NQ"
     },
     {
-      "name": "Az Z?wiyah",
+      "name": "Az Zāwiyah",
       "iso": "LY-ZA"
     },
     {
-      "name": "Bangh?z?",
+      "name": "Banghāzī",
       "iso": "LY-BA"
     },
     {
@@ -57,11 +57,11 @@
       "iso": "LY-DR"
     },
     {
-      "name": "Gh?t",
+      "name": "Ghāt",
       "iso": "LY-GT"
     },
     {
-      "name": "Mi?r?tah",
+      "name": "Mişrātah",
       "iso": "LY-MI"
     },
     {
@@ -69,11 +69,11 @@
       "iso": "LY-MQ"
     },
     {
-      "name": "N?l?t",
+      "name": "Nālūt",
       "iso": "LY-NL"
     },
     {
-      "name": "Sabh?",
+      "name": "Sabhā",
       "iso": "LY-SB"
     },
     {
@@ -81,16 +81,16 @@
       "iso": "LY-SR"
     },
     {
-      "name": "W?d? al ?ay?t",
+      "name": "Ţarābulus",
+      "iso": "LY-TB"
+    },
+    {
+      "name": "Wādī al Ḩayāt",
       "iso": "LY-WD"
     },
     {
-      "name": "W?d? ash Sh??i?",
+      "name": "Wādī ash Shāţi’",
       "iso": "LY-WS"
-    },
-    {
-      "name": "?ar?bulus",
-      "iso": "LY-TB"
     }
   ],
   "zipRegex": "^(\\d{5})$"
