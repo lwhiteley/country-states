@@ -5,19 +5,19 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Al Anb?r",
+      "name": "Al Anbār",
       "iso": "IQ-AN"
     },
     {
-      "name": "Al Ba?rah",
+      "name": "Al Başrah",
       "iso": "IQ-BA"
     },
     {
-      "name": "Al Muthann?",
+      "name": "Al Muthanná",
       "iso": "IQ-MU"
     },
     {
-      "name": "Al Q?dis?yah",
+      "name": "Al Qādisīyah",
       "iso": "IQ-QA"
     },
     {
@@ -25,56 +25,56 @@
       "iso": "IQ-NA"
     },
     {
-      "name": "Arb?l",
+      "name": "Arbīl",
       "iso": "IQ-AR"
     },
     {
-      "name": "As Sulaym?n?yah",
+      "name": "As Sulaymānīyah",
       "iso": "IQ-SU"
     },
     {
-      "name": "At Ta'm?m",
-      "iso": "IQ-TS"
-    },
-    {
-      "name": "Baghd?d",
-      "iso": "IQ-BG"
-    },
-    {
-      "name": "B?bil",
+      "name": "Bābil",
       "iso": "IQ-BB"
     },
     {
-      "name": "Dah?k",
+      "name": "Baghdād",
+      "iso": "IQ-BG"
+    },
+    {
+      "name": "Dahūk",
       "iso": "IQ-DA"
     },
     {
-      "name": "Dh? Q?r",
+      "name": "Dhī Qār",
       "iso": "IQ-DQ"
     },
     {
-      "name": "Diy?l?",
+      "name": "Diyālá",
       "iso": "IQ-DI"
     },
     {
-      "name": "Karbal?'",
+      "name": "Karbalā’",
       "iso": "IQ-KA"
     },
     {
-      "name": "Mays?n",
+      "name": "Kirkūk",
+      "iso": "IQ-KI"
+    },
+    {
+      "name": "Maysān",
       "iso": "IQ-MA"
     },
     {
-      "name": "N?naw?",
+      "name": "Nīnawá",
       "iso": "IQ-NI"
     },
     {
-      "name": "W?si?",
-      "iso": "IQ-WA"
+      "name": "Şalāḩ ad Dīn",
+      "iso": "IQ-SD"
     },
     {
-      "name": "?al?? ad D?n",
-      "iso": "IQ-SD"
+      "name": "Wāsiţ",
+      "iso": "IQ-WA"
     }
   ],
   "zipRegex": "^(\\d{5})$"
