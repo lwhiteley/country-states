@@ -5,27 +5,27 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "B?nshangul Gumuz",
+      "name": "Bīnshangul Gumuz",
       "iso": "ET-BE"
     },
     {
-      "name": "Dir? Dawa",
+      "name": "Dirē Dawa",
       "iso": "ET-DD"
     },
     {
-      "name": "Gamb?la Hizboch",
+      "name": "Gambēla Hizboch",
       "iso": "ET-GA"
     },
     {
-      "name": "H?rer? Hizb",
+      "name": "Hārerī Hizb",
       "iso": "ET-HA"
     },
     {
-      "name": "Orom?ya",
+      "name": "Oromīya",
       "iso": "ET-OR"
     },
     {
-      "name": "Sumal?",
+      "name": "Sumalē",
       "iso": "ET-SO"
     },
     {
@@ -33,19 +33,19 @@
       "iso": "ET-TI"
     },
     {
-      "name": "YeDebub Bih?roch Bih?reseboch na Hizboch",
+      "name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
       "iso": "ET-SN"
     },
     {
-      "name": "?d?s ?beba",
+      "name": "Ādīs Ābeba",
       "iso": "ET-AA"
     },
     {
-      "name": "?far",
+      "name": "Āfar",
       "iso": "ET-AF"
     },
     {
-      "name": "?mara",
+      "name": "Āmara",
       "iso": "ET-AM"
     }
   ],
