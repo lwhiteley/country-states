@@ -5,68 +5,526 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Chaouia-Ouardigha",
-      "iso": "MA-09"
+      "name": "Béni Mellal-Khénifra",
+      "iso": "MA-05",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "Doukhala-Abda",
-      "iso": "MA-10"
+      "name": "Casablanca-Settat",
+      "iso": "MA-06",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "F?s-Boulemane",
-      "iso": "MA-05"
+      "name": "Dakhla-Oued Ed-Dahab (EH)",
+      "iso": "MA-12",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "Gharb-Chrarda-Beni Hssen",
-      "iso": "MA-02"
+      "name": "Drâa-Tafilalet",
+      "iso": "MA-08",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "Grand Casablanca",
-      "iso": "MA-08"
+      "name": "Fès-Meknès",
+      "iso": "MA-03",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "Guelmim-Es Smara",
-      "iso": "MA-14"
+      "name": "Guelmim-Oued Noun (EH-partial)",
+      "iso": "MA-10",
+      "category": "region",
+      "parentCode": ""
     },
     {
       "name": "L'Oriental",
-      "iso": "MA-04"
+      "iso": "MA-02",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "La?youne-Boujdour-Sakia el Hamra",
-      "iso": "MA-15"
+      "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+      "iso": "MA-11",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "Marrakech-Tensift-Al Haouz",
-      "iso": "MA-11"
+      "name": "Marrakech-Safi",
+      "iso": "MA-07",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "Mekn?s-Tafilalet",
-      "iso": "MA-06"
+      "name": "Rabat-Salé-Kénitra",
+      "iso": "MA-04",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "Oued ed Dahab-Lagouira",
-      "iso": "MA-16"
+      "name": "Souss-Massa",
+      "iso": "MA-09",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "Rabat-Sal?-Zemmour-Zaer",
-      "iso": "MA-07"
+      "name": "Tanger-Tétouan-Al Hoceïma",
+      "iso": "MA-01",
+      "category": "region",
+      "parentCode": ""
     },
     {
-      "name": "Souss-Massa-Dr?a",
-      "iso": "MA-13"
+      "name": "Al Haouz",
+      "iso": "MA-HAO",
+      "category": "province",
+      "parentCode": "MA-07"
     },
     {
-      "name": "Tadla-Azilal",
-      "iso": "MA-12"
+      "name": "Al Hoceïma",
+      "iso": "MA-HOC",
+      "category": "province",
+      "parentCode": "MA-01"
     },
     {
-      "name": "Tanger-T?touan",
-      "iso": "MA-01"
+      "name": "Aousserd (EH)",
+      "iso": "MA-AOU",
+      "category": "province",
+      "parentCode": "MA-12"
     },
     {
-      "name": "Taza-Al Hoceima-Taounate",
-      "iso": "MA-03"
+      "name": "Assa-Zag (EH-partial)",
+      "iso": "MA-ASZ",
+      "category": "province",
+      "parentCode": "MA-10"
+    },
+    {
+      "name": "Azilal",
+      "iso": "MA-AZI",
+      "category": "province",
+      "parentCode": "MA-05"
+    },
+    {
+      "name": "Benslimane",
+      "iso": "MA-BES",
+      "category": "province",
+      "parentCode": "MA-06"
+    },
+    {
+      "name": "Berkane",
+      "iso": "MA-BER",
+      "category": "province",
+      "parentCode": "MA-02"
+    },
+    {
+      "name": "Berrechid",
+      "iso": "MA-BRR",
+      "category": "province",
+      "parentCode": "MA-06"
+    },
+    {
+      "name": "Boujdour (EH)",
+      "iso": "MA-BOD",
+      "category": "province",
+      "parentCode": "MA-11"
+    },
+    {
+      "name": "Boulemane",
+      "iso": "MA-BOM",
+      "category": "province",
+      "parentCode": "MA-03"
+    },
+    {
+      "name": "Béni Mellal",
+      "iso": "MA-BEM",
+      "category": "province",
+      "parentCode": "MA-05"
+    },
+    {
+      "name": "Chefchaouen",
+      "iso": "MA-CHE",
+      "category": "province",
+      "parentCode": "MA-01"
+    },
+    {
+      "name": "Chichaoua",
+      "iso": "MA-CHI",
+      "category": "province",
+      "parentCode": "MA-07"
+    },
+    {
+      "name": "Chtouka-Ait Baha",
+      "iso": "MA-CHT",
+      "category": "province",
+      "parentCode": "MA-06"
+    },
+    {
+      "name": "Driouch",
+      "iso": "MA-DRI",
+      "category": "province",
+      "parentCode": "MA-02"
+    },
+    {
+      "name": "El Hajeb",
+      "iso": "MA-HAJ",
+      "category": "province",
+      "parentCode": "MA-03"
+    },
+    {
+      "name": "El Jadida",
+      "iso": "MA-JDI",
+      "category": "province",
+      "parentCode": "MA-06"
+    },
+    {
+      "name": "El Kelâa des Sraghna",
+      "iso": "MA-KES",
+      "category": "province",
+      "parentCode": "MA-07"
+    },
+    {
+      "name": "Errachidia",
+      "iso": "MA-ERR",
+      "category": "province",
+      "parentCode": "MA-08"
+    },
+    {
+      "name": "Es-Semara (EH-partial)",
+      "iso": "MA-ESM",
+      "category": "province",
+      "parentCode": "MA-11"
+    },
+    {
+      "name": "Essaouira",
+      "iso": "MA-ESI",
+      "category": "province",
+      "parentCode": "MA-07"
+    },
+    {
+      "name": "Fahs-Anjra",
+      "iso": "MA-FAH",
+      "category": "province",
+      "parentCode": "MA-01"
+    },
+    {
+      "name": "Figuig",
+      "iso": "MA-FIG",
+      "category": "province",
+      "parentCode": "MA-02"
+    },
+    {
+      "name": "Fquih Ben Salah",
+      "iso": "MA-FQH",
+      "category": "province",
+      "parentCode": "MA-05"
+    },
+    {
+      "name": "Guelmim",
+      "iso": "MA-GUE",
+      "category": "province",
+      "parentCode": "MA-10"
+    },
+    {
+      "name": "Guercif",
+      "iso": "MA-GUF",
+      "category": "province",
+      "parentCode": "MA-02"
+    },
+    {
+      "name": "Ifrane",
+      "iso": "MA-IFR",
+      "category": "province",
+      "parentCode": "MA-03"
+    },
+    {
+      "name": "Jerada",
+      "iso": "MA-JRA",
+      "category": "province",
+      "parentCode": "MA-02"
+    },
+    {
+      "name": "Khemisset",
+      "iso": "MA-KHE",
+      "category": "province",
+      "parentCode": "MA-04"
+    },
+    {
+      "name": "Khenifra",
+      "iso": "MA-KHN",
+      "category": "province",
+      "parentCode": "MA-05"
+    },
+    {
+      "name": "Khouribga",
+      "iso": "MA-KHO",
+      "category": "province",
+      "parentCode": "MA-05"
+    },
+    {
+      "name": "Kénitra",
+      "iso": "MA-KEN",
+      "category": "province",
+      "parentCode": "MA-04"
+    },
+    {
+      "name": "Larache",
+      "iso": "MA-LAR",
+      "category": "province",
+      "parentCode": "MA-01"
+    },
+    {
+      "name": "Laâyoune (EH)",
+      "iso": "MA-LAA",
+      "category": "province",
+      "parentCode": "MA-11"
+    },
+    {
+      "name": "Midelt",
+      "iso": "MA-MID",
+      "category": "province",
+      "parentCode": "MA-08"
+    },
+    {
+      "name": "Moulay Yacoub",
+      "iso": "MA-MOU",
+      "category": "province",
+      "parentCode": "MA-03"
+    },
+    {
+      "name": "Médiouna",
+      "iso": "MA-MED",
+      "category": "province",
+      "parentCode": "MA-06"
+    },
+    {
+      "name": "Nador",
+      "iso": "MA-NAD",
+      "category": "province",
+      "parentCode": "MA-02"
+    },
+    {
+      "name": "Nouaceur",
+      "iso": "MA-NOU",
+      "category": "province",
+      "parentCode": "MA-04"
+    },
+    {
+      "name": "Ouarzazate",
+      "iso": "MA-OUA",
+      "category": "province",
+      "parentCode": "MA-08"
+    },
+    {
+      "name": "Oued Ed-Dahab (EH)",
+      "iso": "MA-OUD",
+      "category": "province",
+      "parentCode": "MA-12"
+    },
+    {
+      "name": "Ouezzane",
+      "iso": "MA-OUZ",
+      "category": "province",
+      "parentCode": "MA-01"
+    },
+    {
+      "name": "Rehamna",
+      "iso": "MA-REH",
+      "category": "province",
+      "parentCode": "MA-07"
+    },
+    {
+      "name": "Safi",
+      "iso": "MA-SAF",
+      "category": "province",
+      "parentCode": "MA-07"
+    },
+    {
+      "name": "Sefrou",
+      "iso": "MA-SEF",
+      "category": "province",
+      "parentCode": "MA-03"
+    },
+    {
+      "name": "Settat",
+      "iso": "MA-SET",
+      "category": "province",
+      "parentCode": "MA-06"
+    },
+    {
+      "name": "Sidi Bennour",
+      "iso": "MA-SIB",
+      "category": "province",
+      "parentCode": "MA-06"
+    },
+    {
+      "name": "Sidi Ifni",
+      "iso": "MA-SIF",
+      "category": "province",
+      "parentCode": "MA-10"
+    },
+    {
+      "name": "Sidi Kacem",
+      "iso": "MA-SIK",
+      "category": "province",
+      "parentCode": "MA-04"
+    },
+    {
+      "name": "Sidi Slimane",
+      "iso": "MA-SIL",
+      "category": "province",
+      "parentCode": "MA-04"
+    },
+    {
+      "name": "Tan-Tan (EH-partial)",
+      "iso": "MA-TNT",
+      "category": "province",
+      "parentCode": "MA-10"
+    },
+    {
+      "name": "Taounate",
+      "iso": "MA-TAO",
+      "category": "province",
+      "parentCode": "MA-03"
+    },
+    {
+      "name": "Taourirt",
+      "iso": "MA-TAI",
+      "category": "province",
+      "parentCode": "MA-02"
+    },
+    {
+      "name": "Tarfaya (EH-partial)",
+      "iso": "MA-TAF",
+      "category": "province",
+      "parentCode": "MA-11"
+    },
+    {
+      "name": "Taroudant",
+      "iso": "MA-TAR",
+      "category": "province",
+      "parentCode": "MA-09"
+    },
+    {
+      "name": "Tata",
+      "iso": "MA-TAT",
+      "category": "province",
+      "parentCode": "MA-09"
+    },
+    {
+      "name": "Taza",
+      "iso": "MA-TAZ",
+      "category": "province",
+      "parentCode": "MA-03"
+    },
+    {
+      "name": "Tinghir",
+      "iso": "MA-TIN",
+      "category": "province",
+      "parentCode": "MA-08"
+    },
+    {
+      "name": "Tiznit",
+      "iso": "MA-TIZ",
+      "category": "province",
+      "parentCode": "MA-09"
+    },
+    {
+      "name": "Tétouan",
+      "iso": "MA-TET",
+      "category": "province",
+      "parentCode": "MA-01"
+    },
+    {
+      "name": "Youssoufia",
+      "iso": "MA-YUS",
+      "category": "province",
+      "parentCode": "MA-07"
+    },
+    {
+      "name": "Zagora",
+      "iso": "MA-ZAG",
+      "category": "province",
+      "parentCode": "MA-08"
+    },
+    {
+      "name": "Agadir-Ida-Ou-Tanane",
+      "iso": "MA-AGD",
+      "category": "prefecture",
+      "parentCode": "MA-09"
+    },
+    {
+      "name": "Casablanca",
+      "iso": "MA-CAS",
+      "category": "prefecture",
+      "parentCode": "MA-06"
+    },
+    {
+      "name": "Fès",
+      "iso": "MA-FES",
+      "category": "prefecture",
+      "parentCode": "MA-03"
+    },
+    {
+      "name": "Inezgane-Ait Melloul",
+      "iso": "MA-INE",
+      "category": "prefecture",
+      "parentCode": "MA-09"
+    },
+    {
+      "name": "Marrakech",
+      "iso": "MA-MAR",
+      "category": "prefecture",
+      "parentCode": "MA-07"
+    },
+    {
+      "name": "Meknès",
+      "iso": "MA-MEK",
+      "category": "prefecture",
+      "parentCode": "MA-03"
+    },
+    {
+      "name": "Mohammadia",
+      "iso": "MA-MOH",
+      "category": "prefecture",
+      "parentCode": "MA-06"
+    },
+    {
+      "name": "M’diq-Fnideq",
+      "iso": "MA-MDF",
+      "category": "prefecture",
+      "parentCode": "MA-01"
+    },
+    {
+      "name": "Oujda-Angad",
+      "iso": "MA-OUJ",
+      "category": "prefecture",
+      "parentCode": "MA-02"
+    },
+    {
+      "name": "Rabat",
+      "iso": "MA-RAB",
+      "category": "prefecture",
+      "parentCode": "MA-04"
+    },
+    {
+      "name": "Salé",
+      "iso": "MA-SAL",
+      "category": "prefecture",
+      "parentCode": "MA-04"
+    },
+    {
+      "name": "Skhirate-Témara",
+      "iso": "MA-SKH",
+      "category": "prefecture",
+      "parentCode": "MA-04"
+    },
+    {
+      "name": "Tanger-Assilah",
+      "iso": "MA-TNG",
+      "category": "prefecture",
+      "parentCode": "MA-01"
     }
   ],
   "zipRegex": "^(\\d{5})$"
