@@ -5,15 +5,15 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Bjelovarsko-bilogorska ?upanija",
+      "name": "Bjelovarsko-bilogorska županija",
       "iso": "HR-07"
     },
     {
-      "name": "Brodsko-posavska ?upanija",
+      "name": "Brodsko-posavska županija",
       "iso": "HR-12"
     },
     {
-      "name": "Dubrova?ko-neretvanska ?upanija",
+      "name": "Dubrovačko-neretvanska županija",
       "iso": "HR-19"
     },
     {
@@ -21,71 +21,71 @@
       "iso": "HR-21"
     },
     {
-      "name": "Istarska ?upanija",
+      "name": "Istarska županija",
       "iso": "HR-18"
     },
     {
-      "name": "Karlova?ka ?upanija",
+      "name": "Karlovačka županija",
       "iso": "HR-04"
     },
     {
-      "name": "Koprivni?ko-kri?eva?ka ?upanija",
+      "name": "Koprivničko-križevačka županija",
       "iso": "HR-06"
     },
     {
-      "name": "Krapinsko-zagorska ?upanija",
+      "name": "Krapinsko-zagorska županija",
       "iso": "HR-02"
     },
     {
-      "name": "Li?ko-senjska ?upanija",
+      "name": "Ličko-senjska županija",
       "iso": "HR-09"
     },
     {
-      "name": "Me?imurska ?upanija",
+      "name": "Međimurska županija",
       "iso": "HR-20"
     },
     {
-      "name": "Osje?ko-baranjska ?upanija",
+      "name": "Osječko-baranjska županija",
       "iso": "HR-14"
     },
     {
-      "name": "Po?e?ko-slavonska ?upanija",
+      "name": "Požeško-slavonska županija",
       "iso": "HR-11"
     },
     {
-      "name": "Primorsko-goranska ?upanija",
+      "name": "Primorsko-goranska županija",
       "iso": "HR-08"
     },
     {
-      "name": "Sisa?ko-moslava?ka ?upanija",
+      "name": "Sisa?ko-moslava?ka županija",
       "iso": "HR-03"
     },
     {
-      "name": "Splitsko-dalmatinska ?upanija",
+      "name": "Splitsko-dalmatinska županija",
       "iso": "HR-17"
     },
     {
-      "name": "Vara?dinska ?upanija",
+      "name": "Vara?dinska županija",
       "iso": "HR-05"
     },
     {
-      "name": "Viroviti?ko-podravska ?upanija",
+      "name": "Viroviti?ko-podravska županija",
       "iso": "HR-10"
     },
     {
-      "name": "Vukovarsko-srijemska ?upanija",
+      "name": "Vukovarsko-srijemska županija",
       "iso": "HR-16"
     },
     {
-      "name": "Zadarska ?upanija",
+      "name": "Zadarska županija",
       "iso": "HR-13"
     },
     {
-      "name": "Zagreba?ka ?upanija",
+      "name": "Zagreba?ka županija",
       "iso": "HR-01"
     },
     {
-      "name": "?ibensko-kninska ?upanija",
+      "name": "?ibensko-kninska županija",
       "iso": "HR-15"
     }
   ],
