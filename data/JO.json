@@ -5,52 +5,52 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Al Balq?'",
-      "iso": "JO-BA"
+      "name": "‘Ajlūn",
+      "iso": "JO-AJ"
     },
     {
-      "name": "Al ?Aqabah",
+      "name": "Al ‘Aqabah",
       "iso": "JO-AQ"
     },
     {
-      "name": "Az Zarq?'",
-      "iso": "JO-AZ"
+      "name": "Al ‘A̅şimah",
+      "iso": "JO-AM"
     },
     {
-      "name": "A? ?af?lah",
+      "name": "Al Balqā’",
+      "iso": "JO-BA"
+    },
+    {
+      "name": "Al Karak",
+      "iso": "JO-KA"
+    },
+    {
+      "name": "Al Mafraq",
+      "iso": "JO-MA"
+    },
+    {
+      "name": "Aţ Ţafīlah",
       "iso": "JO-AT"
+    },
+    {
+      "name": "Az Zarqā’",
+      "iso": "JO-AZ"
     },
     {
       "name": "Irbid",
       "iso": "JO-IR"
     },
     {
-      "name": "Jerash",
+      "name": "Jarash",
       "iso": "JO-JA"
     },
     {
-      "name": "Karak",
-      "iso": "JO-KA"
-    },
-    {
-      "name": "Ma'?n",
+      "name": "Ma‘ān",
       "iso": "JO-MN"
     },
     {
-      "name": "Mafraq",
-      "iso": "JO-MA"
-    },
-    {
-      "name": "M?dab?",
+      "name": "Mādabā",
       "iso": "JO-MD"
-    },
-    {
-      "name": "?Ajl?n",
-      "iso": "JO-AJ"
-    },
-    {
-      "name": "�Amm?n",
-      "iso": "JO-AM"
     }
   ],
   "zipRegex": "^(\\d{5})$"
