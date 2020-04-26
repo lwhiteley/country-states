@@ -6,67 +6,93 @@
   "states": [
     {
       "name": "Almaty",
-      "iso": "KZ-ALA"
+      "iso": "KZ-ALA",
+      "category": "city"
     },
     {
       "name": "Almaty oblysy",
-      "iso": "KZ-ALM"
+      "iso": "KZ-ALM",
+      "category": "region"
     },
     {
       "name": "Aqmola oblysy",
-      "iso": "KZ-AKM"
+      "iso": "KZ-AKM",
+      "category": "region"
     },
     {
-      "name": "Aqt?be oblysy",
-      "iso": "KZ-AKT"
+      "name": "Aqtöbe oblysy",
+      "iso": "KZ-AKT",
+      "category": "region"
     },
     {
       "name": "Astana",
-      "iso": "KZ-AST"
+      "iso": "KZ-AST",
+      "category": "city"
     },
     {
-      "name": "Atyra? oblysy",
-      "iso": "KZ-ATY"
+      "name": "Atyraū oblysy",
+      "iso": "KZ-ATY",
+      "category": "region"
     },
     {
       "name": "Batys Qazaqstan oblysy",
-      "iso": "KZ-ZAP"
+      "iso": "KZ-ZAP",
+      "category": "region"
     },
     {
-      "name": "Mangghysta? oblysy",
-      "iso": "KZ-MAN"
+      "name": "Bayqongyr",
+      "iso": "KZ-BAY",
+      "category": "city"
     },
     {
-      "name": "Ongt?stik Qazaqstan oblysy",
-      "iso": "KZ-YUZ"
+      "name": "Mangghystaū oblysy",
+      "iso": "KZ-MAN",
+      "category": "region"
     },
     {
       "name": "Pavlodar oblysy",
-      "iso": "KZ-PAV"
+      "iso": "KZ-PAV",
+      "category": "region"
     },
     {
       "name": "Qaraghandy oblysy",
-      "iso": "KZ-KAR"
+      "iso": "KZ-KAR",
+      "category": "region"
     },
     {
       "name": "Qostanay oblysy",
-      "iso": "KZ-KUS"
+      "iso": "KZ-KUS",
+      "category": "region"
     },
     {
       "name": "Qyzylorda oblysy",
-      "iso": "KZ-KZY"
+      "iso": "KZ-KZY",
+      "category": "region"
     },
     {
       "name": "Shyghys Qazaqstan oblysy",
-      "iso": "KZ-VOS"
+      "iso": "KZ-VOS",
+      "category": "region"
     },
     {
-      "name": "Solt?stik Qazaqstan oblysy",
-      "iso": "KZ-SEV"
+      "name": "Shymkent",
+      "iso": "KZ-SHY",
+      "category": "city"
+    },
+    {
+      "name": "Soltüstik Qazaqstan oblysy",
+      "iso": "KZ-SEV",
+      "category": "region"
+    },
+    {
+      "name": "Türkistan oblysy",
+      "iso": "KZ-YUZ",
+      "category": "region"
     },
     {
       "name": "Zhambyl oblysy",
-      "iso": "KZ-ZHA"
+      "iso": "KZ-ZHA",
+      "category": "region"
     }
   ],
   "zipRegex": "^(\\d{6})$"
