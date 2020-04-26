@@ -33,7 +33,7 @@
       "iso": "JP-34"
     },
     {
-      "name": "Hokkaid?",
+      "name": "Hokkaidô",
       "iso": "JP-01"
     },
     {
@@ -49,7 +49,7 @@
       "iso": "JP-07"
     },
     {
-      "name": "Hy?go",
+      "name": "Hyôgo",
       "iso": "JP-28"
     },
     {
@@ -77,16 +77,16 @@
       "iso": "JP-14"
     },
     {
+      "name": "Kôti",
+      "iso": "JP-39"
+    },
+    {
       "name": "Kumamoto",
       "iso": "JP-43"
     },
     {
-      "name": "Ky?to",
+      "name": "Kyôto",
       "iso": "JP-26"
-    },
-    {
-      "name": "K?ti",
-      "iso": "JP-39"
     },
     {
       "name": "Mie",
@@ -117,12 +117,20 @@
       "iso": "JP-15"
     },
     {
+      "name": "Ôita",
+      "iso": "JP-44"
+    },
+    {
       "name": "Okayama",
       "iso": "JP-33"
     },
     {
       "name": "Okinawa",
       "iso": "JP-47"
+    },
+    {
+      "name": "Ôsaka",
+      "iso": "JP-27"
     },
     {
       "name": "Saga",
@@ -149,12 +157,16 @@
       "iso": "JP-12"
     },
     {
+      "name": "Totigi",
+      "iso": "JP-09"
+    },
+    {
       "name": "Tokusima",
       "iso": "JP-36"
     },
     {
-      "name": "Totigi",
-      "iso": "JP-09"
+      "name": "Tôkyô",
+      "iso": "JP-13"
     },
     {
       "name": "Tottori",
@@ -163,10 +175,6 @@
     {
       "name": "Toyama",
       "iso": "JP-16"
-    },
-    {
-      "name": "T?ky?",
-      "iso": "JP-13"
     },
     {
       "name": "Wakayama",
@@ -183,14 +191,6 @@
     {
       "name": "Yamanasi",
       "iso": "JP-19"
-    },
-    {
-      "name": "?ita",
-      "iso": "JP-44"
-    },
-    {
-      "name": "?saka",
-      "iso": "JP-27"
     }
   ],
   "zipRegex": "^(\\d{3}-\\d{4})$"
