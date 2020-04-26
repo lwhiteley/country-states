@@ -9,87 +9,99 @@
       "iso": "IR-32"
     },
     {
-      "name": "Ardab?l",
+      "name": "Ardabīl",
       "iso": "IR-03"
     },
     {
-      "name": "B?shehr",
+      "name": "Āz̄ārbāyjān-e Ghārbī",
+      "iso": "IR-02"
+    },
+    {
+      "name": "Āz̄ārbāyjān-e Shārqī",
+      "iso": "IR-01"
+    },
+    {
+      "name": "Būshehr",
       "iso": "IR-06"
     },
     {
-      "name": "Chah?r Ma??ll va Bakht??r?",
+      "name": "Chahār Maḩāl va Bakhtīārī",
       "iso": "IR-08"
     },
     {
-      "name": "E?fah?n",
+      "name": "Eşfahān",
       "iso": "IR-04"
     },
     {
-      "name": "F?rs",
+      "name": "Fārs",
       "iso": "IR-14"
     },
     {
-      "name": "Golest?n",
-      "iso": "IR-27"
-    },
-    {
-      "name": "G?l?n",
+      "name": "Gīlān",
       "iso": "IR-19"
     },
     {
-      "name": "Hamad?n",
+      "name": "Golestān",
+      "iso": "IR-27"
+    },
+    {
+      "name": "Hamadān",
       "iso": "IR-24"
     },
     {
-      "name": "Hormozg?n",
+      "name": "Hormozgān",
       "iso": "IR-23"
     },
     {
-      "name": "Kerm?n",
+      "name": "Īlām",
+      "iso": "IR-05"
+    },
+    {
+      "name": "Kermān",
       "iso": "IR-15"
     },
     {
-      "name": "Kerm?nsh?h",
+      "name": "Kermānshāh",
       "iso": "IR-17"
     },
     {
-      "name": "Khor?s?n-e Jan?b?",
+      "name": "Khorāsān-e Jonūbī",
       "iso": "IR-29"
     },
     {
-      "name": "Khor?s?n-e Razav?",
+      "name": "Khorāsān-e Raẕavī",
       "iso": "IR-30"
     },
     {
-      "name": "Khor?s?n-e Shem?l?",
+      "name": "Khorāsān-e Shomālī",
       "iso": "IR-31"
     },
     {
-      "name": "Kh?zest?n",
+      "name": "Khūzestān",
       "iso": "IR-10"
     },
     {
-      "name": "Kohg?l?yeh va B?yer A?mad",
+      "name": "Kohgīlūyeh va Bowyer Aḩmad",
       "iso": "IR-18"
     },
     {
-      "name": "Kordest?n",
+      "name": "Kordestān",
       "iso": "IR-16"
     },
     {
-      "name": "Lorest?n",
+      "name": "Lorestān",
       "iso": "IR-20"
     },
     {
-      "name": "Markaz?",
+      "name": "Markazī",
       "iso": "IR-22"
     },
     {
-      "name": "M?zandar?n",
+      "name": "Māzandarān",
       "iso": "IR-21"
     },
     {
-      "name": "Qazv?n",
+      "name": "Qazvīn",
       "iso": "IR-28"
     },
     {
@@ -97,15 +109,15 @@
       "iso": "IR-26"
     },
     {
-      "name": "Semn?n",
+      "name": "Semnān",
       "iso": "IR-12"
     },
     {
-      "name": "S?st?n va Bal?chest?n",
+      "name": "Sīstān va Balūchestān",
       "iso": "IR-13"
     },
     {
-      "name": "Tehr?n",
+      "name": "Tehrān",
       "iso": "IR-07"
     },
     {
@@ -113,20 +125,8 @@
       "iso": "IR-25"
     },
     {
-      "name": "Zanj?n",
+      "name": "Zanjān",
       "iso": "IR-11"
-    },
-    {
-      "name": "?z?arb?yj?n-e Gharb?",
-      "iso": "IR-02"
-    },
-    {
-      "name": "?z?arb?yj?n-e Sharq?",
-      "iso": "IR-01"
-    },
-    {
-      "name": "?l?m",
-      "iso": "IR-05"
     }
   ],
   "zipRegex": "^\\d{5}([\\-]\\d{5})?$"
