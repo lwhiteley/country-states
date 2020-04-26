@@ -5,7 +5,7 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "A Coru?a",
+      "name": "A Coruña",
       "iso": "ES-C",
       "subdivision": "Province"
     },
@@ -20,7 +20,7 @@
       "subdivision": "Province"
     },
     {
-      "name": "Almer?a",
+      "name": "Almería",
       "iso": "ES-AL",
       "subdivision": "Province"
     },
@@ -55,7 +55,7 @@
       "subdivision": "Province"
     },
     {
-      "name": "Castell?n",
+      "name": "Castellón",
       "iso": "ES-CS",
       "subdivision": "Province"
     },
@@ -70,17 +70,17 @@
       "subdivision": "Province"
     },
     {
-      "name": "C?ceres",
+      "name": "Cáceres",
       "iso": "ES-CC",
       "subdivision": "Province"
     },
     {
-      "name": "C?diz",
+      "name": "Cádiz",
       "iso": "ES-CA",
       "subdivision": "Province"
     },
     {
-      "name": "C?rdoba",
+      "name": "Córdoba",
       "iso": "ES-CO",
       "subdivision": "Province"
     },
@@ -100,7 +100,7 @@
       "subdivision": "Province"
     },
     {
-      "name": "Guip?zcoa",
+      "name": "Gipuzkoa",
       "iso": "ES-SS",
       "subdivision": "Province"
     },
@@ -115,7 +115,7 @@
       "subdivision": "Province"
     },
     {
-      "name": "Ja?n",
+      "name": "Jaén",
       "iso": "ES-J",
       "subdivision": "Province"
     },
@@ -130,7 +130,7 @@
       "subdivision": "Province"
     },
     {
-      "name": "Le?n",
+      "name": "León",
       "iso": "ES-LE",
       "subdivision": "Province"
     },
@@ -155,7 +155,7 @@
       "subdivision": "Province"
     },
     {
-      "name": "M?laga",
+      "name": "Málaga",
       "iso": "ES-MA",
       "subdivision": "Province"
     },
@@ -245,12 +245,12 @@
       "subdivision": "Province"
     },
     {
-      "name": "?lava",
+      "name": "Álava",
       "iso": "ES-VI",
       "subdivision": "Province"
     },
     {
-      "name": "?vila",
+      "name": "Ávila",
       "iso": "ES-AV",
       "subdivision": "Province"
     },
@@ -265,12 +265,12 @@
       "subdivision": "autonomous city in North Africa"
     },
     {
-      "name": "Andaluc?a",
+      "name": "Andalucía",
       "iso": "ES-AN",
       "subdivision": "autonomous community"
     },
     {
-      "name": "Arag?n",
+      "name": "Aragón",
       "iso": "ES-AR",
       "subdivision": "autonomous community"
     },
@@ -290,7 +290,7 @@
       "subdivision": "autonomous community"
     },
     {
-      "name": "Castilla y Le?n",
+      "name": "Castilla y León",
       "iso": "ES-CL",
       "subdivision": "autonomous community"
     },
@@ -330,7 +330,7 @@
       "subdivision": "autonomous community"
     },
     {
-      "name": "Murcia, Regi?n de",
+      "name": "Murcia, Región de",
       "iso": "ES-MC",
       "subdivision": "autonomous community"
     },
@@ -340,7 +340,7 @@
       "subdivision": "autonomous community"
     },
     {
-      "name": "Pa?s Vasco",
+      "name": "País Vasco",
       "iso": "ES-PV",
       "subdivision": "autonomous community"
     },
