@@ -6,55 +6,93 @@
   "states": [
     {
       "name": "Adrar",
-      "iso": "MR-07"
+      "iso": "MR-07",
+      "category": "region"
     },
     {
       "name": "Assaba",
-      "iso": "MR-03"
+      "iso": "MR-03",
+      "category": "region"
     },
     {
       "name": "Brakna",
-      "iso": "MR-05"
+      "iso": "MR-05",
+      "category": "region"
     },
     {
-      "name": "Dakhlet Nou?dhibou",
-      "iso": "MR-08"
+      "name": "Dakhlet Nouâdhibou",
+      "iso": "MR-08",
+      "category": "region"
     },
     {
       "name": "Gorgol",
-      "iso": "MR-04"
+      "iso": "MR-04",
+      "category": "region"
     },
     {
       "name": "Guidimaka",
-      "iso": "MR-10"
+      "iso": "MR-10",
+      "category": "region"
     },
     {
       "name": "Hodh ech Chargui",
-      "iso": "MR-01"
+      "iso": "MR-01",
+      "category": "region"
     },
     {
       "name": "Hodh el Gharbi",
-      "iso": "MR-02"
+      "iso": "MR-02",
+      "category": "region"
     },
     {
       "name": "Inchiri",
-      "iso": "MR-12"
+      "iso": "MR-12",
+      "category": "region"
     },
     {
-      "name": "Nouakchott",
-      "iso": "MR-NKC"
+      "name": "Nouakchott Nord",
+      "iso": "MR-14",
+      "category": "region"
+    },
+    {
+      "name": "Nouakchott Ouest",
+      "iso": "MR-13",
+      "category": "region"
+    },
+    {
+      "name": "Nouakchott Sud",
+      "iso": "MR-15",
+      "category": "region"
+    },
+    {
+      "name": "Nuwākshūţ al Gharbīyah",
+      "iso": "MR-13",
+      "category": "region"
+    },
+    {
+      "name": "Nuwākshūţ al Janūbīyah",
+      "iso": "MR-15",
+      "category": "region"
+    },
+    {
+      "name": "Nuwākshūţ ash Shamālīyah",
+      "iso": "MR-14",
+      "category": "region"
     },
     {
       "name": "Tagant",
-      "iso": "MR-09"
+      "iso": "MR-09",
+      "category": "region"
     },
     {
       "name": "Tiris Zemmour",
-      "iso": "MR-11"
+      "iso": "MR-11",
+      "category": "region"
     },
     {
       "name": "Trarza",
-      "iso": "MR-06"
+      "iso": "MR-06",
+      "category": "region"
     }
   ],
   "zipRegex": ""
