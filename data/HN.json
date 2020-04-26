@@ -5,7 +5,7 @@
   "hasPostalCodes": true,
   "states": [
     {
-      "name": "Atl?ntida",
+      "name": "Atlántida",
       "iso": "HN-AT"
     },
     {
@@ -13,7 +13,7 @@
       "iso": "HN-CH"
     },
     {
-      "name": "Col?n",
+      "name": "Colón",
       "iso": "HN-CL"
     },
     {
@@ -21,19 +21,19 @@
       "iso": "HN-CM"
     },
     {
-      "name": "Cop?n",
+      "name": "Copán",
       "iso": "HN-CP"
     },
     {
-      "name": "Cort?s",
+      "name": "Cortés",
       "iso": "HN-CR"
     },
     {
-      "name": "El Para?so",
+      "name": "El Paraíso",
       "iso": "HN-EP"
     },
     {
-      "name": "Francisco Moraz?n",
+      "name": "Francisco Morazán",
       "iso": "HN-FM"
     },
     {
@@ -41,11 +41,11 @@
       "iso": "HN-GD"
     },
     {
-      "name": "Intibuc?",
+      "name": "Intibucá",
       "iso": "HN-IN"
     },
     {
-      "name": "Islas de la Bah?a",
+      "name": "Islas de la Bahía",
       "iso": "HN-IB"
     },
     {
@@ -65,7 +65,7 @@
       "iso": "HN-OL"
     },
     {
-      "name": "Santa B?rbara",
+      "name": "Santa Bárbara",
       "iso": "HN-SB"
     },
     {
